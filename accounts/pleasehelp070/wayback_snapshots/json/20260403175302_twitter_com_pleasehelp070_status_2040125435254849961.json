@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2040073981429174466",
+    "created_at": "2026-04-03T17:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040125435254849961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022980944723095552",
+          "start": 0,
+          "username": "tanka_TWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040125435254849961",
+    "in_reply_to_user_id": "2022980944723095552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040073981429174466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanka_TWT 药贩子很多都是骗人的要注意哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2040073981429174466",
+        "created_at": "2026-04-03T17:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040125435254849961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022980944723095552",
+              "start": 0,
+              "username": "tanka_TWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040125435254849961",
+        "in_reply_to_user_id": "2022980944723095552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040073981429174466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanka_TWT 药贩子很多都是骗人的要注意哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022980944723095552",
+        "conversation_id": "2040073981429174466",
+        "created_at": "2026-04-03T14:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040073981429174466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040073981429174466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀我好想吃唑吡坦但是我开不出来找药贩子又太贵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/焦虑/交流障碍 メンヘラ/查成分回fo/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2040120380342649313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 209,
+          "like_count": 1424,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 292
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼\n丨ptsd 因創傷而躲藏\n丨FOW參與 接受藥物咨詢投稿\n丨私信解锁RC菜单\n丨已逝的愛人@Edward_8964\n丨只是病弱小貓無法為任何負責 喜歡可以投餵\n丨有什么事跟1161说去吧！！\n丨提問https://t.co/Nz6tp4jZsY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 145,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 122,
+                "url": "https://t.co/Nz6tp4jZsY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/J3Aw5nOZQt"
+              }
+            ]
+          }
+        },
+        "id": "2022980944723095552",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2032439798405964212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 267,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/J3Aw5nOZQt",
+        "username": "tanka_TWT",
+        "verified": false
+      }
+    ]
+  }
+}

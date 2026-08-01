@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2053075920521687510",
+    "created_at": "2026-05-09T11:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053075920521687510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1588829429333037056",
+          "start": 3,
+          "username": "435hz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053075920521687510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052669898556309649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @435hz: 特别好的朋友，最后会变成一般般的好朋友；\n好朋友，最后会变成偶尔联系的朋友；\n朋友最后会变成互相淡忘彼此的陌生人……这就是时间的力量。\n世界就是这个样子的，这是我十多年来不停地和人道别，最后得出的经验。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2053075920521687510",
+        "created_at": "2026-05-09T11:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053075920521687510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1588829429333037056",
+              "start": 3,
+              "username": "435hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053075920521687510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052669898556309649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @435hz: 特别好的朋友，最后会变成一般般的好朋友；\n好朋友，最后会变成偶尔联系的朋友；\n朋友最后会变成互相淡忘彼此的陌生人……这就是时间的力量。\n世界就是这个样子的，这是我十多年来不停地和人道别，最后得出的经验。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588829429333037056",
+        "conversation_id": "2052669898556309649",
+        "created_at": "2026-05-08T08:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052669898556309649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052669898556309649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 18467,
+          "like_count": 484,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "特别好的朋友，最后会变成一般般的好朋友；\n好朋友，最后会变成偶尔联系的朋友；\n朋友最后会变成互相淡忘彼此的陌生人……这就是时间的力量。\n世界就是这个样子的，这是我十多年来不停地和人道别，最后得出的经验。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 165,
+          "like_count": 2807,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 729
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T09:44:16.000Z",
+        "description": "三角眼观天下，覆船口吞乾坤。\n天纵英才，献忠回来。\n仅在X有账号，其它平台不是本人。",
+        "id": "1588829429333037056",
+        "name": "章工",
+        "pinned_tweet_id": "2051495346451390801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591818969236717569/q95i8uvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119909,
+          "following_count": 90,
+          "like_count": 6759,
+          "listed_count": 693,
+          "media_count": 2262,
+          "tweet_count": 19492
+        },
+        "username": "435hz",
+        "verified": false
+      }
+    ]
+  }
+}

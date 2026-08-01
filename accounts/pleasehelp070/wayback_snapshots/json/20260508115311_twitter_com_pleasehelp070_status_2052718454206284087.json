@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052366569075089910",
+    "created_at": "2026-05-08T11:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052718454206284087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052718454206284087",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052366569075089910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog 抱抱，马上就解脱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052366569075089910",
+        "created_at": "2026-05-08T11:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052718454206284087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052718454206284087",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052366569075089910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog 抱抱，马上就解脱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2052366569075089910",
+        "created_at": "2026-05-07T12:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052366569075089910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052366569075089910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 472,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想死，能不能自杀。可是要高考了，这个时候死大家绝对会以为我是抗压能力不够。\n可是实际上呢我只是累了！不想面对这一大堆其他人导致的烂摊子，高考完全不想在意了！我绝对不会因为这种优绩肤浅的东西自杀的！只是因为这个世界太无聊了，而且没有财力和精力去感受到世界里比较美好的东西！！好烦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 144,
+          "like_count": 2233,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 584
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷,愛全奉全;人與自然,和諧共生. || 喜歡畫畫、天文學、神經科學、百合、繁體字、羅小黑還有藤井風 || 促智藥/Biohacker初心者 || 一些標籤: HeteroAce/afab/ESFP/ADHDer || 友人:@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 116,
+                "username": "sysjf0"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風の歌の中",
+        "name": "🧬ビーチイ小犬(⁠U.⁠_⁠.⁠U)⁠",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050967982722170880/flg-1D0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 957,
+          "like_count": 41889,
+          "listed_count": 2,
+          "media_count": 519,
+          "tweet_count": 8794
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

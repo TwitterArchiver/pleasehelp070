@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057459456657830025",
+    "created_at": "2026-05-21T19:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T20:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057544997973725383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofuwo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057544997973725383",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057459456657830025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofuwo8964 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057459456657830025",
+        "created_at": "2026-05-21T19:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T20:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057544997973725383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057544997973725383",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057459456657830025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2057459456657830025",
+        "created_at": "2026-05-21T13:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057459456657830025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057459456657830025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我今天虽然学了，但感觉完全没有入脑。\n\n头已经有些无法思考了，痛苦来得太轻而易举，所以我不想吃药了，以后打算只吃サイレ。我今天睡了觉，然后吃了东西。发现自己从国内带过来的果冻要吃完了，想休息，想学习。在学校里看着那些比我优秀比我成绩好又比我努力有行动力，还没有生病的人，说着我讨厌的话，做着我讨厌的事，成为了我向往的人。现在邻居那边传来了噪音，我觉得好烦。真的很烦啊！我要收拾垃圾才行，可是我还没吃完东西。他们在谈论的大学，在激烈争辩的东西，我考不上也听不懂。曾经妈妈说我这个样子，周围的人都会离我而去，他们总会慢慢前进，最后我被抛在后面，谁也不记得我。现在一语成谶了，大家还真是慢慢都进学了。发小考了985，从前的朋友也去欧洲留学了。\n我却还是和从前一样，一直在心烦意乱。烦夏天短袖遮不住我左手的自残疤痕，烦老是止不住的药物副作用，烦如果退学就要回到那个被路上扬起尘土和垃圾的县城，烦因为焦虑被舔到坑坑洼洼的唇钉底托，烦我喜欢的音乐家已经十年前就死了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天虽然学了，但感觉完全没有入脑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 168,
+          "like_count": 3696,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 889
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 901,
+          "like_count": 3571,
+          "listed_count": 6,
+          "media_count": 190,
+          "tweet_count": 2727
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

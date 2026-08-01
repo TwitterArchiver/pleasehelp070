@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052882270298443780"
+      ],
+      "media_source_tweet_id": [
+        "2052882300929536139"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052985948519162255",
+    "created_at": "2026-05-09T05:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052985948519162255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1363511844128841730",
+          "start": 3,
+          "username": "hklpwky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hjtvg6UvlJ",
+          "end": 36,
+          "expanded_url": "https://x.com/hklpwky/status/2052882300929536139/photo/1",
+          "media_key": "3_2052882270298443780",
+          "start": 13,
+          "url": "https://t.co/hjtvg6UvlJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052985948519162255",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 256
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052882300929536139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hklpwky: https://t.co/hjtvg6UvlJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1508,
+        "media_key": "3_2052882270298443780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1NjFbWEAQcEU3.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052882270298443780"
+          ],
+          "media_source_tweet_id": [
+            "2052882300929536139"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052985948519162255",
+        "created_at": "2026-05-09T05:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052985948519162255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1363511844128841730",
+              "start": 3,
+              "username": "hklpwky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjtvg6UvlJ",
+              "end": 36,
+              "expanded_url": "https://x.com/hklpwky/status/2052882300929536139/photo/1",
+              "media_key": "3_2052882270298443780",
+              "start": 13,
+              "url": "https://t.co/hjtvg6UvlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052985948519162255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 256
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052882300929536139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hklpwky: https://t.co/hjtvg6UvlJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052882270298443780"
+          ]
+        },
+        "author_id": "1363511844128841730",
+        "conversation_id": "2052882300929536139",
+        "created_at": "2026-05-08T22:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052882300929536139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjtvg6UvlJ",
+              "end": 23,
+              "expanded_url": "https://x.com/hklpwky/status/2052882300929536139/photo/1",
+              "media_key": "3_2052882270298443780",
+              "start": 0,
+              "url": "https://t.co/hjtvg6UvlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052882300929536139",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 11029,
+          "like_count": 1597,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hjtvg6UvlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 160,
+          "like_count": 2656,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 686
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T15:32:20.000Z",
+        "description": "",
+        "id": "1363511844128841730",
+        "name": "deri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988223951999234048/MHSuweGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5072,
+          "following_count": 97,
+          "like_count": 118332,
+          "listed_count": 31,
+          "media_count": 113,
+          "tweet_count": 3506
+        },
+        "username": "hklpwky",
+        "verified": false
+      }
+    ]
+  }
+}

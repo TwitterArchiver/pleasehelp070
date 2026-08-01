@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039662188101791907",
+    "created_at": "2026-04-02T11:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039662188101791907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777129646867542016",
+          "start": 3,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039662188101791907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039397448616210746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sunset__3000: 为确保咱们可以同频交流，希望以下的药你至少吃过5个：\n右美沙芬，愈美片，普瑞巴林，加巴喷丁，金刚烷胺，美金刚，苯海索，苯海拉明，白兔bron，唑吡坦，佐匹克隆，扎来普隆，阿普唑仑，艾司唑仑，三唑仑，氯硝西泮，巴氯芬，甘草片，哮喘片，氯胺酮，羟…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2039397446485508096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1lLCGbgAAQiT2.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039662188101791907",
+        "created_at": "2026-04-02T11:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039662188101791907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777129646867542016",
+              "start": 3,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039662188101791907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039397448616210746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sunset__3000: 为确保咱们可以同频交流，希望以下的药你至少吃过5个：\n右美沙芬，愈美片，普瑞巴林，加巴喷丁，金刚烷胺，美金刚，苯海索，苯海拉明，白兔bron，唑吡坦，佐匹克隆，扎来普隆，阿普唑仑，艾司唑仑，三唑仑，氯硝西泮，巴氯芬，甘草片，哮喘片，氯胺酮，羟…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039397446485508096"
+          ]
+        },
+        "author_id": "1777129646867542016",
+        "conversation_id": "2039397448616210746",
+        "created_at": "2026-04-01T17:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039397448616210746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XG2YVhWXr9",
+              "end": 167,
+              "expanded_url": "https://x.com/Sunset__3000/status/2039397448616210746/photo/1",
+              "media_key": "3_2039397446485508096",
+              "start": 144,
+              "url": "https://t.co/XG2YVhWXr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039397448616210746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5652,
+          "like_count": 139,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "为确保咱们可以同频交流，希望以下的药你至少吃过5个：\n右美沙芬，愈美片，普瑞巴林，加巴喷丁，金刚烷胺，美金刚，苯海索，苯海拉明，白兔bron，唑吡坦，佐匹克隆，扎来普隆，阿普唑仑，艾司唑仑，三唑仑，氯硝西泮，巴氯芬，甘草片，哮喘片，氯胺酮，羟考酮，曲马多，噻奈普汀，安非他酮，字数上限了 https://t.co/XG2YVhWXr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "病み垢/不登校💊直fo🙇ASD&ADHD双极性障碍/交流障碍 精神病@想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 104,
+          "like_count": 700,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 159
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471926700851200/tjj6_fyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 375,
+          "like_count": 1932,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 498
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

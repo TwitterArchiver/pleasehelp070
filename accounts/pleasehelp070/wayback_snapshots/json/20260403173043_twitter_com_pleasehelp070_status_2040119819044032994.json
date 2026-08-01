@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2040119819044032994",
+    "created_at": "2026-04-03T17:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040119819044032994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2022980944723095552",
+          "start": 3,
+          "username": "tanka_TWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040119819044032994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040077128780410946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanka_TWT: 不自杀是因为承担不起自杀失败的后果  医院很贵留下的身体精神创伤也只会徒增日后的痛苦而已  要死我一定会认真思量一个100%靠谱的方案绝不给本就苟延残喘的生存加难度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2040119819044032994",
+        "created_at": "2026-04-03T17:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040119819044032994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2022980944723095552",
+              "start": 3,
+              "username": "tanka_TWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040119819044032994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040077128780410946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanka_TWT: 不自杀是因为承担不起自杀失败的后果  医院很贵留下的身体精神创伤也只会徒增日后的痛苦而已  要死我一定会认真思量一个100%靠谱的方案绝不给本就苟延残喘的生存加难度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022980944723095552",
+        "conversation_id": "2040077128780410946",
+        "created_at": "2026-04-03T14:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040077128780410946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040077128780410946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不自杀是因为承担不起自杀失败的后果  医院很贵留下的身体精神创伤也只会徒增日后的痛苦而已  要死我一定会认真思量一个100%靠谱的方案绝不给本就苟延残喘的生存加难度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/焦虑/交流障碍 メンヘラ/查成分回fo/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 205,
+          "like_count": 1358,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 279
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼\n丨ptsd 因創傷而躲藏\n丨FOW參與 接受藥物咨詢投稿\n丨私信解锁RC菜单\n丨已逝的愛人@Edward_8964\n丨只是病弱小貓無法為任何負責 喜歡可以投餵\n丨有什么事跟1161说去吧！！\n丨提問https://t.co/Nz6tp4jZsY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 145,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 122,
+                "url": "https://t.co/Nz6tp4jZsY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/J3Aw5nOZQt"
+              }
+            ]
+          }
+        },
+        "id": "2022980944723095552",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2032439798405964212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 267,
+          "like_count": 1145,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/J3Aw5nOZQt",
+        "username": "tanka_TWT",
+        "verified": false
+      }
+    ]
+  }
+}

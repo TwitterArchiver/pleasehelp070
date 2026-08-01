@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2079494713720352768"
+      ],
+      "media_source_tweet_id": [
+        "2079494723723751467"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079566781866500135",
+    "created_at": "2026-07-21T13:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079566781866500135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2046523339368476672",
+          "start": 3,
+          "username": "x_chochan_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Ob1b69EYP",
+          "end": 40,
+          "expanded_url": "https://x.com/x_chochan_x/status/2079494723723751467/photo/1",
+          "media_key": "16_2079494713720352768",
+          "start": 17,
+          "url": "https://t.co/4Ob1b69EYP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079566781866500135",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079494723723751467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_chochan_x: https://t.co/4Ob1b69EYP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "16_2079494713720352768",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNvZbKuasAAfL4M.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNvZbKuasAAfL4M.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2079494713720352768"
+          ]
+        },
+        "author_id": "2046523339368476672",
+        "conversation_id": "2079494723723751467",
+        "created_at": "2026-07-21T09:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079494723723751467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ob1b69EYP",
+              "end": 23,
+              "expanded_url": "https://x.com/x_chochan_x/status/2079494723723751467/photo/1",
+              "media_key": "16_2079494713720352768",
+              "start": 0,
+              "url": "https://t.co/4Ob1b69EYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079494723723751467",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2680,
+          "like_count": 329,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4Ob1b69EYP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2079494713720352768"
+          ],
+          "media_source_tweet_id": [
+            "2079494723723751467"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079566781866500135",
+        "created_at": "2026-07-21T13:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079566781866500135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2046523339368476672",
+              "start": 3,
+              "username": "x_chochan_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ob1b69EYP",
+              "end": 40,
+              "expanded_url": "https://x.com/x_chochan_x/status/2079494723723751467/photo/1",
+              "media_key": "16_2079494713720352768",
+              "start": 17,
+              "url": "https://t.co/4Ob1b69EYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079566781866500135",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079494723723751467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_chochan_x: https://t.co/4Ob1b69EYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 163,
+          "like_count": 3885,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 923
+        },
+        "url": "",
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T09:36:31.000Z",
+        "description": "メンヘラオタク",
+        "id": "2046523339368476672",
+        "location": "キミのぱそこん",
+        "name": "🎀ちょちゃん🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075019150339272704/GKNbwe2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 17,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 808
+        },
+        "url": "",
+        "username": "x_chochan_x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057158569506808003",
+    "created_at": "2026-05-20T17:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057158569506808003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902217890738401281",
+          "start": 3,
+          "username": "Sylvviiae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057158569506808003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056746712493134276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sylvviiae: 对于那些选择紫砂的朋友，很高兴你没有选择让我延长你的痛苦，毕竟个体的灵魂本就不应该承受命运的恶意。死亡可能是你深思熟虑后的抉择，可能是你在苦海里最后的一根稻草，也可能日常得如同对话里的一声再见，无论如何，希望你能在不会醒来的睡梦中找到我无法给予你的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057158569506808003",
+        "created_at": "2026-05-20T17:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057158569506808003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902217890738401281",
+              "start": 3,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057158569506808003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056746712493134276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sylvviiae: 对于那些选择紫砂的朋友，很高兴你没有选择让我延长你的痛苦，毕竟个体的灵魂本就不应该承受命运的恶意。死亡可能是你深思熟虑后的抉择，可能是你在苦海里最后的一根稻草，也可能日常得如同对话里的一声再见，无论如何，希望你能在不会醒来的睡梦中找到我无法给予你的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2056746712493134276",
+        "created_at": "2026-05-19T14:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056746712493134276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056746712493134276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2881,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "对于那些选择紫砂的朋友，很高兴你没有选择让我延长你的痛苦，毕竟个体的灵魂本就不应该承受命运的恶意。死亡可能是你深思熟虑后的抉择，可能是你在苦海里最后的一根稻草，也可能日常得如同对话里的一声再见，无论如何，希望你能在不会醒来的睡梦中找到我无法给予你的宁静。愿永远不再回到被凌迟的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 161,
+          "like_count": 3490,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 863
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 728,
+          "like_count": 287,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1332
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

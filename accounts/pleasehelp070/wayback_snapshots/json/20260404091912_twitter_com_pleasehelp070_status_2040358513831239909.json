@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2040358513831239909",
+    "created_at": "2026-04-04T09:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040358513831239909"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040358513831239909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只要你还活着，时间就推着你往前，就算你停下也不会完蛋，因为这是你的人生。人生从不是一张只能答一次的试卷，没有固定的标准答案，你怎么样都不会完蛋。世界辽阔，怎么走都不算错，怎么样都不会完蛋。你往前走的时候，身后的每一步都在鼓掌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2040358513831239909",
+        "created_at": "2026-04-04T09:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040358513831239909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040358513831239909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要你还活着，时间就推着你往前，就算你停下也不会完蛋，因为这是你的人生。人生从不是一张只能答一次的试卷，没有固定的标准答案，你怎么样都不会完蛋。世界辽阔，怎么走都不算错，怎么样都不会完蛋。你往前走的时候，身后的每一步都在鼓掌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中/双极性障碍/交流障碍 メンヘラ/查成分回fo/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 216,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 334
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

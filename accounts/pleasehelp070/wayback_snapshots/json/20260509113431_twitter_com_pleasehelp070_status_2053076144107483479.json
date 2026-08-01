@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052349207403794432"
+      ],
+      "media_source_tweet_id": [
+        "2052349209756787186"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053076144107483479",
+    "created_at": "2026-05-09T11:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053076144107483479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2019289944771223552",
+          "start": 3,
+          "username": "Notsu311406"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Ae9ysiOeB",
+          "end": 40,
+          "expanded_url": "https://x.com/Notsu311406/status/2052349209756787186/photo/1",
+          "media_key": "3_2052349207403794432",
+          "start": 17,
+          "url": "https://t.co/2Ae9ysiOeB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053076144107483479",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 313
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052349209756787186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Notsu311406: https://t.co/2Ae9ysiOeB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2052349207403794432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtouvZbkAAbKpB.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052349207403794432"
+          ],
+          "media_source_tweet_id": [
+            "2052349209756787186"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053076144107483479",
+        "created_at": "2026-05-09T11:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053076144107483479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2019289944771223552",
+              "start": 3,
+              "username": "Notsu311406"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ae9ysiOeB",
+              "end": 40,
+              "expanded_url": "https://x.com/Notsu311406/status/2052349209756787186/photo/1",
+              "media_key": "3_2052349207403794432",
+              "start": 17,
+              "url": "https://t.co/2Ae9ysiOeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053076144107483479",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 313
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052349209756787186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Notsu311406: https://t.co/2Ae9ysiOeB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052349207403794432"
+          ]
+        },
+        "author_id": "2019289944771223552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052349209756787186",
+        "created_at": "2026-05-07T11:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052349209756787186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ae9ysiOeB",
+              "end": 23,
+              "expanded_url": "https://x.com/Notsu311406/status/2052349209756787186/photo/1",
+              "media_key": "3_2052349207403794432",
+              "start": 0,
+              "url": "https://t.co/2Ae9ysiOeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052349209756787186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 24823,
+          "like_count": 4021,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2Ae9ysiOeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 165,
+          "like_count": 2818,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 733
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:00:18.000Z",
+        "description": "",
+        "id": "2019289944771223552",
+        "name": "Notsu",
+        "pinned_tweet_id": "2051262786572013578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033944595915329536/J5AC6Qet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12098,
+          "following_count": 1015,
+          "like_count": 21052,
+          "listed_count": 49,
+          "media_count": 1841,
+          "tweet_count": 5990
+        },
+        "username": "Notsu311406",
+        "verified": true
+      }
+    ]
+  }
+}

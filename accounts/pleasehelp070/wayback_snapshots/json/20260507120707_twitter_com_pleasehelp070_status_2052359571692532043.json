@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051790904017522693"
+      ],
+      "media_source_tweet_id": [
+        "2051790908618576333"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052359571692532043",
+    "created_at": "2026-05-07T12:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052359571692532043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1813353909412413440",
+          "start": 3,
+          "username": "sohidere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yCe4S2QGst",
+          "end": 55,
+          "expanded_url": "https://x.com/sohidere/status/2051790908618576333/photo/1",
+          "media_key": "3_2051790904017522693",
+          "start": 32,
+          "url": "https://t.co/yCe4S2QGst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052359571692532043",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 550
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051790908618576333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sohidere: ame chan birthday https://t.co/yCe4S2QGst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2051790904017522693",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHls9NNXkAUZUVw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051790904017522693"
+          ],
+          "media_source_tweet_id": [
+            "2051790908618576333"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052359571692532043",
+        "created_at": "2026-05-07T12:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052359571692532043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1813353909412413440",
+              "start": 3,
+              "username": "sohidere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCe4S2QGst",
+              "end": 55,
+              "expanded_url": "https://x.com/sohidere/status/2051790908618576333/photo/1",
+              "media_key": "3_2051790904017522693",
+              "start": 32,
+              "url": "https://t.co/yCe4S2QGst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052359571692532043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 550
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051790908618576333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sohidere: ame chan birthday https://t.co/yCe4S2QGst"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051790904017522693"
+          ]
+        },
+        "author_id": "1813353909412413440",
+        "conversation_id": "2051790908618576333",
+        "created_at": "2026-05-05T22:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051790908618576333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCe4S2QGst",
+              "end": 41,
+              "expanded_url": "https://x.com/sohidere/status/2051790908618576333/photo/1",
+              "media_key": "3_2051790904017522693",
+              "start": 18,
+              "url": "https://t.co/yCe4S2QGst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051790908618576333",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 584,
+          "impression_count": 44307,
+          "like_count": 6611,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 550
+        },
+        "reply_settings": "everyone",
+        "text": "ame chan birthday https://t.co/yCe4S2QGst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "mtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 142,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 546
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T23:24:10.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/wttach",
+                "end": 23,
+                "expanded_url": "http://instagram.com/wttach",
+                "start": 0,
+                "url": "https://t.co/V2hKlNCOCf"
+              }
+            ]
+          }
+        },
+        "id": "1813353909412413440",
+        "name": "s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050626480359477248/oqHWf47__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 14,
+          "like_count": 6122,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/V2hKlNCOCf",
+        "username": "sohidere",
+        "verified": false
+      }
+    ]
+  }
+}

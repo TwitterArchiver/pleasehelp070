@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2041761068490616872",
+    "created_at": "2026-04-08T06:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T07:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041761068490616872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634191700712390657",
+          "start": 3,
+          "username": "xiaozhongT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041761068490616872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041386400411750419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaozhongT_T: 嗯大概就是我想300fo了吧\n这是我的很满意的一张画 餐券妹od妹ed妹找我互fo谢谢喵ᯠ_   ̫ _ᯄ Ⳋ\n关注转发评论这一条抽三个宝宝\n一等奖：35r \n二等奖：20r \n三等奖：8.88r\n开奖时间为到300fo时 谢谢支持喵 htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2041386397203107840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFR2HM6bEAA-mTX.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2041761068490616872",
+        "created_at": "2026-04-08T06:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041761068490616872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634191700712390657",
+              "start": 3,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041761068490616872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041386400411750419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaozhongT_T: 嗯大概就是我想300fo了吧\n这是我的很满意的一张画 餐券妹od妹ed妹找我互fo谢谢喵ᯠ_   ̫ _ᯄ Ⳋ\n关注转发评论这一条抽三个宝宝\n一等奖：35r \n二等奖：20r \n三等奖：8.88r\n开奖时间为到300fo时 谢谢支持喵 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041386397203107840"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041386400411750419",
+        "created_at": "2026-04-07T05:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041386400411750419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UkwGxA0jc",
+              "end": 141,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2041386400411750419/photo/1",
+              "media_key": "3_2041386397203107840",
+              "start": 118,
+              "url": "https://t.co/5UkwGxA0jc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041386400411750419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4409,
+          "like_count": 115,
+          "quote_count": 2,
+          "reply_count": 61,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "嗯大概就是我想300fo了吧\n这是我的很满意的一张画 餐券妹od妹ed妹找我互fo谢谢喵ᯠ_   ̫ _ᯄ Ⳋ\n关注转发评论这一条抽三个宝宝\n一等奖：35r \n二等奖：20r \n三等奖：8.88r\n开奖时间为到300fo时 谢谢支持喵 https://t.co/5UkwGxA0jc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 143,
+          "like_count": 1733,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 408
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学家里蹲挂壁中/ed/od/骂我先骂@Alistai33955292/单机搞oc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "Alistai33955292"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 304,
+          "like_count": 1550,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 758
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

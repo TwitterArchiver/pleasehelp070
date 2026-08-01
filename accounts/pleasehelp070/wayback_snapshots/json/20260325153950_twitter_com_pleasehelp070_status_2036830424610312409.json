@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2036830424610312409",
+    "created_at": "2026-03-25T15:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036830424610312409"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036830424610312409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久没有和人交流了现在说话说不利索了都 我们来做朋友吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2036830424610312409",
+        "created_at": "2026-03-25T15:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036830424610312409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036830424610312409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没有和人交流了现在说话说不利索了都 我们来做朋友吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "ASD&ADHD交流障碍 精神病。别看了",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029900889750990848/FvQPm6NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 52,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 69
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Social causes",
+          "id": "1074751614123008000",
+          "name": "Social causes"
+        }
+      }
+    ],
+    "conversation_id": "2052358983428735232",
+    "created_at": "2026-05-07T12:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052358983428735232"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "超てんちゃん"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "ニディガ"
+        },
+        {
+          "end": 46,
+          "start": 30,
+          "tag": "ニーディーガールオーバードーズ"
+        },
+        {
+          "end": 67,
+          "start": 47,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "NGO"
+        },
+        {
+          "end": 83,
+          "start": 73,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 98,
+          "start": 84,
+          "tag": "INTERNETANGEL"
+        },
+        {
+          "end": 121,
+          "start": 99,
+          "tag": "NEEDYSTREAMEROVERLOAD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052358983428735232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "LOVE FOREVER..\n#超てんちゃん #ニディガ \n#ニーディーガールオーバードーズ\n#NEEDY_GIRL_OVERDOSE #NGO\n#NEEDY_pic #INTERNETANGEL\n#NEEDYSTREAMEROVERLOAD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Social causes",
+              "id": "1074751614123008000",
+              "name": "Social causes"
+            }
+          }
+        ],
+        "conversation_id": "2052358983428735232",
+        "created_at": "2026-05-07T12:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052358983428735232"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "超てんちゃん"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 46,
+              "start": 30,
+              "tag": "ニーディーガールオーバードーズ"
+            },
+            {
+              "end": 67,
+              "start": 47,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "NGO"
+            },
+            {
+              "end": 83,
+              "start": 73,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 98,
+              "start": 84,
+              "tag": "INTERNETANGEL"
+            },
+            {
+              "end": 121,
+              "start": 99,
+              "tag": "NEEDYSTREAMEROVERLOAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052358983428735232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "LOVE FOREVER..\n#超てんちゃん #ニディガ \n#ニーディーガールオーバードーズ\n#NEEDY_GIRL_OVERDOSE #NGO\n#NEEDY_pic #INTERNETANGEL\n#NEEDYSTREAMEROVERLOAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "mtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 142,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 543
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

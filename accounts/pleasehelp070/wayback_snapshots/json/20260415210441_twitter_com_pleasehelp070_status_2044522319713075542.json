@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043900749583654912"
+      ],
+      "media_source_tweet_id": [
+        "2043900751622058080"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2044522319713075542",
+    "created_at": "2026-04-15T21:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T22:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044522319713075542"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "NSO"
+        },
+        {
+          "end": 45,
+          "start": 25,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1584035286765506560",
+          "start": 3,
+          "username": "OMGkawaiiDevil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RbUIQ0NxS0",
+          "end": 69,
+          "expanded_url": "https://x.com/OMGkawaiiDevil/status/2043900751622058080/photo/1",
+          "media_key": "3_2043900749583654912",
+          "start": 46,
+          "url": "https://t.co/RbUIQ0NxS0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044522319713075542",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 488
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043900751622058080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OMGkawaiiDevil: #NSO #NEEDY_GIRL_OVERDOSE https://t.co/RbUIQ0NxS0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 745,
+        "media_key": "3_2043900749583654912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1k5xcWoAAatWE.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043900749583654912"
+          ],
+          "media_source_tweet_id": [
+            "2043900751622058080"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2044522319713075542",
+        "created_at": "2026-04-15T21:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T22:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044522319713075542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "NSO"
+            },
+            {
+              "end": 45,
+              "start": 25,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1584035286765506560",
+              "start": 3,
+              "username": "OMGkawaiiDevil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbUIQ0NxS0",
+              "end": 69,
+              "expanded_url": "https://x.com/OMGkawaiiDevil/status/2043900751622058080/photo/1",
+              "media_key": "3_2043900749583654912",
+              "start": 46,
+              "url": "https://t.co/RbUIQ0NxS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044522319713075542",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 488
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043900751622058080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OMGkawaiiDevil: #NSO #NEEDY_GIRL_OVERDOSE https://t.co/RbUIQ0NxS0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043900749583654912"
+          ]
+        },
+        "author_id": "1584035286765506560",
+        "conversation_id": "2043900751622058080",
+        "created_at": "2026-04-14T03:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043900751622058080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "NSO"
+            },
+            {
+              "end": 25,
+              "start": 5,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbUIQ0NxS0",
+              "end": 49,
+              "expanded_url": "https://x.com/OMGkawaiiDevil/status/2043900751622058080/photo/1",
+              "media_key": "3_2043900749583654912",
+              "start": 26,
+              "url": "https://t.co/RbUIQ0NxS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043900751622058080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 16271,
+          "like_count": 2497,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 488
+        },
+        "reply_settings": "everyone",
+        "text": "#NSO #NEEDY_GIRL_OVERDOSE https://t.co/RbUIQ0NxS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 138,
+          "like_count": 1825,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 447
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T04:14:12.000Z",
+        "description": "Jfashion ᡕᠵ᠊ᡃ່࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘𐡏 ♡\nObssesed w NGE, NSO, KPOP ✰⏤͟͟͞͞   @littlzdoll                                           \nヾ(〃^∇^)ﾉ pt/eng ツ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "littlzdoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "msha.ke/get2knowmeee#g…",
+                "end": 23,
+                "expanded_url": "https://msha.ke/get2knowmeee#get-2-know-me.xn--6ii/",
+                "start": 0,
+                "url": "https://t.co/PvqNS6j0MR"
+              }
+            ]
+          }
+        },
+        "id": "1584035286765506560",
+        "location": "Card here ⬇︎⬇︎⬇︎ ⋆. 𐙚 ˚",
+        "name": "𓆩𝑠𝑜𝑟𝑦𝑢 𝑎𝑛𝑔𝑒𝑙𓆪",
+        "pinned_tweet_id": "2039159984743649627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996088375363743744/BbU6KICS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 114,
+          "like_count": 13184,
+          "listed_count": 8,
+          "media_count": 506,
+          "tweet_count": 5354
+        },
+        "url": "https://t.co/PvqNS6j0MR",
+        "username": "OMGkawaiiDevil",
+        "verified": false
+      }
+    ]
+  }
+}

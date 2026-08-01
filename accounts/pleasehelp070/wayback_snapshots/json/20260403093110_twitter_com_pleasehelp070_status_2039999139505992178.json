@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039757612854751364",
+    "created_at": "2026-04-03T09:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039999139505992178"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039999139505992178",
+    "in_reply_to_user_id": "1986291014370545665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039757612854751364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "&gt;&lt;对了会查主页成分！只回关同好，不回关主页一大堆黄色废料或者什么都没有的小号，（会不安，害怕是前亲时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039757612854751364",
+        "created_at": "2026-04-03T09:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039999139505992178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039999139505992178",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039757612854751364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "&gt;&lt;对了会查主页成分！只回关同好，不回关主页一大堆黄色废料或者什么都没有的小号，（会不安，害怕是前亲时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039757612854751364",
+        "created_at": "2026-04-02T17:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039757612854751364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 1,
+              "tag": "友達募集"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039757612854751364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2336,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🔝#友達募集\n这是一个置顶～请和我交朋友吧！🥺欢迎dm/互fo捏💕不登校｜oder💊｜精神疾病｜交流苦手\n爱好大概是在家躺着看番打游戏 混吃等死的尼特族\n梦想是成为互联网天使\n☆*:.｡. o(≧▽≦)o .｡.:*☆\n喜欢听术力口/一些日本流行/电子音乐…？\n喜欢萌萌的二次元小女孩❤️‍🩹\n就这样！其他评论补充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 181,
+          "like_count": 1241,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 261
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

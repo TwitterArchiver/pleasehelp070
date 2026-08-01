@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039876621394739495",
+    "created_at": "2026-04-03T09:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039992441886101873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039992441886101873",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039876621394739495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2039875857851015169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8YSPUa4AE_kV2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039876621394739495",
+        "created_at": "2026-04-03T09:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039992441886101873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039992441886101873",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039876621394739495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039875857851015169"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2039876621394739495",
+        "created_at": "2026-04-03T01:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039876621394739495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AUyN9bz2x",
+              "end": 86,
+              "expanded_url": "https://x.com/bisco91395061/status/2039876621394739495/photo/1",
+              "media_key": "3_2039875857851015169",
+              "start": 63,
+              "url": "https://t.co/2AUyN9bz2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039876621394739495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🙀🙀🙀🙀🙀🙀🙀🙀🙀这是哪位老大！我的天哪真的好感谢😭🥹🥹🥹🤲❤️🤲❤️！！！！！！！谢谢你的52米，我会好好对自己的！谢谢！ https://t.co/2AUyN9bz2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 175,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 246
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 61,
+          "like_count": 3729,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 315
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

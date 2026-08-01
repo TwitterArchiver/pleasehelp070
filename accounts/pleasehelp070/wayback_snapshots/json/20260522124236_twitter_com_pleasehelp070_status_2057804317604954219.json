@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057804317604954219",
+    "created_at": "2026-05-22T12:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057804317604954219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024718499206356992",
+          "start": 3,
+          "username": "FFFWEAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057804317604954219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057634065403260962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FFFWEAR: 和已经成年了社会化程度却很低的人无话可说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057804317604954219",
+        "created_at": "2026-05-22T12:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057804317604954219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024718499206356992",
+              "start": 3,
+              "username": "FFFWEAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057804317604954219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057634065403260962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FFFWEAR: 和已经成年了社会化程度却很低的人无话可说…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024718499206356992",
+        "conversation_id": "2057634065403260962",
+        "created_at": "2026-05-22T01:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057634065403260962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057634065403260962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2166,
+          "like_count": 48,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和已经成年了社会化程度却很低的人无话可说…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 174,
+          "like_count": 3869,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 905
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T05:31:33.000Z",
+        "description": "我无话可说",
+        "id": "2024718499206356992",
+        "name": "玻璃剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035006605499277313/8gwKuCTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 9,
+          "like_count": 2150,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 309
+        },
+        "username": "FFFWEAR",
+        "verified": true
+      }
+    ]
+  }
+}

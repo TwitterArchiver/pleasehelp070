@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2056988200925794320",
+    "created_at": "2026-05-20T06:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056988200925794320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1414269095416012806",
+          "start": 3,
+          "username": "Coconut_QuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056988200925794320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056774767605379321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coconut_QuQ: 你们不是一群抑郁症躯体化原生家庭崩塌的乐子婊子吗？不是天天想自杀活不下去的精神病吗？谁炫转账谁死全家。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2056988200925794320",
+        "created_at": "2026-05-20T06:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056988200925794320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1414269095416012806",
+              "start": 3,
+              "username": "Coconut_QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056988200925794320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056774767605379321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coconut_QuQ: 你们不是一群抑郁症躯体化原生家庭崩塌的乐子婊子吗？不是天天想自杀活不下去的精神病吗？谁炫转账谁死全家。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414269095416012806",
+        "conversation_id": "2056774767605379321",
+        "created_at": "2026-05-19T16:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056774767605379321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056774767605379321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6235,
+          "like_count": 252,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "你们不是一群抑郁症躯体化原生家庭崩塌的乐子婊子吗？不是天天想自杀活不下去的精神病吗？谁炫转账谁死全家。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 161,
+          "like_count": 3407,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 842
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T17:03:35.000Z",
+        "description": "一切问题过门回复 私信只回口令红包➕姓",
+        "id": "1414269095416012806",
+        "location": "坐标广深港🚪288/520线下/1314",
+        "name": "椰",
+        "pinned_tweet_id": "2051597872123326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023339779241492480/7hwhcqfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5738,
+          "following_count": 23,
+          "like_count": 96,
+          "listed_count": 10,
+          "media_count": 35,
+          "tweet_count": 60
+        },
+        "username": "Coconut_QuQ",
+        "verified": false
+      }
+    ]
+  }
+}

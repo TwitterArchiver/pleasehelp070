@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2053039925080310159",
+    "created_at": "2026-05-09T09:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053039925080310159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/russell3402/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/russell3402/status/2052674422553919684",
+          "start": 10,
+          "url": "https://t.co/BKrO5Mu14W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053039925080310159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052674422553919684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是一个0岁的大人 https://t.co/BKrO5Mu14W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2053039925080310159",
+        "created_at": "2026-05-09T09:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053039925080310159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/russell3402/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/russell3402/status/2052674422553919684",
+              "start": 10,
+              "url": "https://t.co/BKrO5Mu14W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053039925080310159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052674422553919684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是一个0岁的大人 https://t.co/BKrO5Mu14W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991045969371361280",
+        "conversation_id": "2052674422553919684",
+        "created_at": "2026-05-08T08:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052674422553919684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052674422553919684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4375,
+          "like_count": 125,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "18岁标志你是个成年人了\n如果你19岁，那代表你是一个1岁的成年人\n到36岁才是成年的成年人\n所以迷茫、困顿都是正常的\n大胆成长吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 165,
+          "like_count": 2778,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 722
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T07:28:56.000Z",
+        "description": "05年大学生\n用AI赚到人生第123456789桶金\nAI玩咖 | 独立开发者 | 连续创业\n利他是最好的商业模式 坚信文字的力量\n做流量，AI咨询+vx：zzr9552",
+        "id": "1991045969371361280",
+        "name": "Russell",
+        "pinned_tweet_id": "2048246207659880627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027629616744304640/7fyIwFFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2965,
+          "following_count": 136,
+          "like_count": 5120,
+          "listed_count": 9,
+          "media_count": 179,
+          "tweet_count": 2214
+        },
+        "username": "Russell3402",
+        "verified": true
+      }
+    ]
+  }
+}

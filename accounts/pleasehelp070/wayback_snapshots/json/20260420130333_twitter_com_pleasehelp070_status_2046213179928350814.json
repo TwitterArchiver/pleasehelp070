@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2045902736932458701",
+    "created_at": "2026-04-20T13:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046213179928350814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046213179928350814",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045902736932458701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3968,
+        "media_key": "3_2045901859022573569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSA5rBaEAEIKDY.jpg",
+        "width": 2976
+      },
+      {
+        "height": 3968,
+        "media_key": "3_2045901858976481280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSA5q2awAArr2g.jpg",
+        "width": 2976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2045902736932458701",
+        "created_at": "2026-04-20T13:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046213179928350814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046213179928350814",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045902736932458701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045901859022573569",
+            "3_2045901858976481280"
+          ]
+        },
+        "author_id": "2014723682548224000",
+        "conversation_id": "2045902736932458701",
+        "created_at": "2026-04-19T16:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045902736932458701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDFvpEOH9e",
+              "end": 39,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2045902736932458701/photo/1",
+              "media_key": "3_2045901859022573569",
+              "start": 16,
+              "url": "https://t.co/zDFvpEOH9e"
+            },
+            {
+              "display_url": "pic.x.com/zDFvpEOH9e",
+              "end": 39,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2045902736932458701/photo/1",
+              "media_key": "3_2045901858976481280",
+              "start": 16,
+              "url": "https://t.co/zDFvpEOH9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045902736932458701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2548,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "可以緊緊的擁抱我嗎？不再分開。 https://t.co/zDFvpEOH9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 143,
+          "like_count": 1949,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 487
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 順女  LGBTQ全友好   查成分 藍v互關 會亂追人（？）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/UWYWscoHis"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2027179646979334157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041245441946513408/rP371w0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 694,
+          "like_count": 10191,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3375
+        },
+        "url": "https://t.co/UWYWscoHis",
+        "username": "FanQie_CaoDamn",
+        "verified": true
+      }
+    ]
+  }
+}

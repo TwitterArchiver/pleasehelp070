@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039703724067782991",
+    "created_at": "2026-04-02T14:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039704975480410419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039704975480410419",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039703724067782991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 拥抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039703724067782991",
+        "created_at": "2026-04-02T14:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039704975480410419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039704975480410419",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039703724067782991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 拥抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2039703724067782991",
+        "created_at": "2026-04-02T13:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039703724067782991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039703724067782991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一想到自己30岁就会落后时代而自己前18年最美好的青春都浪费在了与家人和学校的勾心斗角上，并在后几十年治愈他们留下来的伤口，我就感觉这辈子有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 120,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 176
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 152,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 375
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

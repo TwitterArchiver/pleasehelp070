@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052814859369099267"
+      ],
+      "media_source_tweet_id": [
+        "2052814863047524828"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052985111810085142",
+    "created_at": "2026-05-09T05:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052985111810085142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2018097286534864896",
+          "start": 3,
+          "username": "hatsuikuo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oHD9TkwCcL",
+          "end": 112,
+          "expanded_url": "https://x.com/hatsuikuo/status/2052814863047524828/photo/1",
+          "media_key": "3_2052814859369099267",
+          "start": 89,
+          "url": "https://t.co/oHD9TkwCcL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052985111810085142",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 301
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052814863047524828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hatsuikuo: really miss being sick In the hospital \nbeing cared about Is so addictive https://t.co/oHD9TkwCcL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2052814859369099267",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0QPQJWsAMWsOZ.jpg",
+        "width": 1265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052814859369099267"
+          ],
+          "media_source_tweet_id": [
+            "2052814863047524828"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052985111810085142",
+        "created_at": "2026-05-09T05:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052985111810085142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2018097286534864896",
+              "start": 3,
+              "username": "hatsuikuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHD9TkwCcL",
+              "end": 112,
+              "expanded_url": "https://x.com/hatsuikuo/status/2052814863047524828/photo/1",
+              "media_key": "3_2052814859369099267",
+              "start": 89,
+              "url": "https://t.co/oHD9TkwCcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052985111810085142",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 301
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052814863047524828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hatsuikuo: really miss being sick In the hospital \nbeing cared about Is so addictive https://t.co/oHD9TkwCcL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052814859369099267"
+          ]
+        },
+        "author_id": "2018097286534864896",
+        "conversation_id": "2052814863047524828",
+        "created_at": "2026-05-08T18:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052814863047524828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHD9TkwCcL",
+              "end": 97,
+              "expanded_url": "https://x.com/hatsuikuo/status/2052814863047524828/photo/1",
+              "media_key": "3_2052814859369099267",
+              "start": 74,
+              "url": "https://t.co/oHD9TkwCcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052814863047524828",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 16868,
+          "like_count": 2729,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 301
+        },
+        "reply_settings": "everyone",
+        "text": "really miss being sick In the hospital \nbeing cared about Is so addictive https://t.co/oHD9TkwCcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 160,
+          "like_count": 2637,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 681
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T23:01:12.000Z",
+        "description": "𓆩 ❤︎ 𓆪 ⋮ 251 ➜ @demiseddoll ｜「 mw my rinchan 」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "demiseddoll"
+              }
+            ]
+          }
+        },
+        "id": "2018097286534864896",
+        "location": "‘012  he 〃 him 🐾 한유진—230202",
+        "name": "金星雪浪",
+        "pinned_tweet_id": "2052274324187312387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052304107872919554/6G9MZcac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 1831,
+          "like_count": 12500,
+          "listed_count": 20,
+          "media_count": 483,
+          "tweet_count": 1718
+        },
+        "username": "hatsuikuo",
+        "verified": false
+      }
+    ]
+  }
+}

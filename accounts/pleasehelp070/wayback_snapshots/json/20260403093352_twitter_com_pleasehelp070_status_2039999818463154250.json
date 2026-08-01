@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039973725601513954",
+    "created_at": "2026-04-03T09:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039999818463154250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762309555386769408",
+          "start": 0,
+          "username": "O_DROP_DEAD_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039999818463154250",
+    "in_reply_to_user_id": "1762309555386769408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039973725601513954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O_DROP_DEAD_O 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039973725601513954",
+        "created_at": "2026-04-03T09:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039999818463154250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762309555386769408",
+              "start": 0,
+              "username": "O_DROP_DEAD_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039999818463154250",
+        "in_reply_to_user_id": "1762309555386769408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039973725601513954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O_DROP_DEAD_O 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762309555386769408",
+        "conversation_id": "2039973725601513954",
+        "created_at": "2026-04-03T07:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039973725601513954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039973725601513954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我配得上任何人吗，他们应该都离开，为了更好的人和东西，这样才对，他们都离开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 183,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 263
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T02:52:13.000Z",
+        "description": "Hope I can drop dead😋\n呼呼呼呼呼biubiubiuboomboomboomdamnyoudeadbitchfuckingdierightmeow!",
+        "id": "1762309555386769408",
+        "name": "Calling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924121102449614848/X2tFTgBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 402,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1071
+        },
+        "username": "O_DROP_DEAD_O",
+        "verified": false
+      }
+    ]
+  }
+}

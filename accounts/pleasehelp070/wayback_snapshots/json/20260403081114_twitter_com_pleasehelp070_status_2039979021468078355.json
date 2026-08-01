@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039979021468078355",
+    "created_at": "2026-04-03T08:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039979021468078355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pleasehelp070/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/pleasehelp070/status/2039978347355386342",
+          "start": 21,
+          "url": "https://t.co/umtlxAJm1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039979021468078355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039978347355386342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的私信真的收到了很多很多骚扰信息……… https://t.co/umtlxAJm1E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039979021468078355",
+        "created_at": "2026-04-03T08:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039979021468078355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pleasehelp070/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/pleasehelp070/status/2039978347355386342",
+              "start": 21,
+              "url": "https://t.co/umtlxAJm1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039979021468078355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039978347355386342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的私信真的收到了很多很多骚扰信息……… https://t.co/umtlxAJm1E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039978347355386342",
+        "created_at": "2026-04-03T08:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039978347355386342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039978347355386342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "TT发生过一次糟糕的事以后就畏惧联系过多的互联网社交了，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 164,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 226
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

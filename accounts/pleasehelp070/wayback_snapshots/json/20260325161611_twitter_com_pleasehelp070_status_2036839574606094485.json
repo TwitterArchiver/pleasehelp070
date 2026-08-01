@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2036839574606094485",
+    "created_at": "2026-03-25T16:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T17:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036839574606094485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448206950903255040",
+          "start": 3,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036839574606094485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036785026915025083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Shikieiki: ‘可以随时自杀’，这样的想法一直支持着我走下去。\n正因为知晓身后还有那最坚决、唯一的退路，我才得以忍受‘人生’这‘被强加的囚笼’。\n最终的自由可以由自杀来获取，就算无路可退不还有死路一条嘛。\n等到何时囚徒真正厌倦了一切的一切，才惊觉自己从始至终都…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2036839574606094485",
+        "created_at": "2026-03-25T16:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036839574606094485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448206950903255040",
+              "start": 3,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036839574606094485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036785026915025083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Shikieiki: ‘可以随时自杀’，这样的想法一直支持着我走下去。\n正因为知晓身后还有那最坚决、唯一的退路，我才得以忍受‘人生’这‘被强加的囚笼’。\n最终的自由可以由自杀来获取，就算无路可退不还有死路一条嘛。\n等到何时囚徒真正厌倦了一切的一切，才惊觉自己从始至终都…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2036785026915025083",
+        "created_at": "2026-03-25T12:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036785026915025083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036785026915025083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 476,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "‘可以随时自杀’，这样的想法一直支持着我走下去。\n正因为知晓身后还有那最坚决、唯一的退路，我才得以忍受‘人生’这‘被强加的囚笼’。\n最终的自由可以由自杀来获取，就算无路可退不还有死路一条嘛。\n等到何时囚徒真正厌倦了一切的一切，才惊觉自己从始至终都无关紧要、令人发笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "ASD&ADHD交流障碍 精神病。别看了",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029900889750990848/FvQPm6NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 55,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 76
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "静候死亡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 821,
+          "like_count": 24973,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3295
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

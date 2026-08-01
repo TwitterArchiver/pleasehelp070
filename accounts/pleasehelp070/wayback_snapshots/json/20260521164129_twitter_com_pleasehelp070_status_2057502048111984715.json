@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057367378854621184"
+      ],
+      "media_source_tweet_id": [
+        "2057367387415126434"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057502048111984715",
+    "created_at": "2026-05-21T16:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057502048111984715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V6UeGkFll9",
+          "end": 39,
+          "expanded_url": "https://x.com/_ropu/status/2057367387415126434/photo/1",
+          "media_key": "3_2057367378854621184",
+          "start": 16,
+          "url": "https://t.co/V6UeGkFll9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057502048111984715",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057367387415126434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ropu: oops https://t.co/V6UeGkFll9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2057367378854621184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08uw0bMAAskRe.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057367378854621184"
+          ],
+          "media_source_tweet_id": [
+            "2057367387415126434"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057502048111984715",
+        "created_at": "2026-05-21T16:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057502048111984715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6UeGkFll9",
+              "end": 39,
+              "expanded_url": "https://x.com/_ropu/status/2057367387415126434/photo/1",
+              "media_key": "3_2057367378854621184",
+              "start": 16,
+              "url": "https://t.co/V6UeGkFll9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057502048111984715",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057367387415126434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ropu: oops https://t.co/V6UeGkFll9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057367378854621184"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2057367387415126434",
+        "created_at": "2026-05-21T07:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057367387415126434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6UeGkFll9",
+              "end": 28,
+              "expanded_url": "https://x.com/_ropu/status/2057367387415126434/photo/1",
+              "media_key": "3_2057367378854621184",
+              "start": 5,
+              "url": "https://t.co/V6UeGkFll9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057367387415126434",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 762,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "oops https://t.co/V6UeGkFll9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 165,
+          "like_count": 3639,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 877
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん： @Cchang3243 || CN/JP/EN/KR ○ || 变得可爱是第一要义 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Cchang3243"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2055435465881538633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31005,
+          "following_count": 4278,
+          "like_count": 14933,
+          "listed_count": 32,
+          "media_count": 4696,
+          "tweet_count": 34179
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

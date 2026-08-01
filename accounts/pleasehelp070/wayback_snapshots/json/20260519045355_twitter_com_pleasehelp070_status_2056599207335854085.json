@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2056599207335854085",
+    "created_at": "2026-05-19T04:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056599207335854085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1858392178739068928",
+          "start": 3,
+          "username": "Ao8Kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056599207335854085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056142885029064842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ao8Kj: 回避型就是不配被爱😂爱上这样的人简直生不如死  在他认知里面只会伤害愿意对他好愿意忍让的人 真正不爱他的人是不会被他伤害到的 所以他能完美把所有攻击都放到爱自己的人身上 对陌生人话很多 对越熟悉的人话越少 一问就是不知道说什么 刚认识就很正常 越相处越冷暴力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2056599207335854085",
+        "created_at": "2026-05-19T04:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056599207335854085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1858392178739068928",
+              "start": 3,
+              "username": "Ao8Kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056599207335854085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056142885029064842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ao8Kj: 回避型就是不配被爱😂爱上这样的人简直生不如死  在他认知里面只会伤害愿意对他好愿意忍让的人 真正不爱他的人是不会被他伤害到的 所以他能完美把所有攻击都放到爱自己的人身上 对陌生人话很多 对越熟悉的人话越少 一问就是不知道说什么 刚认识就很正常 越相处越冷暴力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858392178739068928",
+        "conversation_id": "2056142885029064842",
+        "created_at": "2026-05-17T22:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T23:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056142885029064842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056142885029064842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 45875,
+          "like_count": 882,
+          "quote_count": 25,
+          "reply_count": 74,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "回避型就是不配被爱😂爱上这样的人简直生不如死  在他认知里面只会伤害愿意对他好愿意忍让的人 真正不爱他的人是不会被他伤害到的 所以他能完美把所有攻击都放到爱自己的人身上 对陌生人话很多 对越熟悉的人话越少 一问就是不知道说什么 刚认识就很正常 越相处越冷暴力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 159,
+          "like_count": 3360,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 830
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:10:10.000Z",
+        "description": "^_^。🚪 纯绿188/想发啥发啥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkun6661",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kunkun6661",
+                "start": 0,
+                "url": "https://t.co/SkuMOBF49z"
+              }
+            ]
+          }
+        },
+        "id": "1858392178739068928",
+        "name": "困困",
+        "pinned_tweet_id": "1888356593647149334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005403869484900352/wPDtDCaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15145,
+          "following_count": 76,
+          "like_count": 2243,
+          "listed_count": 57,
+          "media_count": 170,
+          "tweet_count": 1563
+        },
+        "url": "https://t.co/SkuMOBF49z",
+        "username": "Ao8Kj",
+        "verified": false
+      }
+    ]
+  }
+}

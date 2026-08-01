@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2036830208322626026",
+    "created_at": "2026-03-25T15:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036830208322626026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2000386018953101312",
+          "start": 3,
+          "username": "ecstasy_myslee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036830208322626026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036266415691538597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ecstasy_myslee: 所谓健全人到底是怎么做到麻木而卑劣地在低生活标准下数年乃至几十年重复无趣地活着的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2036830208322626026",
+        "created_at": "2026-03-25T15:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036830208322626026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2000386018953101312",
+              "start": 3,
+              "username": "ecstasy_myslee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036830208322626026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036266415691538597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ecstasy_myslee: 所谓健全人到底是怎么做到麻木而卑劣地在低生活标准下数年乃至几十年重复无趣地活着的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2036266415691538597",
+        "created_at": "2026-03-24T02:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T03:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036266415691538597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036266415691538597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 19604,
+          "like_count": 484,
+          "quote_count": 8,
+          "reply_count": 33,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "所谓健全人到底是怎么做到麻木而卑劣地在低生活标准下数年乃至几十年重复无趣地活着的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "ASD&ADHD交流障碍 精神病。别看了",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029900889750990848/FvQPm6NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 52,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 68
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️  喜欢的人🩵@Eternal1uv9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "Eternal1uv9"
+              }
+            ]
+          }
+        },
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014376425793421314/Sg5GgOG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 161,
+          "like_count": 4715,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 374
+        },
+        "username": "ecstasy_myslee",
+        "verified": false
+      }
+    ]
+  }
+}

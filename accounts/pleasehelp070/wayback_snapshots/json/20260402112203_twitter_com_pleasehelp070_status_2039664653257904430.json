@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039353485679071663",
+    "created_at": "2026-04-02T11:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039664653257904430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688556439865090048",
+          "start": 0,
+          "username": "ysn42231385235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039664653257904430",
+    "in_reply_to_user_id": "1688556439865090048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039353485679071663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn42231385235 同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039353485679071663",
+        "created_at": "2026-04-02T11:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039664653257904430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688556439865090048",
+              "start": 0,
+              "username": "ysn42231385235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039664653257904430",
+        "in_reply_to_user_id": "1688556439865090048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039353485679071663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn42231385235 同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688556439865090048",
+        "conversation_id": "2039353485679071663",
+        "created_at": "2026-04-01T14:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039353485679071663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039353485679071663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拿自己一个月的饭钱全拿来买药买酒了。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "病み垢/不登校💊直fo🙇ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 105,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 163
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "Vocaloid丨音ゲー好き丨apex 丨VRChat 丨 ヲタ芸丨男的，\n 上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子。\n打apex加我",
+        "id": "1688556439865090048",
+        "location": "术p音游apex互fo欢迎",
+        "name": "月誓",
+        "pinned_tweet_id": "2037291424472019237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852021990514921472/U9BdZls7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 364,
+          "like_count": 4017,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 872
+        },
+        "username": "ysn42231385235",
+        "verified": false
+      }
+    ]
+  }
+}

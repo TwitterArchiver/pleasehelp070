@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045762127823327232"
+      ],
+      "media_source_tweet_id": [
+        "2045762139655377324"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2046206632452071706",
+    "created_at": "2026-04-20T12:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046206632452071706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2045022236201918465",
+          "start": 3,
+          "username": "cVPrL20wIa42392"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/etOj1KbHuz",
+          "end": 52,
+          "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045762139655377324/photo/1",
+          "media_key": "3_2045762127823327232",
+          "start": 29,
+          "url": "https://t.co/etOj1KbHuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046206632452071706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 379
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045762139655377324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cVPrL20wIa42392: 认药大挑战！😗 https://t.co/etOj1KbHuz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045762127823327232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQB0PvbUAAy4Dw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045762127823327232"
+          ],
+          "media_source_tweet_id": [
+            "2045762139655377324"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2046206632452071706",
+        "created_at": "2026-04-20T12:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046206632452071706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2045022236201918465",
+              "start": 3,
+              "username": "cVPrL20wIa42392"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/etOj1KbHuz",
+              "end": 52,
+              "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045762139655377324/photo/1",
+              "media_key": "3_2045762127823327232",
+              "start": 29,
+              "url": "https://t.co/etOj1KbHuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046206632452071706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 379
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045762139655377324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cVPrL20wIa42392: 认药大挑战！😗 https://t.co/etOj1KbHuz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045762127823327232"
+          ]
+        },
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045762139655377324",
+        "created_at": "2026-04-19T07:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045762139655377324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etOj1KbHuz",
+              "end": 31,
+              "expanded_url": "https://x.com/cVPrL20wIa42392/status/2045762139655377324/photo/1",
+              "media_key": "3_2045762127823327232",
+              "start": 8,
+              "url": "https://t.co/etOj1KbHuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045762139655377324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 45593,
+          "like_count": 3930,
+          "quote_count": 33,
+          "reply_count": 54,
+          "retweet_count": 379
+        },
+        "reply_settings": "everyone",
+        "text": "认药大挑战！😗 https://t.co/etOj1KbHuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 141,
+          "like_count": 1873,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 463
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 363,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      }
+    ]
+  }
+}

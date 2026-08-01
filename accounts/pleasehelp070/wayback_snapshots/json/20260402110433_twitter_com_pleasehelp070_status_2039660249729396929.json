@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039541533196853248"
+      ],
+      "media_source_tweet_id": [
+        "2039541539849019439"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039660249729396929",
+    "created_at": "2026-04-02T11:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039660249729396929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827203342436855812",
+          "start": 3,
+          "username": "nanaj00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QcNtHfN0qv",
+          "end": 40,
+          "expanded_url": "https://x.com/nanaj00_/status/2039541539849019439/photo/1",
+          "media_key": "3_2039541533196853248",
+          "start": 17,
+          "url": "https://t.co/QcNtHfN0qv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039660249729396929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039541539849019439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaj00_: 再掲 https://t.co/QcNtHfN0qv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039541533196853248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3oN-7aoAAoZmY.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039541533196853248"
+          ],
+          "media_source_tweet_id": [
+            "2039541539849019439"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039660249729396929",
+        "created_at": "2026-04-02T11:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039660249729396929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827203342436855812",
+              "start": 3,
+              "username": "nanaj00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcNtHfN0qv",
+              "end": 40,
+              "expanded_url": "https://x.com/nanaj00_/status/2039541539849019439/photo/1",
+              "media_key": "3_2039541533196853248",
+              "start": 17,
+              "url": "https://t.co/QcNtHfN0qv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039660249729396929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039541539849019439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaj00_: 再掲 https://t.co/QcNtHfN0qv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039541533196853248"
+          ]
+        },
+        "author_id": "1827203342436855812",
+        "conversation_id": "2039541539849019439",
+        "created_at": "2026-04-02T03:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039541539849019439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcNtHfN0qv",
+              "end": 26,
+              "expanded_url": "https://x.com/nanaj00_/status/2039541539849019439/photo/1",
+              "media_key": "3_2039541533196853248",
+              "start": 3,
+              "url": "https://t.co/QcNtHfN0qv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039541539849019439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 9618,
+          "like_count": 1198,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "再掲 https://t.co/QcNtHfN0qv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "病み垢/不登校💊直fo🙇ASD&ADHD双极性障碍/交流障碍 精神病@想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 93,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 157
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "Dreamcore🧬┊︎Unauthorized use prohibited",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nanas70",
+                "end": 23,
+                "expanded_url": "https://lit.link/nanas70",
+                "start": 0,
+                "url": "https://t.co/CsyqLwBTOx"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "location": "AI・トレス・無断転載・参考×",
+        "name": "七時",
+        "pinned_tweet_id": "2039541539849019439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037526101468336128/WIoMVTnJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 25,
+          "like_count": 29943,
+          "listed_count": 9,
+          "media_count": 17,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/CsyqLwBTOx",
+        "username": "nanaj00_",
+        "verified": false
+      }
+    ]
+  }
+}

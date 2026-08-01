@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2058586446416711860",
+    "created_at": "2026-05-24T16:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058586446416711860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1438420916518539267",
+          "start": 3,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058586446416711860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058359454064652627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @200x0x1x: 你听说过一贫如洗的试炼吗？首先告诉我，让你活下去的意义是什么。恋人吗？假如你的恋人明天就死，那么你还愿意活下去吗？假如你被毁容，假如你脊髓受损再也无法行走，你的野心和事业也面临终结呢？试着想象这样一个场景吧，让你亲朋好友、老婆孩子的面孔逐个浮现在眼前…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2058586446416711860",
+        "created_at": "2026-05-24T16:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058586446416711860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1438420916518539267",
+              "start": 3,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058586446416711860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058359454064652627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @200x0x1x: 你听说过一贫如洗的试炼吗？首先告诉我，让你活下去的意义是什么。恋人吗？假如你的恋人明天就死，那么你还愿意活下去吗？假如你被毁容，假如你脊髓受损再也无法行走，你的野心和事业也面临终结呢？试着想象这样一个场景吧，让你亲朋好友、老婆孩子的面孔逐个浮现在眼前…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438420916518539267",
+        "conversation_id": "2058359454064652627",
+        "created_at": "2026-05-24T01:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058359454064652627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058359454064652627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你听说过一贫如洗的试炼吗？首先告诉我，让你活下去的意义是什么。恋人吗？假如你的恋人明天就死，那么你还愿意活下去吗？假如你被毁容，假如你脊髓受损再也无法行走，你的野心和事业也面临终结呢？试着想象这样一个场景吧，让你亲朋好友、老婆孩子的面孔逐个浮现在眼前…明天他们都必定死，你迄今为止努力建造的城堡也必定倒塌。当你被梦魇压在床上动弹不得的时候，他向你透露了这些第二天必将发生的事情。那么，你愿不愿意选择活下去呢？你感受到痛苦吗？现在告诉我，这份痛苦是否会让你激动？你是否感受到，那种面临深渊时不寒而栗的感觉，这种感觉是如此熟悉亲切，仿佛你终于回到家中那样？当第二天你从梦中醒来的时候，你能否答应我：你会记住这种恐怖的感觉，每当你动摇的时候就再次回到这个场景？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 320,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你听说过一贫如洗的试炼吗？首先告诉我，让你活下去的意义是什么。恋人吗？假如你的恋人明天就死，那么你还愿意活下去吗？假如你被毁容，假如你脊髓受损再也无法行走，你的野心和事业也面临终结呢？试着想象这样一个场景吧，让你亲朋好友、老婆孩子的面孔逐个浮现在眼前…明天他们都必定死，你迄今为止"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 181,
+          "like_count": 4007,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 930
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "我乃是笼罩其上的巨大黑暗，俯瞰这因特网鬼气森然……为漂浮在电子之海的蝼蚁们带来救赎ovo\n（是男娘，没兴趣认识别浪费我时间。",
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057787977820930050/rbhjaUSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1060,
+          "like_count": 27575,
+          "listed_count": 6,
+          "media_count": 2425,
+          "tweet_count": 26459
+        },
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2043906262665179627",
+    "created_at": "2026-04-14T04:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043906262665179627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1951181920022437889",
+          "start": 3,
+          "username": "blackdoginmyhed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043906262665179627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043606369950159270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackdoginmyhed: 其实自杀就是把后半生的痛苦一次性受完\n物理上的\n数十年的忧伤压缩在一瞬间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2043906262665179627",
+        "created_at": "2026-04-14T04:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043906262665179627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1951181920022437889",
+              "start": 3,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043906262665179627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043606369950159270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackdoginmyhed: 其实自杀就是把后半生的痛苦一次性受完\n物理上的\n数十年的忧伤压缩在一瞬间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951181920022437889",
+        "conversation_id": "2043606369950159270",
+        "created_at": "2026-04-13T08:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043606369950159270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043606369950159270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 19276,
+          "like_count": 750,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "其实自杀就是把后半生的痛苦一次性受完\n物理上的\n数十年的忧伤压缩在一瞬间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "住院没有办法发帖/碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 136,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 434
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼/🟨⬜️🟪⬛️/可以叫我nagi/非三无都会回fo虽然也没人fo（\n没钱抽烟了所以也卖一些电子烟!常见一次性冰爆鸭嘴兽小黑条还有杆蛋都有! 悦刻注油空蛋9r一个",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 206,
+          "like_count": 1294,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 399
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

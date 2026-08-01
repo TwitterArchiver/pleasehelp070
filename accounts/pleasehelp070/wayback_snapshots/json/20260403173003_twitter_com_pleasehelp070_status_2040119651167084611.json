@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2040119651167084611",
+    "created_at": "2026-04-03T17:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040119651167084611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820986559694520320",
+          "start": 3,
+          "username": "n_ne373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040119651167084611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040111716693160037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n_ne373: 我想交好多好多同类好朋友一起od一起挂逼一起疯玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2040119651167084611",
+        "created_at": "2026-04-03T17:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040119651167084611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820986559694520320",
+              "start": 3,
+              "username": "n_ne373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040119651167084611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040111716693160037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n_ne373: 我想交好多好多同类好朋友一起od一起挂逼一起疯玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820986559694520320",
+        "conversation_id": "2040111716693160037",
+        "created_at": "2026-04-03T16:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040111716693160037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040111716693160037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想交好多好多同类好朋友一起od一起挂逼一起疯玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/查成分回fo/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 205,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 277
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "我叫373｜快速了解我：intp 双相 sub｜这里好像只有碎碎念｜直fo就是喜欢你｜查成分互fo\n不会混圈不懂各种规则先道个歉TT\n匿名问答：https://t.co/VRxGbV6kFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/37381507",
+                "end": 95,
+                "expanded_url": "https://ngl.link/37381507",
+                "start": 72,
+                "url": "https://t.co/VRxGbV6kFb"
+              }
+            ]
+          }
+        },
+        "id": "1820986559694520320",
+        "location": "🚪52/88/128/520",
+        "name": "みず",
+        "pinned_tweet_id": "2037275873448247317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 142,
+          "like_count": 3196,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 911
+        },
+        "username": "n_ne373",
+        "verified": false
+      }
+    ]
+  }
+}

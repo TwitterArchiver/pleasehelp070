@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054157735051026432"
+      ],
+      "media_source_tweet_id": [
+        "2054157742126829606"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2054573125099205050",
+    "created_at": "2026-05-13T14:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054573125099205050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984489295311470592",
+          "start": 3,
+          "username": "obsesslvr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bxkyVPcBUV",
+          "end": 38,
+          "expanded_url": "https://x.com/obsesslvr/status/2054157742126829606/photo/1",
+          "media_key": "3_2054157735051026432",
+          "start": 15,
+          "url": "https://t.co/bxkyVPcBUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054573125099205050",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1217
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054157742126829606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @obsesslvr: https://t.co/bxkyVPcBUV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 901,
+        "media_key": "3_2054157735051026432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHVk55WYAACeFI.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054157735051026432"
+          ],
+          "media_source_tweet_id": [
+            "2054157742126829606"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2054573125099205050",
+        "created_at": "2026-05-13T14:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054573125099205050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984489295311470592",
+              "start": 3,
+              "username": "obsesslvr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxkyVPcBUV",
+              "end": 38,
+              "expanded_url": "https://x.com/obsesslvr/status/2054157742126829606/photo/1",
+              "media_key": "3_2054157735051026432",
+              "start": 15,
+              "url": "https://t.co/bxkyVPcBUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054573125099205050",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054157742126829606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @obsesslvr: https://t.co/bxkyVPcBUV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054157735051026432"
+          ]
+        },
+        "author_id": "1984489295311470592",
+        "conversation_id": "2054157742126829606",
+        "created_at": "2026-05-12T11:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054157742126829606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxkyVPcBUV",
+              "end": 23,
+              "expanded_url": "https://x.com/obsesslvr/status/2054157742126829606/photo/1",
+              "media_key": "3_2054157735051026432",
+              "start": 0,
+              "url": "https://t.co/bxkyVPcBUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054157742126829606",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 482,
+          "impression_count": 107921,
+          "like_count": 8251,
+          "quote_count": 49,
+          "reply_count": 0,
+          "retweet_count": 1217
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/bxkyVPcBUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 164,
+          "like_count": 3233,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 811
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T05:15:12.000Z",
+        "description": "#女神 ꒰ა ꫂ᭪ ໒꒱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "女神"
+              }
+            ]
+          }
+        },
+        "id": "1984489295311470592",
+        "location": "мяу мяу ᘁᩚ ˖ ᥬᩤ",
+        "name": "﹒♡",
+        "pinned_tweet_id": "2049732925306933395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054550299767971840/ZT5c8Rpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 37,
+          "like_count": 5644,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 33
+        },
+        "username": "obsesslvr",
+        "verified": false
+      }
+    ]
+  }
+}

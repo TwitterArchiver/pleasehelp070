@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053850309026570240"
+      ],
+      "media_source_tweet_id": [
+        "2054215025087127553"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2054572584579244304",
+    "created_at": "2026-05-13T14:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054572584579244304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882592021468393472",
+          "start": 3,
+          "username": "Mutsumibot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FUuYOznuWR",
+          "end": 57,
+          "expanded_url": "https://x.com/Mutsumibot/status/2054215025087127553/photo/1",
+          "media_key": "3_2053850309026570240",
+          "start": 34,
+          "url": "https://t.co/FUuYOznuWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054572584579244304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054215025087127553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mutsumibot: 「健康に良くない！ちゃんと寝て！」 https://t.co/FUuYOznuWR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2053850309026570240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIC9-Wta4AA5XeM.jpg",
+        "width": 2034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053850309026570240"
+          ],
+          "media_source_tweet_id": [
+            "2054215025087127553"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2054572584579244304",
+        "created_at": "2026-05-13T14:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054572584579244304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882592021468393472",
+              "start": 3,
+              "username": "Mutsumibot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FUuYOznuWR",
+              "end": 57,
+              "expanded_url": "https://x.com/Mutsumibot/status/2054215025087127553/photo/1",
+              "media_key": "3_2053850309026570240",
+              "start": 34,
+              "url": "https://t.co/FUuYOznuWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054572584579244304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054215025087127553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mutsumibot: 「健康に良くない！ちゃんと寝て！」 https://t.co/FUuYOznuWR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053850309026570240"
+          ]
+        },
+        "author_id": "1882592021468393472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2054215025087127553",
+        "created_at": "2026-05-12T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054215025087127553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FUuYOznuWR",
+              "end": 41,
+              "expanded_url": "https://x.com/Mutsumibot/status/2054215025087127553/photo/1",
+              "media_key": "3_2053850309026570240",
+              "start": 18,
+              "url": "https://t.co/FUuYOznuWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054215025087127553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1171,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "「健康に良くない！ちゃんと寝て！」 https://t.co/FUuYOznuWR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 164,
+          "like_count": 3220,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 809
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T00:51:39.000Z",
+        "description": "※当botは「バンドリ」シリーズのコンテンツとは無関係の非公式アカウントです。毎日0時投稿🕐 (時間ズレ等あり) 当botのアイコンを描いてくださった神絵師様→@RwYfg 管理人の日常垢→@Mutsumibot2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 80,
+                "username": "RwYfg"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mutsumibot2"
+              }
+            ]
+          }
+        },
+        "id": "1882592021468393472",
+        "location": "2025/1/25~",
+        "name": "健康に良くない！ちゃんと寝て！bot",
+        "pinned_tweet_id": "1956318385790218493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956317693981888512/Va8Mzzth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4171,
+          "following_count": 219,
+          "like_count": 8755,
+          "listed_count": 2,
+          "media_count": 560,
+          "tweet_count": 3436
+        },
+        "username": "Mutsumibot",
+        "verified": false
+      }
+    ]
+  }
+}

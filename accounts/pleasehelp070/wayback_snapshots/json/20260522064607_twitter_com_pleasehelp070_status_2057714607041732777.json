@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057714607041732777",
+    "created_at": "2026-05-22T06:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057714607041732777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558346182316896256",
+          "start": 3,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057714607041732777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057471313829343394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoxer15: 到底有没有人能和我玩，我说的玩就是真的玩，小孩和小孩之间的那种玩，一起说话，走路，追来追去，做手工玩游戏，随便看见什么拿起来开始捣鼓，纯玩、傻玩、疯玩，天天来我家楼下等我出去玩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057714607041732777",
+        "created_at": "2026-05-22T06:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057714607041732777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558346182316896256",
+              "start": 3,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057714607041732777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057471313829343394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoxer15: 到底有没有人能和我玩，我说的玩就是真的玩，小孩和小孩之间的那种玩，一起说话，走路，追来追去，做手工玩游戏，随便看见什么拿起来开始捣鼓，纯玩、傻玩、疯玩，天天来我家楼下等我出去玩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2057471313829343394",
+        "created_at": "2026-05-21T14:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057471313829343394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057471313829343394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1590,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "到底有没有人能和我玩，我说的玩就是真的玩，小孩和小孩之间的那种玩，一起说话，走路，追来追去，做手工玩游戏，随便看见什么拿起来开始捣鼓，纯玩、傻玩、疯玩，天天来我家楼下等我出去玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 170,
+          "like_count": 3755,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 901
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoxer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoxer",
+                "start": 0,
+                "url": "https://t.co/DmoM7w0LFv"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2023236867341103534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055922171453775872/uBdHwtjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 211,
+          "like_count": 24291,
+          "listed_count": 0,
+          "media_count": 550,
+          "tweet_count": 13130
+        },
+        "url": "https://t.co/DmoM7w0LFv",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

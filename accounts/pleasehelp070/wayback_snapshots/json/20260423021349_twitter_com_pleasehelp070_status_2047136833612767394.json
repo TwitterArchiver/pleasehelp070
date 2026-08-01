@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2047136833612767394",
+    "created_at": "2026-04-23T02:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047136833612767394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1530699087133421568",
+          "start": 3,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047136833612767394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047088181993164819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SpicyspacEmk16: 超天酱动画里原创角色们的那些美甲设定真的超米的好吧！！！\n🩷升天🩵\n尝试还原然后效果超级无敌棒！！！\n原本是想做款4的 结果发现还是更爱款1菱格那个 原因是我实在太爱香奶奶这个经典设计了(笑)可惜得小改下 要不然真的做不到设定的效果 (突…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047086851539013632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGi2pUJbEAAiyJ3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 942,
+        "media_key": "3_2047086851551559680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGi2pUMagAAY-up.jpg",
+        "width": 2048
+      },
+      {
+        "height": 904,
+        "media_key": "3_2047086851539046400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGi2pUJbkAArjjX.jpg",
+        "width": 1524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2047136833612767394",
+        "created_at": "2026-04-23T02:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047136833612767394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1530699087133421568",
+              "start": 3,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047136833612767394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047088181993164819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SpicyspacEmk16: 超天酱动画里原创角色们的那些美甲设定真的超米的好吧！！！\n🩷升天🩵\n尝试还原然后效果超级无敌棒！！！\n原本是想做款4的 结果发现还是更爱款1菱格那个 原因是我实在太爱香奶奶这个经典设计了(笑)可惜得小改下 要不然真的做不到设定的效果 (突…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047086851539013632",
+            "3_2047086851551559680",
+            "3_2047086851539046400"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2047088181993164819",
+        "created_at": "2026-04-22T23:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T23:55:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047086862200864923",
+          "2047088181993164819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "ニディガ"
+            },
+            {
+              "end": 158,
+              "start": 148,
+              "tag": "needygirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q26UYYuvvR",
+              "end": 182,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2047088181993164819/photo/1",
+              "media_key": "3_2047086851539013632",
+              "start": 159,
+              "url": "https://t.co/Q26UYYuvvR"
+            },
+            {
+              "display_url": "pic.x.com/Q26UYYuvvR",
+              "end": 182,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2047088181993164819/photo/1",
+              "media_key": "3_2047086851551559680",
+              "start": 159,
+              "url": "https://t.co/Q26UYYuvvR"
+            },
+            {
+              "display_url": "pic.x.com/Q26UYYuvvR",
+              "end": 182,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2047088181993164819/photo/1",
+              "media_key": "3_2047086851539046400",
+              "start": 159,
+              "url": "https://t.co/Q26UYYuvvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047088181993164819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 246,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "超天酱动画里原创角色们的那些美甲设定真的超米的好吧！！！\n🩷升天🩵\n尝试还原然后效果超级无敌棒！！！\n原本是想做款4的 结果发现还是更爱款1菱格那个 原因是我实在太爱香奶奶这个经典设计了(笑)可惜得小改下 要不然真的做不到设定的效果 (突然哭)\n💙🫶🤍\n后面是设定图哦～&gt;\n\n#ニディガ \n#needygirl https://t.co/Q26UYYuvvR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 141,
+          "like_count": 2006,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 505
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3078,
+          "following_count": 1449,
+          "like_count": 94325,
+          "listed_count": 5,
+          "media_count": 785,
+          "tweet_count": 9542
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

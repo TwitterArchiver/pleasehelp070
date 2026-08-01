@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041111159592693760"
+      ],
+      "media_source_tweet_id": [
+        "2041112165223149624"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041142049211376100",
+    "created_at": "2026-04-06T13:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041142049211376100"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "ニディガ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1613826141441363973",
+          "start": 3,
+          "username": "machi_mile00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iatoJohIQr",
+          "end": 68,
+          "expanded_url": "https://x.com/machi_mile00/status/2041112165223149624/photo/1",
+          "media_key": "3_2041111159592693760",
+          "start": 45,
+          "url": "https://t.co/iatoJohIQr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041142049211376100",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041112165223149624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @machi_mile00: #ニディガ \nNEEDY GIRL OVERDOSE https://t.co/iatoJohIQr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2041111159592693760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFN7yQ6bsAA7ACT.jpg",
+        "width": 2895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041111159592693760"
+          ],
+          "media_source_tweet_id": [
+            "2041112165223149624"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041142049211376100",
+        "created_at": "2026-04-06T13:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041142049211376100"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "ニディガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1613826141441363973",
+              "start": 3,
+              "username": "machi_mile00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iatoJohIQr",
+              "end": 68,
+              "expanded_url": "https://x.com/machi_mile00/status/2041112165223149624/photo/1",
+              "media_key": "3_2041111159592693760",
+              "start": 45,
+              "url": "https://t.co/iatoJohIQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041142049211376100",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041112165223149624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @machi_mile00: #ニディガ \nNEEDY GIRL OVERDOSE https://t.co/iatoJohIQr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041111159592693760"
+          ]
+        },
+        "author_id": "1613826141441363973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041112165223149624",
+        "created_at": "2026-04-06T11:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041112165223149624"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iatoJohIQr",
+              "end": 50,
+              "expanded_url": "https://x.com/machi_mile00/status/2041112165223149624/photo/1",
+              "media_key": "3_2041111159592693760",
+              "start": 27,
+              "url": "https://t.co/iatoJohIQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041112165223149624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 3373,
+          "like_count": 553,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "#ニディガ \nNEEDY GIRL OVERDOSE https://t.co/iatoJohIQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 144,
+          "like_count": 1733,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 404
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T09:12:01.000Z",
+        "description": "Illustrator | Graphic Designer | EN/VIE https://t.co/RovGyvCuYM\nwork inquiry 📧 kimeimile.work@gmail.com \nalt: @kimeimile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "kimeimile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/18314…",
+                "end": 63,
+                "expanded_url": "https://www.pixiv.net/en/users/18314902",
+                "start": 40,
+                "url": "https://t.co/RovGyvCuYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "machimile.carrd.co",
+                "end": 23,
+                "expanded_url": "https://machimile.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/iuj46dZYkt"
+              }
+            ]
+          }
+        },
+        "id": "1613826141441363973",
+        "name": "Mile @ Goldnova 119",
+        "pinned_tweet_id": "1911017100673773681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911616696944656384/T3Jqh28a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19448,
+          "following_count": 376,
+          "like_count": 6696,
+          "listed_count": 94,
+          "media_count": 159,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/iuj46dZYkt",
+        "username": "machi_mile00",
+        "verified": false
+      }
+    ]
+  }
+}

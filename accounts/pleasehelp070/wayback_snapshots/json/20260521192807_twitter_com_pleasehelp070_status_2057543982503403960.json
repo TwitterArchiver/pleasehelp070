@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057543982503403960",
+    "created_at": "2026-05-21T19:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T20:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057543982503403960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041547685153710080",
+          "start": 3,
+          "username": "Suansuanpig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057543982503403960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057477299323433341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Suansuanpig: 推特上关注别人一段时间没被回关就取关是很羞耻的事情吗？额这是我的日常诶。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057543982503403960",
+        "created_at": "2026-05-21T19:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T20:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057543982503403960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041547685153710080",
+              "start": 3,
+              "username": "Suansuanpig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057543982503403960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057477299323433341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Suansuanpig: 推特上关注别人一段时间没被回关就取关是很羞耻的事情吗？额这是我的日常诶。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041547685153710080",
+        "conversation_id": "2057477299323433341",
+        "created_at": "2026-05-21T15:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057477299323433341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057477299323433341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5468,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "推特上关注别人一段时间没被回关就取关是很羞耻的事情吗？额这是我的日常诶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 167,
+          "like_count": 3680,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 885
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T16:05:16.000Z",
+        "description": "朋友圈没发的都在这了\n简中/繁中 \n07 infj 欢迎互关",
+        "id": "2041547685153710080",
+        "location": "fujian",
+        "name": "Suan",
+        "pinned_tweet_id": "2048076686949028257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041550325904297984/_XxQ4spn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 41,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 665
+        },
+        "username": "Suansuanpig",
+        "verified": false
+      }
+    ]
+  }
+}

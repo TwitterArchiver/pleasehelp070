@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2036840364150329367",
+    "created_at": "2026-03-25T16:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T17:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036840364150329367"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036840364150329367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你会因为自己的所作所为下地狱的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2036840364150329367",
+        "created_at": "2026-03-25T16:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036840364150329367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036840364150329367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你会因为自己的所作所为下地狱的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "ASD&ADHD交流障碍 精神病。别看了",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029900889750990848/FvQPm6NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 55,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 77
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

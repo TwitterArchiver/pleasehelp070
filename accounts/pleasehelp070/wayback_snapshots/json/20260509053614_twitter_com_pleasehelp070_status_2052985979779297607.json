@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052649795018522624"
+      ],
+      "media_source_tweet_id": [
+        "2052649807119040650"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052985979779297607",
+    "created_at": "2026-05-09T05:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052985979779297607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028381865145753600",
+          "start": 3,
+          "username": "emotions_ix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gE4OMaTxHx",
+          "end": 40,
+          "expanded_url": "https://x.com/emotions_ix/status/2052649807119040650/photo/1",
+          "media_key": "3_2052649795018522624",
+          "start": 17,
+          "url": "https://t.co/gE4OMaTxHx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052985979779297607",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 719
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052649807119040650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emotions_ix: https://t.co/gE4OMaTxHx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_2052649795018522624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx6HPhbgAACURf.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052649795018522624"
+          ],
+          "media_source_tweet_id": [
+            "2052649807119040650"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052985979779297607",
+        "created_at": "2026-05-09T05:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052985979779297607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028381865145753600",
+              "start": 3,
+              "username": "emotions_ix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gE4OMaTxHx",
+              "end": 40,
+              "expanded_url": "https://x.com/emotions_ix/status/2052649807119040650/photo/1",
+              "media_key": "3_2052649795018522624",
+              "start": 17,
+              "url": "https://t.co/gE4OMaTxHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052985979779297607",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 719
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052649807119040650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emotions_ix: https://t.co/gE4OMaTxHx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052649795018522624"
+          ]
+        },
+        "author_id": "2028381865145753600",
+        "conversation_id": "2052649807119040650",
+        "created_at": "2026-05-08T07:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052649807119040650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gE4OMaTxHx",
+              "end": 23,
+              "expanded_url": "https://x.com/emotions_ix/status/2052649807119040650/photo/1",
+              "media_key": "3_2052649795018522624",
+              "start": 0,
+              "url": "https://t.co/gE4OMaTxHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052649807119040650",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 25488,
+          "like_count": 2095,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 719
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gE4OMaTxHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 160,
+          "like_count": 2656,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 687
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T08:09:04.000Z",
+        "description": "",
+        "id": "2028381865145753600",
+        "name": "Emotions",
+        "pinned_tweet_id": "2052984436514501104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028744995059163136/IAD_lTcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15431,
+          "following_count": 862,
+          "like_count": 9917,
+          "listed_count": 2,
+          "media_count": 1170,
+          "tweet_count": 9313
+        },
+        "username": "emotions_ix",
+        "verified": true
+      }
+    ]
+  }
+}

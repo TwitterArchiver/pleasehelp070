@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039283411102408834",
+    "created_at": "2026-04-02T11:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039662113933942925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661349504069804032",
+          "start": 0,
+          "username": "zhuoc2018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039662113933942925",
+    "in_reply_to_user_id": "1661349504069804032",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039283411102408834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuoc2018 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_2039283400192974848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz9cqjaYAAVZgI.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039283411102408834",
+        "created_at": "2026-04-02T11:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039662113933942925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661349504069804032",
+              "start": 0,
+              "username": "zhuoc2018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039662113933942925",
+        "in_reply_to_user_id": "1661349504069804032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039283411102408834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuoc2018 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039283400192974848"
+          ]
+        },
+        "author_id": "1661349504069804032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039283411102408834",
+        "created_at": "2026-04-01T10:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039283411102408834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faTD1QlRuu",
+              "end": 53,
+              "expanded_url": "https://x.com/zhuoc2018/status/2039283411102408834/photo/1",
+              "media_key": "3_2039283400192974848",
+              "start": 30,
+              "url": "https://t.co/faTD1QlRuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039283411102408834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1525,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽什么风😅\n非蓝标关注我还没提示 都已经歧视到这种地步了？ https://t.co/faTD1QlRuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "病み垢/不登校💊直fo🙇ASD&ADHD双极性障碍/交流障碍 精神病@想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 105,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 158
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T12:32:54.000Z",
+        "description": "一个不可理喻的普通人 欢迎互fo 数码爱好者 乐子人 有点精神病 Never Settle\n你好 交个朋友",
+        "id": "1661349504069804032",
+        "location": "游戏热爱者",
+        "name": "𝒁𝒉𝒖𝒐 𝑾🍉",
+        "pinned_tweet_id": "2039370831432912975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038550370310623232/zvAoNJ_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 440,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 449
+        },
+        "username": "zhuoc2018",
+        "verified": true
+      }
+    ]
+  }
+}

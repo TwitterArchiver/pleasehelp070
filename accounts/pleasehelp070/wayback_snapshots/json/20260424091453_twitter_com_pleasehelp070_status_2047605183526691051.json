@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047399752065552384"
+      ],
+      "media_source_tweet_id": [
+        "2047399760877797772"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2047605183526691051",
+    "created_at": "2026-04-24T09:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047605183526691051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820467609722040320",
+          "start": 3,
+          "username": "ametic2u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qg3YWZvFyz",
+          "end": 37,
+          "expanded_url": "https://x.com/ametic2u/status/2047399760877797772/photo/1",
+          "media_key": "3_2047399752065552384",
+          "start": 14,
+          "url": "https://t.co/Qg3YWZvFyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047605183526691051",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 376
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047399760877797772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ametic2u: https://t.co/Qg3YWZvFyz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2047399752065552384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnTOhcXEAA3iKv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047399752065552384"
+          ],
+          "media_source_tweet_id": [
+            "2047399760877797772"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2047605183526691051",
+        "created_at": "2026-04-24T09:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047605183526691051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820467609722040320",
+              "start": 3,
+              "username": "ametic2u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qg3YWZvFyz",
+              "end": 37,
+              "expanded_url": "https://x.com/ametic2u/status/2047399760877797772/photo/1",
+              "media_key": "3_2047399752065552384",
+              "start": 14,
+              "url": "https://t.co/Qg3YWZvFyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047605183526691051",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 376
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047399760877797772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ametic2u: https://t.co/Qg3YWZvFyz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047399752065552384"
+          ]
+        },
+        "author_id": "1820467609722040320",
+        "conversation_id": "2047399760877797772",
+        "created_at": "2026-04-23T19:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047399760877797772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qg3YWZvFyz",
+              "end": 23,
+              "expanded_url": "https://x.com/ametic2u/status/2047399760877797772/photo/1",
+              "media_key": "3_2047399752065552384",
+              "start": 0,
+              "url": "https://t.co/Qg3YWZvFyz"
+            },
+            {
+              "display_url": "x.com/nyalra/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/nyalra/status/2047363775821652408",
+              "start": 24,
+              "url": "https://t.co/BcnLn8wM5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047399760877797772",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 21532,
+          "like_count": 2033,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 376
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047363775821652408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qg3YWZvFyz https://t.co/BcnLn8wM5n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 143,
+          "like_count": 2071,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 528
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T14:31:33.000Z",
+        "description": "⋅˚₊‧ ₊˚ ⋅࣭ ⭑trauma bonded with many flaws⋅˚₊‧  ‧₊˚ ⋅ ๋ ࣭  ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ametic2u.straw.page",
+                "end": 23,
+                "expanded_url": "https://ametic2u.straw.page",
+                "start": 0,
+                "url": "https://t.co/RftrdCC1K0"
+              }
+            ]
+          }
+        },
+        "id": "1820467609722040320",
+        "location": "i ♡ my fp",
+        "name": "⋆˙⟡˚₊‧꒰ა໒꒱ ‧₊˚ ୨୧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927459394570067969/lDsicexL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 17,
+          "like_count": 3596,
+          "listed_count": 2,
+          "media_count": 406,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/RftrdCC1K0",
+        "username": "ametic2u",
+        "verified": false
+      }
+    ]
+  }
+}

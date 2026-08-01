@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057357088809238528"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057357100909806016",
+    "created_at": "2026-05-21T07:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057357100909806016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H8yQG3SSQC",
+          "end": 28,
+          "expanded_url": "https://x.com/pleasehelp070/status/2057357100909806016/video/1",
+          "media_key": "13_2057357088809238528",
+          "start": 5,
+          "url": "https://t.co/H8yQG3SSQC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057357100909806016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有棍哥 https://t.co/H8yQG3SSQC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1020,
+        "height": 1280,
+        "media_key": "13_2057357088809238528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057357088809238528/img/vsCdA4DagRdC8vvR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057357088809238528/vid/avc1/320x568/4FyeMQ-rLU2JL1K-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057357088809238528/vid/avc1/480x852/OqmcLaLqStb3-wW4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057357088809238528/vid/avc1/720x1280/VzTZKnSu7k0a30ru.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057357088809238528/pl/wf-GhJ6NfbxAass8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057357088809238528"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057357100909806016",
+        "created_at": "2026-05-21T07:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057357100909806016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8yQG3SSQC",
+              "end": 28,
+              "expanded_url": "https://x.com/pleasehelp070/status/2057357100909806016/video/1",
+              "media_key": "13_2057357088809238528",
+              "start": 5,
+              "url": "https://t.co/H8yQG3SSQC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057357100909806016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有棍哥 https://t.co/H8yQG3SSQC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 163,
+          "like_count": 3546,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 872
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039759087328772592",
+    "created_at": "2026-04-03T11:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040021792631488635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797970383477645312",
+          "start": 0,
+          "username": "lilizln350765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040021792631488635",
+    "in_reply_to_user_id": "1797970383477645312",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040004387330789811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilizln350765 TT……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039759087328772592",
+        "created_at": "2026-04-03T11:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040021792631488635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797970383477645312",
+              "start": 0,
+              "username": "lilizln350765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040021792631488635",
+        "in_reply_to_user_id": "1797970383477645312",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040004387330789811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilizln350765 TT……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797970383477645312",
+        "conversation_id": "2039759087328772592",
+        "created_at": "2026-04-03T09:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040004387330789811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040004387330789811",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039759087328772592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 你是敏感体质哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 188,
+          "like_count": 1291,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 267
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:35:30.000Z",
+        "description": "bpd重度抑郁焦虑intp/乱发疯 /我没有记性，我什么都记不住",
+        "id": "1797970383477645312",
+        "name": "悦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038749547648720896/ATxdcmID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 72,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 930
+        },
+        "username": "lilizln350765",
+        "verified": false
+      }
+    ]
+  }
+}

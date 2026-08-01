@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052984745336930418",
+    "created_at": "2026-05-09T05:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052984745336930418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/l1m3c4ndy/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/l1m3c4ndy/status/2052720175128920266",
+          "start": 5,
+          "url": "https://t.co/Is4nR4l4gM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052984745336930418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052720175128920266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太可爱了 https://t.co/Is4nR4l4gM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2052607526626279424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxTq5faQAAU8X1.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052984745336930418",
+        "created_at": "2026-05-09T05:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052984745336930418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/l1m3c4ndy/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/l1m3c4ndy/status/2052720175128920266",
+              "start": 5,
+              "url": "https://t.co/Is4nR4l4gM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052984745336930418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052720175128920266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可爱了 https://t.co/Is4nR4l4gM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052607526626279424"
+          ]
+        },
+        "author_id": "1601452132699320320",
+        "conversation_id": "2052720175128920266",
+        "created_at": "2026-05-08T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052720175128920266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "ゆんゆん同人"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsiArd5YZu",
+              "end": 44,
+              "expanded_url": "https://x.com/l1m3c4ndy/status/2052720175128920266/photo/1",
+              "media_key": "3_2052607526626279424",
+              "start": 21,
+              "url": "https://t.co/lsiArd5YZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052720175128920266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 765,
+          "impression_count": 84080,
+          "like_count": 8558,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 1169
+        },
+        "reply_settings": "everyone",
+        "text": "#ゆんゆん同人　世界で一番かわいいよ！！ https://t.co/lsiArd5YZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 159,
+          "like_count": 2625,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 678
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T05:42:03.000Z",
+        "description": "絵を描いてます\nI paint digital art with a pen tablet ;)  \nNo unauthorized use of my artworks.\nmail▶︎l1m3m41l@gmail.com  https://t.co/L6gnZaZJtx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/l1m3c4…",
+                "end": 136,
+                "expanded_url": "https://bsky.app/profile/l1m3c4ndy.bsky.social",
+                "start": 113,
+                "url": "https://t.co/L6gnZaZJtx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/l1m3c4ndy",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/l1m3c4ndy",
+                "start": 0,
+                "url": "https://t.co/9cPKBki4Fg"
+              }
+            ]
+          }
+        },
+        "id": "1601452132699320320",
+        "location": " 無断転載・無断使用禁止",
+        "name": "L1M3C4NDY",
+        "pinned_tweet_id": "2006382567222890561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044702898396008448/ueb3UM6L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14309,
+          "following_count": 95,
+          "like_count": 5566,
+          "listed_count": 56,
+          "media_count": 215,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/9cPKBki4Fg",
+        "username": "l1m3c4ndy",
+        "verified": false
+      }
+    ]
+  }
+}

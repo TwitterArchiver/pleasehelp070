@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2054156705299390467",
+    "created_at": "2026-05-12T11:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054156705299390467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036847459864080384",
+          "start": 3,
+          "username": "swallowtai11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054156705299390467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053829699495919921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @swallowtai11: 没有伤害他人 没有危害社会 甚至曾经对社会做出过贡献 我只是在自我伤害而已即使是这样也有人鼓励你去死掉 人类就是这样 一切我都明白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2054156705299390467",
+        "created_at": "2026-05-12T11:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054156705299390467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036847459864080384",
+              "start": 3,
+              "username": "swallowtai11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054156705299390467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053829699495919921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @swallowtai11: 没有伤害他人 没有危害社会 甚至曾经对社会做出过贡献 我只是在自我伤害而已即使是这样也有人鼓励你去死掉 人类就是这样 一切我都明白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036847459864080384",
+        "conversation_id": "2053829699495919921",
+        "created_at": "2026-05-11T13:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053829699495919921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053829699495919921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1547,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没有伤害他人 没有危害社会 甚至曾经对社会做出过贡献 我只是在自我伤害而已即使是这样也有人鼓励你去死掉 人类就是这样 一切我都明白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 164,
+          "like_count": 3121,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 787
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T16:48:49.000Z",
+        "description": "不约不谈别来问我了 05 od 自伤 喜欢画画发呆打游戏 叫我小挞就好了 这里只是堆放一些东西 想认识我可以点我的陪玩 要算的话大概就是🚪88吧送两个小时陪玩 这只是一种筛选方式",
+        "id": "2036847459864080384",
+        "name": "远方天台一跃而下",
+        "pinned_tweet_id": "2046103081759506829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039752838637928449/NLDBp40k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 53,
+          "like_count": 400,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 242
+        },
+        "username": "swallowtai11",
+        "verified": false
+      }
+    ]
+  }
+}

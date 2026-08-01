@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2038979880214499729",
+    "created_at": "2026-03-31T15:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039007826337755606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2019293013114253313",
+          "start": 0,
+          "username": "seeyouinthe2999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039007826337755606",
+    "in_reply_to_user_id": "2019293013114253313",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038979880214499729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeyouinthe2999 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2038979880214499729",
+        "created_at": "2026-03-31T15:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039007826337755606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2019293013114253313",
+              "start": 0,
+              "username": "seeyouinthe2999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039007826337755606",
+        "in_reply_to_user_id": "2019293013114253313",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038979880214499729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyouinthe2999 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019293013114253313",
+        "conversation_id": "2038979880214499729",
+        "created_at": "2026-03-31T14:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038979880214499729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038979880214499729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特到底怎么开口说话啊，我根本不会和陌生人交朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "不登校💊ASD&ADHD交流障碍 精神病@想交朋友🥺 是互联网天使✝️ ༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 109,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 127
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊\n喜欢听摇滚  割🔪  重返未来1999\n同类来互fo捏",
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "马库斯爱吃蛋糕💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 218,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 682
+        },
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

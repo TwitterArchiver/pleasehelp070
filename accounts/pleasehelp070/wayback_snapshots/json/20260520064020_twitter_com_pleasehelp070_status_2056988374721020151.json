@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056073558401683456"
+      ],
+      "media_source_tweet_id": [
+        "2056073561497047238"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2056988374721020151",
+    "created_at": "2026-05-20T06:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056988374721020151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1773653090538868736",
+          "start": 3,
+          "username": "JPT_Struggles"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTq2SwB1XG",
+          "end": 42,
+          "expanded_url": "https://x.com/JPT_Struggles/status/2056073561497047238/photo/1",
+          "media_key": "3_2056073558401683456",
+          "start": 19,
+          "url": "https://t.co/kTq2SwB1XG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056988374721020151",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056073561497047238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JPT_Struggles: https://t.co/kTq2SwB1XG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2056073558401683456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIikAgCbEAAr0Ar.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056073558401683456"
+          ],
+          "media_source_tweet_id": [
+            "2056073561497047238"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2056988374721020151",
+        "created_at": "2026-05-20T06:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056988374721020151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1773653090538868736",
+              "start": 3,
+              "username": "JPT_Struggles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTq2SwB1XG",
+              "end": 42,
+              "expanded_url": "https://x.com/JPT_Struggles/status/2056073561497047238/photo/1",
+              "media_key": "3_2056073558401683456",
+              "start": 19,
+              "url": "https://t.co/kTq2SwB1XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056988374721020151",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056073561497047238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JPT_Struggles: https://t.co/kTq2SwB1XG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056073558401683456"
+          ]
+        },
+        "author_id": "1773653090538868736",
+        "conversation_id": "2056073561497047238",
+        "created_at": "2026-05-17T18:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056073561497047238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTq2SwB1XG",
+              "end": 23,
+              "expanded_url": "https://x.com/JPT_Struggles/status/2056073561497047238/photo/1",
+              "media_key": "3_2056073558401683456",
+              "start": 0,
+              "url": "https://t.co/kTq2SwB1XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056073561497047238",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1026,
+          "impression_count": 447324,
+          "like_count": 9694,
+          "quote_count": 37,
+          "reply_count": 64,
+          "retweet_count": 453
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kTq2SwB1XG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 161,
+          "like_count": 3413,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 844
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T10:07:39.000Z",
+        "description": "• 📸 • From r/japanesepeopletwitter on reddit❗️• 日本語🙅‍♂️！EN OK • DM for submissions 📩 • occasional memes • 所有者の要請により撤去 📜 •",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reddit.com/r/japanesepeop…",
+                "end": 23,
+                "expanded_url": "http://reddit.com/r/japanesepeopletwitter/",
+                "start": 0,
+                "url": "https://t.co/TGxrLS6iHW"
+              }
+            ]
+          }
+        },
+        "id": "1773653090538868736",
+        "location": "👉",
+        "name": "💢 JPT says 何? 💢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816824881301827584/8tGsyMob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153441,
+          "following_count": 155,
+          "like_count": 478,
+          "listed_count": 139,
+          "media_count": 1562,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/TGxrLS6iHW",
+        "username": "JPT_Struggles",
+        "verified": false
+      }
+    ]
+  }
+}

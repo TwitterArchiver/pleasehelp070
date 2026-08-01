@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039999902558912753",
+    "created_at": "2026-04-03T09:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039999902558912753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1676619368162275328",
+          "start": 3,
+          "username": "xiaoyi080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039999902558912753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039710692404846869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyi080: 抽一盒晚安可折现11 转发就可以参与了！！明天晚上开  互关们来吧来吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039999902558912753",
+        "created_at": "2026-04-03T09:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039999902558912753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1676619368162275328",
+              "start": 3,
+              "username": "xiaoyi080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039999902558912753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039710692404846869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyi080: 抽一盒晚安可折现11 转发就可以参与了！！明天晚上开  互关们来吧来吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676619368162275328",
+        "conversation_id": "2039710692404846869",
+        "created_at": "2026-04-02T14:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039710692404846869"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039710692404846869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1124,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "抽一盒晚安可折现11 转发就可以参与了！！明天晚上开  互关们来吧来吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 184,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 264
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T15:49:59.000Z",
+        "description": "08/自伤/od/中文🇨🇳/English我信撒旦教哦！𖤐𖤐𖤐🚪纯绿52 半绿120（我有s属性…很会骂人）",
+        "id": "1676619368162275328",
+        "location": "离你0.1km",
+        "name": "愤怒的11猴（互fo请私信！）",
+        "pinned_tweet_id": "2038753951466868820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039281324494934016/T6QnZeGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 207,
+          "like_count": 52,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 670
+        },
+        "username": "xiaoyi080",
+        "verified": false
+      }
+    ]
+  }
+}

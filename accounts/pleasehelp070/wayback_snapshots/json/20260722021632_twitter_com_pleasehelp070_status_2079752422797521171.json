@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2079718864263500196",
+    "created_at": "2026-07-22T02:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079752422797521171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729436345913995265",
+          "start": 0,
+          "username": "p1NRed1_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079752422797521171",
+    "in_reply_to_user_id": "1729436345913995265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079718864263500196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p1NRed1_A 我想TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2079718864263500196",
+        "created_at": "2026-07-22T02:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079752422797521171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079752422797521171",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079718864263500196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 我想TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2079718864263500196",
+        "created_at": "2026-07-22T00:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079718864263500196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079718864263500196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像有很多人我答应给你们画画但是我遗忘了快来找我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "低浮上 一只互联网幽灵 如果不见了就是成为天使啦\nmtx💊社交苦手/大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 168,
+          "like_count": 3955,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 943
+        },
+        "url": "",
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 581,
+          "like_count": 1795,
+          "listed_count": 3,
+          "media_count": 433,
+          "tweet_count": 7049
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

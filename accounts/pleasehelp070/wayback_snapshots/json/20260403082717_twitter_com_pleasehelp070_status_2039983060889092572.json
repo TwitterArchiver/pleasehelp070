@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039983060889092572",
+    "created_at": "2026-04-03T08:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039983060889092572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pinkfigures/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/pinkfigures/status/2039509163613556773",
+          "start": 4,
+          "url": "https://t.co/KHcPtuFLmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039983060889092572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039509163613556773",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱 https://t.co/KHcPtuFLmg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1846550708792754176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaBEFhFWgAAJKB4.jpg",
+        "width": 600
+      },
+      {
+        "height": 683,
+        "media_key": "3_1846550709979815936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaBEFlgXoAAdsLG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039983060889092572",
+        "created_at": "2026-04-03T08:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039983060889092572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinkfigures/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/pinkfigures/status/2039509163613556773",
+              "start": 4,
+              "url": "https://t.co/KHcPtuFLmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039983060889092572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039509163613556773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱 https://t.co/KHcPtuFLmg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846550708792754176",
+            "3_1846550709979815936"
+          ],
+          "media_source_tweet_id": [
+            "1846550712395710483",
+            "1846550712395710483"
+          ]
+        },
+        "author_id": "1376316289673801733",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039509163613556773",
+        "created_at": "2026-04-02T01:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T02:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039509163613556773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nk0ApLwG3A",
+              "end": 83,
+              "expanded_url": "https://x.com/pinkfiguremedia/status/1846550712395710483/photo/1",
+              "media_key": "3_1846550708792754176",
+              "start": 60,
+              "url": "https://t.co/Nk0ApLwG3A"
+            },
+            {
+              "display_url": "pic.x.com/Nk0ApLwG3A",
+              "end": 83,
+              "expanded_url": "https://x.com/pinkfiguremedia/status/1846550712395710483/photo/1",
+              "media_key": "3_1846550709979815936",
+              "start": 60,
+              "url": "https://t.co/Nk0ApLwG3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039509163613556773",
+        "lang": "nl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 13051,
+          "like_count": 1606,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "💒 NEEDY STREAMER OVERLOAD - KAngel: q ban ver. (garage kit) https://t.co/Nk0ApLwG3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 164,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 234
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-28T23:32:38.000Z",
+        "description": "🌸 bot that posts pink figures 🌸 duplicate figures will be posted 🌸 some figures may be suggestive 🌸 using @GimmickBots 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "GimmickBots"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myfigurecollection.net/club/2474",
+                "end": 23,
+                "expanded_url": "http://myfigurecollection.net/club/2474",
+                "start": 0,
+                "url": "https://t.co/SaVr2pBcBz"
+              }
+            ]
+          }
+        },
+        "id": "1376316289673801733",
+        "location": "♡ last updated on 01/17 ♡",
+        "name": "🌸 pink figures",
+        "pinned_tweet_id": "1756680377731522958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640728280373293057/Ew784ZoM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45666,
+          "following_count": 9,
+          "like_count": 568,
+          "listed_count": 199,
+          "media_count": 55991,
+          "tweet_count": 56392
+        },
+        "url": "https://t.co/SaVr2pBcBz",
+        "username": "pinkfigures",
+        "verified": false
+      }
+    ]
+  }
+}

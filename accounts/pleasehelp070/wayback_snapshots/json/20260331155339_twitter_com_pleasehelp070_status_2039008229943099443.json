@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039008229943099443",
+    "created_at": "2026-03-31T15:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039008229943099443"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039008229943099443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美金刚垃圾🗑️\n到底谁想到o这个鬼东西的！？！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039008229943099443",
+        "created_at": "2026-03-31T15:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039008229943099443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039008229943099443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚垃圾🗑️\n到底谁想到o这个鬼东西的！？！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "不登校💊ASD&ADHD交流障碍 精神病@想交朋友🥺 是互联网天使✝️ ༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 111,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 129
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2044588959435796913",
+    "created_at": "2026-04-17T06:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T07:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045028063482884409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        },
+        {
+          "end": 29,
+          "id": "1907414826101669888",
+          "start": 13,
+          "username": "JamFarewellSong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045028063482884409",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044588959435796913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 @JamFarewellSong 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2044588959435796913",
+        "created_at": "2026-04-17T06:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045028063482884409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 29,
+              "id": "1907414826101669888",
+              "start": 13,
+              "username": "JamFarewellSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045028063482884409",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044588959435796913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 @JamFarewellSong 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2044588959435796913",
+        "created_at": "2026-04-16T01:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:27:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044588538117906515",
+          "2044588959435796913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044588959435796913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2080,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "600fo的抽奖来了\n一等奖：绿普2盒或一盒国补（折20CNY）*1人\n二等奖：绿普1盒（折10CNY）*2人\n三等奖：ym一盒（折8CNY）*2人\n\n关注+转发+点赞+评论参与，4月18日下午2点开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 141,
+          "like_count": 1836,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 451
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 870,
+          "like_count": 56164,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 442
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-02T12:48:43.000Z",
+        "description": "电波系中央空调；MtX&泛性恋&ASD&（隐藏属性）&CPTSD，性别/身材焦虑；od、自伤の新手；文娱杂食党，Gore爱好者；期待大家扩列互fo😇",
+        "id": "1907414826101669888",
+        "name": "果酱离歌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039485605093298176/XoZ5NfRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 829,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 551
+        },
+        "username": "JamFarewellSong",
+        "verified": false
+      }
+    ]
+  }
+}

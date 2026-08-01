@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028284837598310400"
+      ],
+      "media_source_tweet_id": [
+        "2028284928031649967"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2028494274715848807",
+    "created_at": "2026-03-02T15:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028494274715848807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1321105026626908162",
+          "start": 3,
+          "username": "chinikuniku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E7VIY758N8",
+          "end": 40,
+          "expanded_url": "https://x.com/chinikuniku/status/2028284928031649967/photo/1",
+          "media_key": "3_2028284837598310400",
+          "start": 17,
+          "url": "https://t.co/E7VIY758N8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028494274715848807",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 244
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028284928031649967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chinikuniku: https://t.co/E7VIY758N8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2028284837598310400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXqUEBbsAAFW3S.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028284837598310400"
+          ],
+          "media_source_tweet_id": [
+            "2028284928031649967"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2028494274715848807",
+        "created_at": "2026-03-02T15:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028494274715848807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1321105026626908162",
+              "start": 3,
+              "username": "chinikuniku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7VIY758N8",
+              "end": 40,
+              "expanded_url": "https://x.com/chinikuniku/status/2028284928031649967/photo/1",
+              "media_key": "3_2028284837598310400",
+              "start": 17,
+              "url": "https://t.co/E7VIY758N8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028494274715848807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 244
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028284928031649967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chinikuniku: https://t.co/E7VIY758N8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028284837598310400"
+          ]
+        },
+        "author_id": "1321105026626908162",
+        "conversation_id": "2028284928031649967",
+        "created_at": "2026-03-02T01:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028284928031649967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7VIY758N8",
+              "end": 23,
+              "expanded_url": "https://x.com/chinikuniku/status/2028284928031649967/photo/1",
+              "media_key": "3_2028284837598310400",
+              "start": 0,
+              "url": "https://t.co/E7VIY758N8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028284928031649967",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 32977,
+          "like_count": 1983,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 244
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/E7VIY758N8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "精神病",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005965433946660864/vJyXCClA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-27T15:02:48.000Z",
+        "description": "雑多\n現在ご依頼は着手2026年3月～ ■創作タグ #十十骨館 ■https://t.co/l9EZQ8L70w",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "十十骨館"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/chinikuniku",
+                "end": 56,
+                "expanded_url": "http://lit.link/chinikuniku",
+                "start": 33,
+                "url": "https://t.co/l9EZQ8L70w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/8x0or685n…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/8x0or685njh64l5b/",
+                "start": 0,
+                "url": "https://t.co/9q82QzW4B1"
+              }
+            ]
+          }
+        },
+        "id": "1321105026626908162",
+        "location": "高峰くんちの水槽",
+        "name": "♨️💉💪🧠",
+        "pinned_tweet_id": "1432688715512442883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476225295577653249/Zj2eAmDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68275,
+          "following_count": 259,
+          "like_count": 4386,
+          "listed_count": 467,
+          "media_count": 510,
+          "tweet_count": 5656
+        },
+        "url": "https://t.co/9q82QzW4B1",
+        "username": "chinikuniku",
+        "verified": false
+      }
+    ]
+  }
+}

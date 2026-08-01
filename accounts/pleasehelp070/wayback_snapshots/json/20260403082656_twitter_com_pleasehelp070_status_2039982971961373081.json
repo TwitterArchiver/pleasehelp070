@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039978347355386342",
+    "created_at": "2026-04-03T08:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039982971961373081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877473083063201792",
+          "start": 0,
+          "username": "dorothy1614926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039982971961373081",
+    "in_reply_to_user_id": "1877473083063201792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039981985628901489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dorothy1614926 谢谢恋恋！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039978347355386342",
+        "created_at": "2026-04-03T08:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039982971961373081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877473083063201792",
+              "start": 0,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039982971961373081",
+        "in_reply_to_user_id": "1877473083063201792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039981985628901489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorothy1614926 谢谢恋恋！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877473083063201792",
+        "conversation_id": "2039978347355386342",
+        "created_at": "2026-04-03T08:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039981985628901489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039981985628901489",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039978347355386342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 抱抱ame哦，会好起来的说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 164,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 233
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛いこいこい、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜喜欢xnn&xyn｜互fo｜如果有不开心的事都可以找椛椛聊天噢～｜最棒的女友@ansiyao520｜最最最可爱的妹妹@maxC47884317783｜世另我？@wenhuamengyue",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "ansiyao520"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "wenhuamengyue"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029794137164369924/mmgEnuwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 264,
+          "like_count": 3358,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 472
+        },
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054170787255558144"
+      ],
+      "media_source_tweet_id": [
+        "2054170811670593749"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2054549731112800450",
+    "created_at": "2026-05-13T13:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054549731112800450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2iPsSjOht0",
+          "end": 60,
+          "expanded_url": "https://x.com/smiroyama/status/2054170811670593749/photo/1",
+          "media_key": "3_2054170787255558144",
+          "start": 37,
+          "url": "https://t.co/2iPsSjOht0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054549731112800450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054170811670593749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 东亚家长面对孩子精神疾病 be like: https://t.co/2iPsSjOht0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1238,
+        "media_key": "3_2054170787255558144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHhcpJaIAAMXCN.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054170787255558144"
+          ],
+          "media_source_tweet_id": [
+            "2054170811670593749"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2054549731112800450",
+        "created_at": "2026-05-13T13:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054549731112800450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iPsSjOht0",
+              "end": 60,
+              "expanded_url": "https://x.com/smiroyama/status/2054170811670593749/photo/1",
+              "media_key": "3_2054170787255558144",
+              "start": 37,
+              "url": "https://t.co/2iPsSjOht0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054549731112800450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054170811670593749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 东亚家长面对孩子精神疾病 be like: https://t.co/2iPsSjOht0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054170787255558144"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2054170811670593749",
+        "created_at": "2026-05-12T12:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054170811670593749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iPsSjOht0",
+              "end": 45,
+              "expanded_url": "https://x.com/smiroyama/status/2054170811670593749/photo/1",
+              "media_key": "3_2054170787255558144",
+              "start": 22,
+              "url": "https://t.co/2iPsSjOht0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054170811670593749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 42134,
+          "like_count": 1119,
+          "quote_count": 4,
+          "reply_count": 61,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "东亚家长面对孩子精神疾病 be like: https://t.co/2iPsSjOht0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 164,
+          "like_count": 3207,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 805
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4879,
+          "following_count": 2210,
+          "like_count": 10868,
+          "listed_count": 16,
+          "media_count": 1608,
+          "tweet_count": 6419
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

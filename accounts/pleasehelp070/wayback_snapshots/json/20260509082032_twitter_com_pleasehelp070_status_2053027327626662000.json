@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052954794206306304"
+      ],
+      "media_source_tweet_id": [
+        "2052954801328226371"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2053027327626662000",
+    "created_at": "2026-05-09T08:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053027327626662000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bBrTBZ0KQb",
+          "end": 50,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2052954801328226371/photo/1",
+          "media_key": "3_2052954794206306304",
+          "start": 27,
+          "url": "https://t.co/bBrTBZ0KQb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053027327626662000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052954801328226371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 送给我的关注者 https://t.co/bBrTBZ0KQb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2052954794206306304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2PgiCaIAAx7HI.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052954794206306304"
+          ],
+          "media_source_tweet_id": [
+            "2052954801328226371"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2053027327626662000",
+        "created_at": "2026-05-09T08:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053027327626662000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBrTBZ0KQb",
+              "end": 50,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2052954801328226371/photo/1",
+              "media_key": "3_2052954794206306304",
+              "start": 27,
+              "url": "https://t.co/bBrTBZ0KQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053027327626662000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052954801328226371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 送给我的关注者 https://t.co/bBrTBZ0KQb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052954794206306304"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2052954801328226371",
+        "created_at": "2026-05-09T03:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052954801328226371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBrTBZ0KQb",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2052954801328226371/photo/1",
+              "media_key": "3_2052954794206306304",
+              "start": 8,
+              "url": "https://t.co/bBrTBZ0KQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052954801328226371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 647,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "送给我的关注者 https://t.co/bBrTBZ0KQb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 163,
+          "like_count": 2720,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 705
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10417,
+          "following_count": 4285,
+          "like_count": 45474,
+          "listed_count": 33,
+          "media_count": 2160,
+          "tweet_count": 13500
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

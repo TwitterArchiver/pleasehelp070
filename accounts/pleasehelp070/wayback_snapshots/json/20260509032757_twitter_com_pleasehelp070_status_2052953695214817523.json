@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052953695214817523",
+    "created_at": "2026-05-09T03:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052953695214817523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/123mp27/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/123mp27/status/2052731878973599843",
+          "start": 5,
+          "url": "https://t.co/LYhIZU5WG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052953695214817523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052731878973599843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了 https://t.co/LYhIZU5WG6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052953695214817523",
+        "created_at": "2026-05-09T03:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052953695214817523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/123mp27/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/123mp27/status/2052731878973599843",
+              "start": 5,
+              "url": "https://t.co/LYhIZU5WG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052953695214817523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052731878973599843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/LYhIZU5WG6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944989354239385600",
+        "conversation_id": "2052731878973599843",
+        "created_at": "2026-05-08T12:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052731878973599843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052731878973599843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1959,
+          "like_count": 80,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我们不说跳楼，我们说生命掷地有声；\n我们不说跳河，我们说生命随波逐流；\n我们不说割腕，我们说生命汇流成河；\n我们不说农药，我们说生物归于草木；\n我们不说上吊，我们说生命迎风飘扬；\n我们不说碾杀，我们说生命涂写成画；\n我们不说触电，我们说生命光彩照人：\n我们不说车祸，我们说生命五彩缤纷。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 153,
+          "like_count": 2524,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 635
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:16:48.000Z",
+        "description": "11年落地组装在河北承德，现居辽宁朝阳(intp)\n/欢迎私信，接受宣泄和游戏，不会泄露\n/我可能是个傻福吧:D\n/无政治立场\n/实名王艳阳\n/主听摇滚\n/低情商\n/此人温和是好猫\n/匿名消息https://t.co/bvZlqGKxZu\n/可爱的人@DIC_EWE\n/➗省msk我操你🐴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 125,
+                "username": "DIC_EWE"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/123mp27",
+                "end": 119,
+                "expanded_url": "https://ngl.link/123mp27",
+                "start": 96,
+                "url": "https://t.co/bvZlqGKxZu"
+              }
+            ]
+          }
+        },
+        "id": "1944989354239385600",
+        "location": "互fo需要查成分，只要不是傻逼和重度鉴证就可以",
+        "name": "Rana (e…...mmm.....baka!.",
+        "pinned_tweet_id": "2050587377068863603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022327136024252416/SQnOL9qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 337,
+          "like_count": 3237,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2396
+        },
+        "username": "123mp27",
+        "verified": false
+      }
+    ]
+  }
+}

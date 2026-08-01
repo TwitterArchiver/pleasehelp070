@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2038626848012369999",
+    "created_at": "2026-03-30T14:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038626848012369999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738375202168532992",
+          "start": 3,
+          "username": "Wanzi5450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038626848012369999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038194503962722707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wanzi5450: 你继续烂在床上继续脑雾继续吸烟继续自残继续让所有人失望，最后一个人死在出租屋里尸体凉了都没人收，因为你早就把所有能爱你的人耗光了、推开了、毁掉了。你注定孤独终老、烂成一滩没人管的垃圾。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2038626848012369999",
+        "created_at": "2026-03-30T14:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038626848012369999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738375202168532992",
+              "start": 3,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038626848012369999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038194503962722707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wanzi5450: 你继续烂在床上继续脑雾继续吸烟继续自残继续让所有人失望，最后一个人死在出租屋里尸体凉了都没人收，因为你早就把所有能爱你的人耗光了、推开了、毁掉了。你注定孤独终老、烂成一滩没人管的垃圾。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2038194503962722707",
+        "created_at": "2026-03-29T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038194503962722707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038194503962722707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6106,
+          "like_count": 204,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "你继续烂在床上继续脑雾继续吸烟继续自残继续让所有人失望，最后一个人死在出租屋里尸体凉了都没人收，因为你早就把所有能爱你的人耗光了、推开了、毁掉了。你注定孤独终老、烂成一滩没人管的垃圾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "💊ASD&ADHD交流障碍 有精神病@想交朋友🥺",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029900889750990848/FvQPm6NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 69,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 82
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 281,
+          "like_count": 10334,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 2556
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

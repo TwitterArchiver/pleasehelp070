@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2046513732730462366",
+    "created_at": "2026-04-21T12:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046565264104591770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1979915051071938560",
+          "start": 0,
+          "username": "Prouwtt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046565264104591770",
+    "in_reply_to_user_id": "1979915051071938560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046513732730462366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prouwtt 什么药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2046513732730462366",
+        "created_at": "2026-04-21T12:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046565264104591770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1979915051071938560",
+              "start": 0,
+              "username": "Prouwtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046565264104591770",
+        "in_reply_to_user_id": "1979915051071938560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046513732730462366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prouwtt 什么药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979915051071938560",
+        "conversation_id": "2046513732730462366",
+        "created_at": "2026-04-21T08:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046513732730462366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046513732730462366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "废物药还没上机就下机了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "社交苦手",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 143,
+          "like_count": 1981,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 498
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T14:19:42.000Z",
+        "description": "无性别电子幽灵\n性冷淡苦恼中",
+        "id": "1979915051071938560",
+        "name": "Prouw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979915757858287616/Ag0ZSmsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 109,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 693
+        },
+        "username": "Prouwtt",
+        "verified": false
+      }
+    ]
+  }
+}

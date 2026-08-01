@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2053059226529149169",
+    "created_at": "2026-05-09T14:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053120063826448617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1745811425501802496",
+          "start": 0,
+          "username": "4utumna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053120063826448617",
+    "in_reply_to_user_id": "1745811425501802496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053059226529149169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4utumna 同意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2053059226529149169",
+        "created_at": "2026-05-09T14:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053120063826448617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1745811425501802496",
+              "start": 0,
+              "username": "4utumna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053120063826448617",
+        "in_reply_to_user_id": "1745811425501802496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053059226529149169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4utumna 同意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745811425501802496",
+        "conversation_id": "2053059226529149169",
+        "created_at": "2026-05-09T10:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053059226529149169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053059226529149169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "申请给苹果输入法报一个中文补习班"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 166,
+          "like_count": 2915,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 745
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T14:14:31.000Z",
+        "description": "",
+        "id": "1745811425501802496",
+        "name": "QkA",
+        "pinned_tweet_id": "2045888661276041681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858881519542304768/Sh1xprXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 83,
+          "like_count": 20400,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1615
+        },
+        "username": "4utumna",
+        "verified": false
+      }
+    ]
+  }
+}

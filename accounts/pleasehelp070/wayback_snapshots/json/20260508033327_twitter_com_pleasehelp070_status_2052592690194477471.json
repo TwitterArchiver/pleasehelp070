@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052592690194477471",
+    "created_at": "2026-05-08T03:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052592690194477471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026680668365991936",
+          "start": 3,
+          "username": "Sakee1106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052592690194477471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052229581432889514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakee1106: 我觉得中式教育带给人最深的烙印就是愧疚感。昨天我感冒发烧了，已经特别不舒服，却还在犹豫要不要请假，怕耽误工作进度。硬着头皮请假从昨晚睡到现在，第一反应不是舒服而是担心，我真的会因为半天没去工作而感到愧疚，并且会担心有人说闲话，说我只知道休息偷懒。好…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052592690194477471",
+        "created_at": "2026-05-08T03:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052592690194477471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026680668365991936",
+              "start": 3,
+              "username": "Sakee1106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052592690194477471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052229581432889514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakee1106: 我觉得中式教育带给人最深的烙印就是愧疚感。昨天我感冒发烧了，已经特别不舒服，却还在犹豫要不要请假，怕耽误工作进度。硬着头皮请假从昨晚睡到现在，第一反应不是舒服而是担心，我真的会因为半天没去工作而感到愧疚，并且会担心有人说闲话，说我只知道休息偷懒。好…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026680668365991936",
+        "conversation_id": "2052229581432889514",
+        "created_at": "2026-05-07T03:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052229581432889514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052229581432889514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 16350,
+          "like_count": 466,
+          "quote_count": 5,
+          "reply_count": 63,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得中式教育带给人最深的烙印就是愧疚感。昨天我感冒发烧了，已经特别不舒服，却还在犹豫要不要请假，怕耽误工作进度。硬着头皮请假从昨晚睡到现在，第一反应不是舒服而是担心，我真的会因为半天没去工作而感到愧疚，并且会担心有人说闲话，说我只知道休息偷懒。好可怕的心理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 145,
+          "like_count": 2216,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 575
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T15:28:30.000Z",
+        "description": "漂流在世界 的另一边",
+        "id": "2026680668365991936",
+        "name": "王宇昊",
+        "pinned_tweet_id": "2050631920367894741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042607302763778056/PeTxbluy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 68,
+          "like_count": 5289,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 846
+        },
+        "username": "Sakee1106",
+        "verified": false
+      }
+    ]
+  }
+}

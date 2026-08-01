@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2037217005808607571",
+    "created_at": "2026-03-26T17:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037217005808607571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037217005808607571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036972009301959077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 你以后在手臂上纹点水果吧，虽然吃不起但这样自残的时候会有种在玩水果忍者的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2037217005808607571",
+        "created_at": "2026-03-26T17:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037217005808607571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037217005808607571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036972009301959077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 你以后在手臂上纹点水果吧，虽然吃不起但这样自残的时候会有种在玩水果忍者的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2036972009301959077",
+        "created_at": "2026-03-26T01:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036972009301959077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036972009301959077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9703,
+          "like_count": 296,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "你以后在手臂上纹点水果吧，虽然吃不起但这样自残的时候会有种在玩水果忍者的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "ASD&ADHD交流障碍 有精神病",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029900889750990848/FvQPm6NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 70,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 84
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 防丢小号：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miiharukawa",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miiharukawa",
+                "start": 0,
+                "url": "https://t.co/BmtlQT9Bbl"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 148,
+          "like_count": 3534,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/BmtlQT9Bbl",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

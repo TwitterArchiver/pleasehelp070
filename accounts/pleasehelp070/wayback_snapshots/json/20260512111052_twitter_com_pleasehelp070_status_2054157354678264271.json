@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2054157354678264271",
+    "created_at": "2026-05-12T11:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054157354678264271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954500072517103617",
+          "start": 3,
+          "username": "dtxx333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054157354678264271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053873545130954874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dtxx333: 和所有人聊天透露自己高三生的身份会触发高考加油。这是属于中国人的底层代码？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2054157354678264271",
+        "created_at": "2026-05-12T11:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054157354678264271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954500072517103617",
+              "start": 3,
+              "username": "dtxx333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054157354678264271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053873545130954874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dtxx333: 和所有人聊天透露自己高三生的身份会触发高考加油。这是属于中国人的底层代码？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954500072517103617",
+        "conversation_id": "2053873545130954874",
+        "created_at": "2026-05-11T16:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053873545130954874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053873545130954874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 46774,
+          "like_count": 540,
+          "quote_count": 4,
+          "reply_count": 297,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "和所有人聊天透露自己高三生的身份会触发高考加油。这是属于中国人的底层代码？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 164,
+          "like_count": 3137,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 791
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "我都是乱说的",
+        "id": "1954500072517103617",
+        "name": "蛋挞熊",
+        "pinned_tweet_id": "1988637598730854771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038095789898317824/PZ_lPtAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 310,
+          "like_count": 6648,
+          "listed_count": 7,
+          "media_count": 260,
+          "tweet_count": 2373
+        },
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

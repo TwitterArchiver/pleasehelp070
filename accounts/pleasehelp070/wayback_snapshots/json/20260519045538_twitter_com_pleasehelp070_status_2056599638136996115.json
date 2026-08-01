@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2056599638136996115",
+    "created_at": "2026-05-19T04:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056599638136996115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1244543552652054528",
+          "start": 3,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056599638136996115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056226929607663963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Greenfish_111: 我就是那种为了避免不好的结果 于是自己提前把一切都毁掉的那种人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2056599638136996115",
+        "created_at": "2026-05-19T04:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056599638136996115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1244543552652054528",
+              "start": 3,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056599638136996115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056226929607663963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Greenfish_111: 我就是那种为了避免不好的结果 于是自己提前把一切都毁掉的那种人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2056226929607663963",
+        "created_at": "2026-05-18T04:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056226929607663963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056226929607663963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我就是那种为了避免不好的结果 于是自己提前把一切都毁掉的那种人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 159,
+          "like_count": 3369,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 833
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/神秘第二人格@flyfrog_222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "flyfrog_222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuainiao.online/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://kuainiao.online/#/register?code=iV5KjmJy",
+                "start": 0,
+                "url": "https://t.co/KTFJqVGMO0"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "Silent Hill     自用梯子⬇️",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2047987551819194768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4936,
+          "following_count": 540,
+          "like_count": 13136,
+          "listed_count": 8,
+          "media_count": 1088,
+          "tweet_count": 14084
+        },
+        "url": "https://t.co/KTFJqVGMO0",
+        "username": "Greenfish_111",
+        "verified": true
+      }
+    ]
+  }
+}

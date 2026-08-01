@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056602151196250112",
+        "3_2056602151196164096"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2056602160474083514",
+    "created_at": "2026-05-19T05:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056602160474083514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tepy9Gg8vS",
+          "end": 30,
+          "expanded_url": "https://x.com/pleasehelp070/status/2056602160474083514/photo/1",
+          "media_key": "3_2056602151196250112",
+          "start": 7,
+          "url": "https://t.co/Tepy9Gg8vS"
+        },
+        {
+          "display_url": "pic.x.com/Tepy9Gg8vS",
+          "end": 30,
+          "expanded_url": "https://x.com/pleasehelp070/status/2056602160474083514/photo/1",
+          "media_key": "3_2056602151196164096",
+          "start": 7,
+          "url": "https://t.co/Tepy9Gg8vS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056602160474083514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😨转发一下吧 https://t.co/Tepy9Gg8vS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056602151196250112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqEwppbUAA7dGZ.jpg",
+        "width": 1157
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2056602151196164096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqEwppaAAAtBRi.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056602151196250112",
+            "3_2056602151196164096"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2056602160474083514",
+        "created_at": "2026-05-19T05:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056602160474083514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tepy9Gg8vS",
+              "end": 30,
+              "expanded_url": "https://x.com/pleasehelp070/status/2056602160474083514/photo/1",
+              "media_key": "3_2056602151196250112",
+              "start": 7,
+              "url": "https://t.co/Tepy9Gg8vS"
+            },
+            {
+              "display_url": "pic.x.com/Tepy9Gg8vS",
+              "end": 30,
+              "expanded_url": "https://x.com/pleasehelp070/status/2056602160474083514/photo/1",
+              "media_key": "3_2056602151196164096",
+              "start": 7,
+              "url": "https://t.co/Tepy9Gg8vS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056602160474083514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😨转发一下吧 https://t.co/Tepy9Gg8vS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 159,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 836
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

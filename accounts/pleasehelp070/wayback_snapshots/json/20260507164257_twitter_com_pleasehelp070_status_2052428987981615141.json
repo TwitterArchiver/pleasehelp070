@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052394410764070912"
+      ],
+      "media_source_tweet_id": [
+        "2052394421514117600"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052428987981615141",
+    "created_at": "2026-05-07T16:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052428987981615141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1772058587134631937",
+          "start": 3,
+          "username": "meowjaaiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMNUs2pbcw",
+          "end": 39,
+          "expanded_url": "https://x.com/meowjaaiii/status/2052394421514117600/photo/1",
+          "media_key": "3_2052394410764070912",
+          "start": 16,
+          "url": "https://t.co/PMNUs2pbcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052428987981615141",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052394421514117600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meowjaaiii: https://t.co/PMNUs2pbcw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052394410764070912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuR17CW8AAF4I5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052394410764070912"
+          ],
+          "media_source_tweet_id": [
+            "2052394421514117600"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052428987981615141",
+        "created_at": "2026-05-07T16:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052428987981615141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1772058587134631937",
+              "start": 3,
+              "username": "meowjaaiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMNUs2pbcw",
+              "end": 39,
+              "expanded_url": "https://x.com/meowjaaiii/status/2052394421514117600/photo/1",
+              "media_key": "3_2052394410764070912",
+              "start": 16,
+              "url": "https://t.co/PMNUs2pbcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052428987981615141",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052394421514117600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meowjaaiii: https://t.co/PMNUs2pbcw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052394410764070912"
+          ]
+        },
+        "author_id": "1772058587134631937",
+        "conversation_id": "2052394421514117600",
+        "created_at": "2026-05-07T14:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052394421514117600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMNUs2pbcw",
+              "end": 23,
+              "expanded_url": "https://x.com/meowjaaiii/status/2052394421514117600/photo/1",
+              "media_key": "3_2052394410764070912",
+              "start": 0,
+              "url": "https://t.co/PMNUs2pbcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052394421514117600",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 5290,
+          "like_count": 1000,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PMNUs2pbcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 143,
+          "like_count": 2146,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 557
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T00:31:17.000Z",
+        "description": "estabilidad mental y plata son 2 cosas q no tengo side: @madohomucanonn -",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "madohomucanonn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/VAcIBBuysT"
+              }
+            ]
+          }
+        },
+        "id": "1772058587134631937",
+        "location": "momazos ame chan👀🔥",
+        "name": "ame🇺🇾",
+        "pinned_tweet_id": "2046325152749597113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048112556531908608/-Z8ZYanf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 518,
+          "like_count": 24637,
+          "listed_count": 3,
+          "media_count": 621,
+          "tweet_count": 17332
+        },
+        "url": "https://t.co/VAcIBBuysT",
+        "username": "meowjaaiii",
+        "verified": false
+      }
+    ]
+  }
+}

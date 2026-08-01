@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056653544258953216"
+      ],
+      "media_source_tweet_id": [
+        "2056653555373932632"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057074604695552192",
+    "created_at": "2026-05-20T12:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057074604695552192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "893489787411222528",
+          "start": 3,
+          "username": "kuren_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2E92b1spX0",
+          "end": 59,
+          "expanded_url": "https://x.com/kuren_chan/status/2056653555373932632/photo/1",
+          "media_key": "3_2056653544258953216",
+          "start": 36,
+          "url": "https://t.co/2E92b1spX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057074604695552192",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056653555373932632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuren_chan: NEEDY GIRL OVERDOSE https://t.co/2E92b1spX0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1160,
+        "media_key": "3_2056653544258953216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqzgHuaYAA2HbN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056653544258953216"
+          ],
+          "media_source_tweet_id": [
+            "2056653555373932632"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057074604695552192",
+        "created_at": "2026-05-20T12:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057074604695552192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "893489787411222528",
+              "start": 3,
+              "username": "kuren_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2E92b1spX0",
+              "end": 59,
+              "expanded_url": "https://x.com/kuren_chan/status/2056653555373932632/photo/1",
+              "media_key": "3_2056653544258953216",
+              "start": 36,
+              "url": "https://t.co/2E92b1spX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057074604695552192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056653555373932632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuren_chan: NEEDY GIRL OVERDOSE https://t.co/2E92b1spX0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056653544258953216"
+          ]
+        },
+        "author_id": "893489787411222528",
+        "conversation_id": "2056653555373932632",
+        "created_at": "2026-05-19T08:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056653555373932632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2E92b1spX0",
+              "end": 43,
+              "expanded_url": "https://x.com/kuren_chan/status/2056653555373932632/photo/1",
+              "media_key": "3_2056653544258953216",
+              "start": 20,
+              "url": "https://t.co/2E92b1spX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056653555373932632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 21907,
+          "like_count": 2621,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "NEEDY GIRL OVERDOSE https://t.co/2E92b1spX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 160,
+          "like_count": 3473,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 855
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T15:12:20.000Z",
+        "description": "まくらです૮๑•̀ㅁ•́ฅა #まくらーめん 異世界同位体 #花咲ゾンビ／Chinese cosplayer／@hiodoshiao 自慢な火女ちゃん♡ずっと愛してる／加工厨!! 時々変な日本語喋ります／必読→ https://t.co/e8NgojldHh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "まくらーめん"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "花咲ゾンビ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "hiodoshiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/hanasaki…",
+                "end": 129,
+                "expanded_url": "https://lit.link/zh-tw/hanasakimakura",
+                "start": 106,
+                "url": "https://t.co/e8NgojldHh"
+              }
+            ]
+          }
+        },
+        "id": "893489787411222528",
+        "location": "🚫転載禁止⚠️ 写真、仕事はDMへお願いします✨",
+        "name": "花崎Makura🌸🪽",
+        "pinned_tweet_id": "2044344429264404953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966926126384902146/hC-a3afb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192225,
+          "following_count": 999,
+          "like_count": 102284,
+          "listed_count": 741,
+          "media_count": 1225,
+          "tweet_count": 22478
+        },
+        "username": "kuren_chan",
+        "verified": true
+      }
+    ]
+  }
+}

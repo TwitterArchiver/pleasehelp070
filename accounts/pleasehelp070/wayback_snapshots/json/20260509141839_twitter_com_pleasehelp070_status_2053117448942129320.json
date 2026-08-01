@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019628674836996096"
+      ],
+      "media_source_tweet_id": [
+        "2019628683535990818"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2053117448942129320",
+    "created_at": "2026-05-09T14:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053117448942129320"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "若葉睦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "900298800601878528",
+          "start": 3,
+          "username": "NE2OP_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J6eUhydypp",
+          "end": 53,
+          "expanded_url": "https://x.com/NE2OP_/status/2019628683535990818/photo/1",
+          "media_key": "3_2019628674836996096",
+          "start": 30,
+          "url": "https://t.co/J6eUhydypp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053117448942129320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1368
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019628683535990818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NE2OP_: 我们永远都会是好朋友。\n #若葉睦 https://t.co/J6eUhydypp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2845,
+        "media_key": "3_2019628674836996096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcplE3aIAA7bkH.jpg",
+        "width": 2492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019628674836996096"
+          ],
+          "media_source_tweet_id": [
+            "2019628683535990818"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2053117448942129320",
+        "created_at": "2026-05-09T14:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053117448942129320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "若葉睦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "900298800601878528",
+              "start": 3,
+              "username": "NE2OP_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J6eUhydypp",
+              "end": 53,
+              "expanded_url": "https://x.com/NE2OP_/status/2019628683535990818/photo/1",
+              "media_key": "3_2019628674836996096",
+              "start": 30,
+              "url": "https://t.co/J6eUhydypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053117448942129320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1368
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019628683535990818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NE2OP_: 我们永远都会是好朋友。\n #若葉睦 https://t.co/J6eUhydypp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019628674836996096"
+          ]
+        },
+        "author_id": "900298800601878528",
+        "conversation_id": "2019628683535990818",
+        "created_at": "2026-02-06T04:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019628683535990818"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "若葉睦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J6eUhydypp",
+              "end": 41,
+              "expanded_url": "https://x.com/NE2OP_/status/2019628683535990818/photo/1",
+              "media_key": "3_2019628674836996096",
+              "start": 18,
+              "url": "https://t.co/J6eUhydypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019628683535990818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 530,
+          "impression_count": 79145,
+          "like_count": 6574,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 1368
+        },
+        "reply_settings": "everyone",
+        "text": "我们永远都会是好朋友。\n #若葉睦 https://t.co/J6eUhydypp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 165,
+          "like_count": 2896,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 743
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-23T10:08:55.000Z",
+        "description": "=铃 AveMujica/東方/Arknights/Reverse1999",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/27282806",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/27282806",
+                "start": 0,
+                "url": "https://t.co/lTVpKiSfPu"
+              }
+            ]
+          }
+        },
+        "id": "900298800601878528",
+        "location": "好饿，有吃的吗？",
+        "name": "NE2OP",
+        "pinned_tweet_id": "1923083253675639001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024984693528297472/KH_rGaG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15219,
+          "following_count": 101,
+          "like_count": 593,
+          "listed_count": 72,
+          "media_count": 58,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/lTVpKiSfPu",
+        "username": "NE2OP_",
+        "verified": false
+      }
+    ]
+  }
+}

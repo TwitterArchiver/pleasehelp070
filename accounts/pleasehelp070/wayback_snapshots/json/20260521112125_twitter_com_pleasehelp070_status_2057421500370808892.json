@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057421500370808892",
+    "created_at": "2026-05-21T11:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057421500370808892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1788083166856749056",
+          "start": 3,
+          "username": "LanLan93083241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057421500370808892",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057083308392280332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanLan93083241: 星期三放假非常科学的理由\n\n星期一：昨天放假了\n星期二：明天放假了\n星期三：今天放假了\n星期四：昨天放假了\n星期五：明天放假了\n周末：放假了\n这样的人生每天都充满了希望，多好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057421500370808892",
+        "created_at": "2026-05-21T11:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057421500370808892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788083166856749056",
+              "start": 3,
+              "username": "LanLan93083241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057421500370808892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057083308392280332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanLan93083241: 星期三放假非常科学的理由\n\n星期一：昨天放假了\n星期二：明天放假了\n星期三：今天放假了\n星期四：昨天放假了\n星期五：明天放假了\n周末：放假了\n这样的人生每天都充满了希望，多好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2057083308392280332",
+        "created_at": "2026-05-20T12:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057083308392280332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057083308392280332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9298,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "星期三放假非常科学的理由\n\n星期一：昨天放假了\n星期二：明天放假了\n星期三：今天放假了\n星期四：昨天放假了\n星期五：明天放假了\n周末：放假了\n这样的人生每天都充满了希望，多好呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 163,
+          "like_count": 3589,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 879
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望语言也可以是连续剧 谢谢关注😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2056920404464394370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41350,
+          "following_count": 2910,
+          "like_count": 40872,
+          "listed_count": 131,
+          "media_count": 1674,
+          "tweet_count": 2547
+        },
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

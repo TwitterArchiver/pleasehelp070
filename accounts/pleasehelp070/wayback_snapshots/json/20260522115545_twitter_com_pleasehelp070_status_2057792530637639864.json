@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2057792530637639864",
+    "created_at": "2026-05-22T11:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057792530637639864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057792530637639864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057482505545208196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonogamiRinneTS: 咱也差不多，从11岁开始就一直哀求父母赶紧帮我买药掐断生长发育，而且初中的时候也在一篇性早熟和一篇化学阉割的科普文章先后两次知道青春期阻断剂相关药物了。结果我父母两个正高医生一直就对我的痛苦冷眼旁观，直到青春期结束都拒绝提供任何帮助，只…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2057792530637639864",
+        "created_at": "2026-05-22T11:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057792530637639864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057792530637639864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057482505545208196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonogamiRinneTS: 咱也差不多，从11岁开始就一直哀求父母赶紧帮我买药掐断生长发育，而且初中的时候也在一篇性早熟和一篇化学阉割的科普文章先后两次知道青春期阻断剂相关药物了。结果我父母两个正高医生一直就对我的痛苦冷眼旁观，直到青春期结束都拒绝提供任何帮助，只…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2057482505545208196",
+        "created_at": "2026-05-21T15:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057482505545208196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheesemori_awa…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/cheesemori_awa/status/2049763764535267696",
+              "start": 142,
+              "url": "https://t.co/E8yg5wnGnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057482505545208196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "咱也差不多，从11岁开始就一直哀求父母赶紧帮我买药掐断生长发育，而且初中的时候也在一篇性早熟和一篇化学阉割的科普文章先后两次知道青春期阻断剂相关药物了。结果我父母两个正高医生一直就对我的痛苦冷眼旁观，直到青春期结束都拒绝提供任何帮助，只会指责我心思不在学习上和限制我上网。咱实在想不明白，咱家明明要钱有钱，要资源有资源，要关系有关系，为什么还会沦落到这个地步，硬生生把一个简单难度人生开局整成了地狱模式😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 13056,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049763764535267696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱也差不多，从11岁开始就一直哀求父母赶紧帮我买药掐断生长发育，而且初中的时候也在一篇性早熟和一篇化学阉割的科普文章先后两次知道青春期阻断剂相关药物了。结果我父母两个正高医生一直就对我的痛苦冷眼旁观，直到青春期结束都拒绝提供任何帮助，只会指责我心思不在学习上和限制我上网。咱实在想不 https://t.co/E8yg5wnGnt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 174,
+          "like_count": 3859,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 904
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4564,
+          "following_count": 3429,
+          "like_count": 1337,
+          "listed_count": 16,
+          "media_count": 253,
+          "tweet_count": 1717
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

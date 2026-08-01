@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057078170495627265"
+      ],
+      "media_source_tweet_id": [
+        "2057078172894855283"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Abema TV",
+          "id": "989515172690542593",
+          "name": "Abema TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Abema TV",
+          "id": "989515172690542593",
+          "name": "Abema TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "2057357704906318217",
+    "created_at": "2026-05-21T07:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057357704906318217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1338982069586731008",
+          "start": 3,
+          "username": "x_abysskawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/StrkmvlKya",
+          "end": 52,
+          "expanded_url": "https://x.com/x_abysskawaii_x/status/2057078172894855283/photo/1",
+          "media_key": "3_2057078170495627265",
+          "start": 29,
+          "url": "https://t.co/StrkmvlKya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057357704906318217",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 417
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057078172894855283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_abysskawaii_x: hello 😍 https://t.co/StrkmvlKya"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 313,
+        "media_key": "3_2057078170495627265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIw1snuaMAEgeSF.jpg",
+        "width": 414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057078170495627265"
+          ],
+          "media_source_tweet_id": [
+            "2057078172894855283"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2057357704906318217",
+        "created_at": "2026-05-21T07:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057357704906318217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1338982069586731008",
+              "start": 3,
+              "username": "x_abysskawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/StrkmvlKya",
+              "end": 52,
+              "expanded_url": "https://x.com/x_abysskawaii_x/status/2057078172894855283/photo/1",
+              "media_key": "3_2057078170495627265",
+              "start": 29,
+              "url": "https://t.co/StrkmvlKya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057357704906318217",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 417
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057078172894855283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_abysskawaii_x: hello 😍 https://t.co/StrkmvlKya"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057078170495627265"
+          ]
+        },
+        "author_id": "1338982069586731008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Abema TV",
+              "id": "989515172690542593",
+              "name": "Abema TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2057078172894855283",
+        "created_at": "2026-05-20T12:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057078172894855283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/StrkmvlKya",
+              "end": 31,
+              "expanded_url": "https://x.com/x_abysskawaii_x/status/2057078172894855283/photo/1",
+              "media_key": "3_2057078170495627265",
+              "start": 8,
+              "url": "https://t.co/StrkmvlKya"
+            },
+            {
+              "display_url": "x.com/needygirl_anim…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/needygirl_anime/status/2057023524821164171",
+              "start": 32,
+              "url": "https://t.co/SyXCziM3Fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057078172894855283",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 752,
+          "impression_count": 81375,
+          "like_count": 5345,
+          "quote_count": 25,
+          "reply_count": 12,
+          "retweet_count": 417
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057023524821164171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hello 😍 https://t.co/StrkmvlKya https://t.co/SyXCziM3Fv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 163,
+          "like_count": 3549,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 874
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-15T22:59:43.000Z",
+        "description": "i love ame! | ame’s most loyal follower since 11/27/2020!! | i only post official stuff",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "supertenchans.carrd.co",
+                "end": 23,
+                "expanded_url": "https://supertenchans.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/zMoFERMHVe"
+              }
+            ]
+          }
+        },
+        "id": "1338982069586731008",
+        "location": "19 | she | devoted 2 ame 11/27",
+        "name": "abyss",
+        "pinned_tweet_id": "2041427787987251539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020426945079779328/nHqJXrCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 575,
+          "like_count": 3929,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/zMoFERMHVe",
+        "username": "x_abysskawaii_x",
+        "verified": false
+      }
+    ]
+  }
+}

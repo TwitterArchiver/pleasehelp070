@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052778656574152846",
+    "created_at": "2026-05-09T02:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052939207853982163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040871731594731520",
+          "start": 0,
+          "username": "zh1shixueba0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052939207853982163",
+    "in_reply_to_user_id": "2040871731594731520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052831513843232913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zh1shixueba0 我真的就是一般聊完了就没话讲了…好心酸感觉看到了我自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052778656574152846",
+        "created_at": "2026-05-09T02:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052939207853982163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040871731594731520",
+              "start": 0,
+              "username": "zh1shixueba0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052939207853982163",
+        "in_reply_to_user_id": "2040871731594731520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052831513843232913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zh1shixueba0 我真的就是一般聊完了就没话讲了…好心酸感觉看到了我自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040871731594731520",
+        "conversation_id": "2052778656574152846",
+        "created_at": "2026-05-08T19:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052831513843232913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052831513843232913",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052778656574152846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 很简单，你只要开局微笑起手假装自己很开朗，然后保证自己说话带点热情的聊相关话题并且适当的在对方说话保持沉默并微笑，然后问自己的问题就好了，如果你问我没有相关话题或者聊完了该怎么办，那不好意思我也不知道了，因为我也不知道该怎么聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 153,
+          "like_count": 2482,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 630
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T19:18:50.000Z",
+        "description": "爽刷",
+        "id": "2040871731594731520",
+        "location": "比奇堡",
+        "name": "熬夜大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051071480180736000/DhSD5cXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 236
+        },
+        "username": "zh1shixueba0",
+        "verified": false
+      }
+    ]
+  }
+}

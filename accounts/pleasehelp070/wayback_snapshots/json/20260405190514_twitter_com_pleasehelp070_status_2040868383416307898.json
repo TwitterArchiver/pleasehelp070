@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040868373740056576"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2040868383416307898",
+    "created_at": "2026-04-05T19:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T20:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040868383416307898"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 0,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PUaHd2jz2V",
+          "end": 54,
+          "expanded_url": "https://x.com/pleasehelp070/status/2040868383416307898/photo/1",
+          "media_key": "3_2040868373740056576",
+          "start": 31,
+          "url": "https://t.co/PUaHd2jz2V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040868383416307898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#NEEDY_GIRL_OVERDOSE\n我画了头像❤️‍🩹 https://t.co/PUaHd2jz2V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2040868373740056576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFKe-RIa8AA-JIf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040868373740056576"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2040868383416307898",
+        "created_at": "2026-04-05T19:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040868383416307898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUaHd2jz2V",
+              "end": 54,
+              "expanded_url": "https://x.com/pleasehelp070/status/2040868383416307898/photo/1",
+              "media_key": "3_2040868373740056576",
+              "start": 31,
+              "url": "https://t.co/PUaHd2jz2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040868383416307898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE\n我画了头像❤️‍🩹 https://t.co/PUaHd2jz2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 166,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 380
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

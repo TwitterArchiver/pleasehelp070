@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057542594939503054",
+    "created_at": "2026-05-21T19:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T20:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057542594939503054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1592719222940962817",
+          "start": 3,
+          "username": "mofuwo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057542594939503054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057463477875376136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofuwo8964: 我说真的，我青春期唯一的少女心事其实就是在睡前无数次祈祷、在做梦中半梦半醒间祈祷，祈祷的内容和成绩情爱都没有关系，当时只是祈祷明天起床时发现我已经死了，在睡梦里无声无息无痛无感的死了。说白了我的少女心事就是我咋不死呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057542594939503054",
+        "created_at": "2026-05-21T19:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T20:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057542594939503054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1592719222940962817",
+              "start": 3,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057542594939503054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057463477875376136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mofuwo8964: 我说真的，我青春期唯一的少女心事其实就是在睡前无数次祈祷、在做梦中半梦半醒间祈祷，祈祷的内容和成绩情爱都没有关系，当时只是祈祷明天起床时发现我已经死了，在睡梦里无声无息无痛无感的死了。说白了我的少女心事就是我咋不死呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2057463477875376136",
+        "created_at": "2026-05-21T14:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057463477875376136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057463477875376136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说真的，我青春期唯一的少女心事其实就是在睡前无数次祈祷、在做梦中半梦半醒间祈祷，祈祷的内容和成绩情爱都没有关系，当时只是祈祷明天起床时发现我已经死了，在睡梦里无声无息无痛无感的死了。说白了我的少女心事就是我咋不死呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 165,
+          "like_count": 3655,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 883
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056389782155218944/-aFfXzlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 901,
+          "like_count": 3571,
+          "listed_count": 6,
+          "media_count": 190,
+          "tweet_count": 2727
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

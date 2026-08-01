@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038956350156488704"
+      ],
+      "media_source_tweet_id": [
+        "2038956450089971918"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039007666522194243",
+    "created_at": "2026-03-31T15:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039007666522194243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778700125944381440",
+          "start": 3,
+          "username": "_adip0cere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r7eRqk2mKK",
+          "end": 41,
+          "expanded_url": "https://x.com/_adip0cere/status/2038956450089971918/photo/1",
+          "media_key": "3_2038956350156488704",
+          "start": 18,
+          "url": "https://t.co/r7eRqk2mKK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039007666522194243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 581
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038956450089971918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_adip0cere: 腕 https://t.co/r7eRqk2mKK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1611,
+        "media_key": "3_2038956350156488704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvT_2OawAAHKjG.jpg",
+        "width": 1209
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038956350156488704"
+          ],
+          "media_source_tweet_id": [
+            "2038956450089971918"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039007666522194243",
+        "created_at": "2026-03-31T15:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039007666522194243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778700125944381440",
+              "start": 3,
+              "username": "_adip0cere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7eRqk2mKK",
+              "end": 41,
+              "expanded_url": "https://x.com/_adip0cere/status/2038956450089971918/photo/1",
+              "media_key": "3_2038956350156488704",
+              "start": 18,
+              "url": "https://t.co/r7eRqk2mKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039007666522194243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 581
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038956450089971918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_adip0cere: 腕 https://t.co/r7eRqk2mKK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038956350156488704"
+          ]
+        },
+        "author_id": "1778700125944381440",
+        "conversation_id": "2038956450089971918",
+        "created_at": "2026-03-31T12:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038956450089971918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7eRqk2mKK",
+              "end": 25,
+              "expanded_url": "https://x.com/_adip0cere/status/2038956450089971918/photo/1",
+              "media_key": "3_2038956350156488704",
+              "start": 2,
+              "url": "https://t.co/r7eRqk2mKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038956450089971918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 23391,
+          "like_count": 4551,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 581
+        },
+        "reply_settings": "everyone",
+        "text": "腕 https://t.co/r7eRqk2mKK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "不登校💊ASD&ADHD交流障碍 精神病@想交朋友🥺 是互联网天使✝️ ༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 108,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 124
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:22:49.000Z",
+        "description": "FA▶︎ #リジ絵クト\n無断転載🚫AI学習🚫\n絵を描いてます",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "リジ絵クト"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/_adip0cere",
+                "end": 23,
+                "expanded_url": "https://lit.link/_adip0cere",
+                "start": 0,
+                "url": "https://t.co/Q0Wi4tgfvR"
+              }
+            ]
+          }
+        },
+        "id": "1778700125944381440",
+        "location": "ヘッダーはかわるいのちちゃん作",
+        "name": "拒否ଳ",
+        "pinned_tweet_id": "2022630799305248849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820261973239754752/7rxYTk0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20654,
+          "following_count": 197,
+          "like_count": 12660,
+          "listed_count": 69,
+          "media_count": 236,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/Q0Wi4tgfvR",
+        "username": "_adip0cere",
+        "verified": false
+      }
+    ]
+  }
+}

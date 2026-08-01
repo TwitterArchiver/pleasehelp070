@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057465024512466944"
+      ],
+      "media_source_tweet_id": [
+        "2057465027825934386"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057541181819814293",
+    "created_at": "2026-05-21T19:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T20:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057541181819814293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768959891878944768",
+          "start": 3,
+          "username": "AngelsMason_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OwVunx6oXe",
+          "end": 46,
+          "expanded_url": "https://x.com/AngelsMason_/status/2057465027825934386/photo/1",
+          "media_key": "3_2057465024512466944",
+          "start": 23,
+          "url": "https://t.co/OwVunx6oXe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057541181819814293",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 789
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057465027825934386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @AngelsMason_: 🪽🔫🪽🔫 https://t.co/OwVunx6oXe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1793,
+        "media_key": "3_2057465024512466944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2VifPbIAAsarz.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057465024512466944"
+          ],
+          "media_source_tweet_id": [
+            "2057465027825934386"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057541181819814293",
+        "created_at": "2026-05-21T19:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T20:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057541181819814293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768959891878944768",
+              "start": 3,
+              "username": "AngelsMason_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwVunx6oXe",
+              "end": 46,
+              "expanded_url": "https://x.com/AngelsMason_/status/2057465027825934386/photo/1",
+              "media_key": "3_2057465024512466944",
+              "start": 23,
+              "url": "https://t.co/OwVunx6oXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057541181819814293",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 789
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057465027825934386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @AngelsMason_: 🪽🔫🪽🔫 https://t.co/OwVunx6oXe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057465024512466944"
+          ]
+        },
+        "author_id": "1768959891878944768",
+        "conversation_id": "2057465027825934386",
+        "created_at": "2026-05-21T14:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057465027825934386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwVunx6oXe",
+              "end": 28,
+              "expanded_url": "https://x.com/AngelsMason_/status/2057465027825934386/photo/1",
+              "media_key": "3_2057465024512466944",
+              "start": 5,
+              "url": "https://t.co/OwVunx6oXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057465027825934386",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 396,
+          "impression_count": 33211,
+          "like_count": 5078,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 789
+        },
+        "reply_settings": "following",
+        "text": "🪽🔫🪽🔫 https://t.co/OwVunx6oXe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 165,
+          "like_count": 3632,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 878
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T11:18:14.000Z",
+        "description": "🧇🐈‍⬛🧸殺戮の天使🪽&🌹☔··· /올캐러!✨(ㅁᴗᗜᛝ)\n🚫Please do not use my artwork for any purpose without permission.",
+        "id": "1768959891878944768",
+        "name": "밤🌰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047672616245514240/LKoyM8XH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 68,
+          "like_count": 6563,
+          "listed_count": 6,
+          "media_count": 696,
+          "tweet_count": 3846
+        },
+        "username": "AngelsMason_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2046208605733650803",
+    "created_at": "2026-04-20T12:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046208605733650803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1889200694986756096",
+          "start": 3,
+          "username": "OvOxiaomi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046208605733650803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046062776549101969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvOxiaomi8964: 人生就是自残自恋自慰自杀自作多情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2046208605733650803",
+        "created_at": "2026-04-20T12:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046208605733650803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1889200694986756096",
+              "start": 3,
+              "username": "OvOxiaomi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046208605733650803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046062776549101969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvOxiaomi8964: 人生就是自残自恋自慰自杀自作多情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200694986756096",
+        "conversation_id": "2046062776549101969",
+        "created_at": "2026-04-20T03:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046062776549101969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046062776549101969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3983,
+          "like_count": 176,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "人生就是自残自恋自慰自杀自作多情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 142,
+          "like_count": 1882,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 467
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "搬我帖子到墙内的人死全家。\n俺不互fo不回私信。请不要打扰我也不要骚扰我谢谢! @OnOxiaomi（⬅️仅过互关）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "OnOxiaomi"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "因为不想回消息，所以我关掉私信辣!!!",
+        "name": "我的智齿可疼了",
+        "pinned_tweet_id": "1970395598131208203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033793301028249601/U-7a-4bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3968,
+          "following_count": 284,
+          "like_count": 30450,
+          "listed_count": 12,
+          "media_count": 996,
+          "tweet_count": 16703
+        },
+        "username": "OvOxiaomi8964",
+        "verified": false
+      }
+    ]
+  }
+}

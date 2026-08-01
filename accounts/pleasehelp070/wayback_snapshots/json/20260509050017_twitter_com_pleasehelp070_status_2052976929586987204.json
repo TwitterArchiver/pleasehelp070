@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052894725120884736",
+        "3_2052894725137690624"
+      ],
+      "media_source_tweet_id": [
+        "2052916461413527836",
+        "2052916461413527836"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052976929586987204",
+    "created_at": "2026-05-09T05:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052976929586987204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787251561649045504",
+          "start": 3,
+          "username": "idoihrt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FtjyIOIj5G",
+          "end": 90,
+          "expanded_url": "https://x.com/idoihrt/status/2052916461413527836/photo/1",
+          "media_key": "3_2052894725120884736",
+          "start": 67,
+          "url": "https://t.co/FtjyIOIj5G"
+        },
+        {
+          "display_url": "pic.x.com/FtjyIOIj5G",
+          "end": 90,
+          "expanded_url": "https://x.com/idoihrt/status/2052916461413527836/photo/1",
+          "media_key": "3_2052894725137690624",
+          "start": 67,
+          "url": "https://t.co/FtjyIOIj5G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052976929586987204",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052916461413527836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @idoihrt: super hyped for when this ame chan scale releases ❤︎⁠ https://t.co/FtjyIOIj5G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_2052894725120884736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1Y4DQagAAAMjZ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 801,
+        "media_key": "3_2052894725137690624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1Y4DUa8AARJd5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052894725120884736",
+            "3_2052894725137690624"
+          ],
+          "media_source_tweet_id": [
+            "2052916461413527836",
+            "2052916461413527836"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052976929586987204",
+        "created_at": "2026-05-09T05:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052976929586987204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787251561649045504",
+              "start": 3,
+              "username": "idoihrt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtjyIOIj5G",
+              "end": 90,
+              "expanded_url": "https://x.com/idoihrt/status/2052916461413527836/photo/1",
+              "media_key": "3_2052894725120884736",
+              "start": 67,
+              "url": "https://t.co/FtjyIOIj5G"
+            },
+            {
+              "display_url": "pic.x.com/FtjyIOIj5G",
+              "end": 90,
+              "expanded_url": "https://x.com/idoihrt/status/2052916461413527836/photo/1",
+              "media_key": "3_2052894725137690624",
+              "start": 67,
+              "url": "https://t.co/FtjyIOIj5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052976929586987204",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052916461413527836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @idoihrt: super hyped for when this ame chan scale releases ❤︎⁠ https://t.co/FtjyIOIj5G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052894725120884736",
+            "3_2052894725137690624"
+          ]
+        },
+        "author_id": "1787251561649045504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052916461413527836",
+        "created_at": "2026-05-09T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052916461413527836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtjyIOIj5G",
+              "end": 77,
+              "expanded_url": "https://x.com/idoihrt/status/2052916461413527836/photo/1",
+              "media_key": "3_2052894725120884736",
+              "start": 54,
+              "url": "https://t.co/FtjyIOIj5G"
+            },
+            {
+              "display_url": "pic.x.com/FtjyIOIj5G",
+              "end": 77,
+              "expanded_url": "https://x.com/idoihrt/status/2052916461413527836/photo/1",
+              "media_key": "3_2052894725137690624",
+              "start": 54,
+              "url": "https://t.co/FtjyIOIj5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052916461413527836",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2659,
+          "like_count": 317,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "super hyped for when this ame chan scale releases ❤︎⁠ https://t.co/FtjyIOIj5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 155,
+          "like_count": 2579,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 660
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T22:42:51.000Z",
+        "description": "꒰⠀ ୨୧⠀꒱⠀⠀♡⠀⠀ インターネット・エンジェル ただいま降臨 ！ ☆ #NEEDYGIRLOVERDOSE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 38,
+                "tag": "NEEDYGIRLOVERDOSE"
+              }
+            ]
+          }
+        },
+        "id": "1787251561649045504",
+        "location": "⠀⠀ in your heart⠀⠀ ♪ ",
+        "name": "♡ ︎ ︎ vivi ︎ ︎ ˎˊ- ︎",
+        "pinned_tweet_id": "1989654537590972755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040427544344997888/yUK-dbHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3879,
+          "following_count": 3378,
+          "like_count": 53628,
+          "listed_count": 20,
+          "media_count": 916,
+          "tweet_count": 6817
+        },
+        "username": "idoihrt",
+        "verified": false
+      }
+    ]
+  }
+}

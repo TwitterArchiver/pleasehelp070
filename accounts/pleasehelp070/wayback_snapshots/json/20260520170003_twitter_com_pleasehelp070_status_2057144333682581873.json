@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057084755217351098",
+    "created_at": "2026-05-20T17:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057144333682581873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1560176804115234816",
+          "start": 0,
+          "username": "lingmunaixue_"
+        },
+        {
+          "end": 24,
+          "id": "1933114395854610432",
+          "start": 15,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057144333682581873",
+    "in_reply_to_user_id": "1560176804115234816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057084755217351098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingmunaixue_ @eweisi32 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057084755217351098",
+        "created_at": "2026-05-20T17:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057144333682581873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1560176804115234816",
+              "start": 0,
+              "username": "lingmunaixue_"
+            },
+            {
+              "end": 24,
+              "id": "1933114395854610432",
+              "start": 15,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057144333682581873",
+        "in_reply_to_user_id": "1560176804115234816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057084755217351098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingmunaixue_ @eweisi32 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560176804115234816",
+        "conversation_id": "2057084755217351098",
+        "created_at": "2026-05-20T13:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057084755217351098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057084755217351098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1167,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "这个时间刷到我的推文你可能也没有人陪吧 抽两个人送520红包\n要求：转发 ➕关注 ➕评论\n5.30号开奖 不满十人评论不开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 161,
+          "like_count": 3474,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 858
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T08:08:45.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=qpKpbr7a",
+                "start": 0,
+                "url": "https://t.co/Zbr9colgRt"
+              }
+            ]
+          }
+        },
+        "id": "1560176804115234816",
+        "name": "铃木奈雪",
+        "pinned_tweet_id": "2057084755217351098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047766676327051264/4XwWvnrq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8095,
+          "following_count": 203,
+          "like_count": 8248,
+          "listed_count": 23,
+          "media_count": 336,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/Zbr9colgRt",
+        "username": "lingmunaixue_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个乐子，一个oder，一个餐劵逼，一个神经病。互fo私信 接塔罗/雷诺曼占卜\n我闺蜜@Xxkg3g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "Xxkg3g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eweisi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eweisi",
+                "start": 0,
+                "url": "https://t.co/lrRktEWrfO"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "location": "想我打钱。",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2050247792346411493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056431426002644992/PRiFvwm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 495,
+          "like_count": 1577,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/lrRktEWrfO",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

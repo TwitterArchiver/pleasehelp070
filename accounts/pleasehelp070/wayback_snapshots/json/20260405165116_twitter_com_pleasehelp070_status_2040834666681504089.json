@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2040832562130792471",
+    "created_at": "2026-04-05T16:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040834666681504089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800101206184144896",
+          "start": 0,
+          "username": "XIAOYUAN_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040834666681504089",
+    "in_reply_to_user_id": "1800101206184144896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040832562130792471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOYUAN_qwq 啊啊啊啊啊啊我懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2040832562130792471",
+        "created_at": "2026-04-05T16:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040834666681504089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800101206184144896",
+              "start": 0,
+              "username": "XIAOYUAN_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040834666681504089",
+        "in_reply_to_user_id": "1800101206184144896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040832562130792471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOYUAN_qwq 啊啊啊啊啊啊我懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800101206184144896",
+        "conversation_id": "2040832562130792471",
+        "created_at": "2026-04-05T16:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040832562130792471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040832562130792471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的想起来上次给客人递东西的时候不小心露出疤了 明显看到他们迟疑了一下 笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040828860678443008/ZdlxHUyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 166,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 372
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T09:42:35.000Z",
+        "description": "08｜od｜血图｜支持喜欢我就给我钱吧！\n互fo欢迎喵",
+        "id": "1800101206184144896",
+        "location": "极乐净土",
+        "name": "小怜",
+        "pinned_tweet_id": "1995395289302389023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026330784731369472/cGHVsnEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 132,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 574
+        },
+        "username": "XIAOYUAN_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

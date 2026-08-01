@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038264093681868800"
+      ],
+      "media_source_tweet_id": [
+        "2038264103744033020"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2038649788242198915",
+    "created_at": "2026-03-30T16:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038649788242198915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "852487234171404288",
+          "start": 3,
+          "username": "TheOtaking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LJjAFUMk4e",
+          "end": 93,
+          "expanded_url": "https://x.com/TheOtaking/status/2038264103744033020/photo/1",
+          "media_key": "3_2038264093681868800",
+          "start": 70,
+          "url": "https://t.co/LJjAFUMk4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038649788242198915",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038264103744033020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheOtaking: Emanon - Kenji Tsuruta &amp; Shinji Kajio - 2006/2017 https://t.co/LJjAFUMk4e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_2038264093681868800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEleZN5XYAApuaH.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038264093681868800"
+          ],
+          "media_source_tweet_id": [
+            "2038264103744033020"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2038649788242198915",
+        "created_at": "2026-03-30T16:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038649788242198915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "852487234171404288",
+              "start": 3,
+              "username": "TheOtaking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJjAFUMk4e",
+              "end": 93,
+              "expanded_url": "https://x.com/TheOtaking/status/2038264103744033020/photo/1",
+              "media_key": "3_2038264093681868800",
+              "start": 70,
+              "url": "https://t.co/LJjAFUMk4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038649788242198915",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038264103744033020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheOtaking: Emanon - Kenji Tsuruta &amp; Shinji Kajio - 2006/2017 https://t.co/LJjAFUMk4e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038264093681868800"
+          ]
+        },
+        "author_id": "852487234171404288",
+        "conversation_id": "2038264103744033020",
+        "created_at": "2026-03-29T14:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038264103744033020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJjAFUMk4e",
+              "end": 77,
+              "expanded_url": "https://x.com/TheOtaking/status/2038264103744033020/photo/1",
+              "media_key": "3_2038264093681868800",
+              "start": 54,
+              "url": "https://t.co/LJjAFUMk4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038264103744033020",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 9971,
+          "like_count": 731,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "Emanon - Kenji Tsuruta &amp; Shinji Kajio - 2006/2017 https://t.co/LJjAFUMk4e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "💊ASD&ADHD交流障碍 有精神病@想交朋友🥺",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 88,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 105
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-13T11:42:49.000Z",
+        "description": "I like to post gifs and official pics from animes, mangas & video games. Sometimes I also recommend things I like. My main is @HichamKiy / https://t.co/NHMek04q30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "HichamKiy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "boxd.it/7tJdV",
+                "end": 162,
+                "expanded_url": "https://boxd.it/7tJdV",
+                "start": 139,
+                "url": "https://t.co/NHMek04q30"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myanimelist.net/profile/Hicham…",
+                "end": 23,
+                "expanded_url": "https://myanimelist.net/profile/Hicham_Kiy",
+                "start": 0,
+                "url": "https://t.co/z0pRHJAGZw"
+              }
+            ]
+          }
+        },
+        "id": "852487234171404288",
+        "location": "Iblard",
+        "name": "Otaking 🇵🇸",
+        "pinned_tweet_id": "1021884226600427520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809294485483905025/5-DtoQBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168700,
+          "following_count": 147,
+          "like_count": 795,
+          "listed_count": 1149,
+          "media_count": 21534,
+          "tweet_count": 32167
+        },
+        "url": "https://t.co/z0pRHJAGZw",
+        "username": "TheOtaking",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039980351494472040",
+    "created_at": "2026-04-03T08:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039980351494472040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1507761638883045376",
+          "start": 3,
+          "username": "T_T1116__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039980351494472040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039701713364701415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T_T1116__: 🔍 海外の友達を作る方法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039980351494472040",
+        "created_at": "2026-04-03T08:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039980351494472040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1507761638883045376",
+              "start": 3,
+              "username": "T_T1116__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039980351494472040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039701713364701415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @T_T1116__: 🔍 海外の友達を作る方法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507761638883045376",
+        "conversation_id": "2039701713364701415",
+        "created_at": "2026-04-02T13:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039701713364701415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039701713364701415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 45659,
+          "like_count": 838,
+          "quote_count": 8,
+          "reply_count": 216,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "🔍 海外の友達を作る方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 166,
+          "like_count": 1071,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 230
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T16:49:28.000Z",
+        "description": "𝑃𝐸𝑂𝑃𝐿𝐸 ¹ _ 𝑀𝑟𝑠. 𝐺𝑅𝐸𝐸𝑁 𝐴𝑃𝑃𝐿𝐸 ♡ 𝑁𝐸𝑋𝑇→ 𝐻𝐴𝑉𝐸𝑁 ⁶ ⁶ ࣪ ⁷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "日常垢と音垢.com",
+                "end": 23,
+                "expanded_url": "http://xn--o9jx49iba558dykk1v9e.com",
+                "start": 0,
+                "url": "https://t.co/wu31aHT3by"
+              }
+            ]
+          }
+        },
+        "id": "1507761638883045376",
+        "location": "死ぬよりも怖いことが 僕らにはあるのさ",
+        "name": "𝑀𝑖𝑙𝑘",
+        "pinned_tweet_id": "1993933040087912895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016837206850359298/3cFJT54q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 354,
+          "like_count": 2479,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/wu31aHT3by",
+        "username": "T_T1116__",
+        "verified": false
+      }
+    ]
+  }
+}

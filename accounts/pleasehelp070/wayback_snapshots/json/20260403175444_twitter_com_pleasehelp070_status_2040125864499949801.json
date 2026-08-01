@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2040125864499949801",
+    "created_at": "2026-04-03T17:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040125864499949801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1627413864756424704",
+          "start": 3,
+          "username": "Aphrodite_mis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040125864499949801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039842672844890186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aphrodite_mis: 干啥都焦虑 啥也不干也焦虑 没药的时候焦虑没药 有药了又焦虑药效太长副作用什么的 最后还是会吃 但总是拖到让焦虑痛苦最大化的时候 我想活的健康一点 但是尝试健康人的活法反而更病态了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2040125864499949801",
+        "created_at": "2026-04-03T17:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040125864499949801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1627413864756424704",
+              "start": 3,
+              "username": "Aphrodite_mis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040125864499949801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039842672844890186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aphrodite_mis: 干啥都焦虑 啥也不干也焦虑 没药的时候焦虑没药 有药了又焦虑药效太长副作用什么的 最后还是会吃 但总是拖到让焦虑痛苦最大化的时候 我想活的健康一点 但是尝试健康人的活法反而更病态了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627413864756424704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2039842672844890186",
+        "created_at": "2026-04-02T23:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T00:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039842672844890186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039842672844890186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1336,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "干啥都焦虑 啥也不干也焦虑 没药的时候焦虑没药 有药了又焦虑药效太长副作用什么的 最后还是会吃 但总是拖到让焦虑痛苦最大化的时候 我想活的健康一点 但是尝试健康人的活法反而更病态了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/焦虑/交流障碍 メンヘラ/查成分回fo/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2040120380342649313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 211,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 295
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "一个绝望的寡妇 大号@Artemis_moon_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "Artemis_moon_12"
+              }
+            ]
+          }
+        },
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯",
+        "pinned_tweet_id": "1978018594941202836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961414183649742848/T9FZ9g0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28463,
+          "following_count": 550,
+          "like_count": 210412,
+          "listed_count": 45,
+          "media_count": 2984,
+          "tweet_count": 51435
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050649514307178496"
+      ],
+      "media_source_tweet_id": [
+        "2050649521798127825"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2050939799239012435",
+    "created_at": "2026-05-03T14:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050939799239012435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906360034725961728",
+          "start": 3,
+          "username": "Xiaoyou_329"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vfI7ZfvAxL",
+          "end": 40,
+          "expanded_url": "https://x.com/Xiaoyou_329/status/2050649521798127825/photo/1",
+          "media_key": "3_2050649514307178496",
+          "start": 17,
+          "url": "https://t.co/vfI7ZfvAxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050939799239012435",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050649521798127825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoyou_329: https://t.co/vfI7ZfvAxL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2050649514307178496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVe3lMbUAA5vDr.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050649514307178496"
+          ],
+          "media_source_tweet_id": [
+            "2050649521798127825"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2050939799239012435",
+        "created_at": "2026-05-03T14:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050939799239012435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906360034725961728",
+              "start": 3,
+              "username": "Xiaoyou_329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfI7ZfvAxL",
+              "end": 40,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2050649521798127825/photo/1",
+              "media_key": "3_2050649514307178496",
+              "start": 17,
+              "url": "https://t.co/vfI7ZfvAxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050939799239012435",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050649521798127825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoyou_329: https://t.co/vfI7ZfvAxL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050649514307178496"
+          ]
+        },
+        "author_id": "1906360034725961728",
+        "conversation_id": "2050649521798127825",
+        "created_at": "2026-05-02T18:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050649521798127825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfI7ZfvAxL",
+              "end": 23,
+              "expanded_url": "https://x.com/Xiaoyou_329/status/2050649521798127825/photo/1",
+              "media_key": "3_2050649514307178496",
+              "start": 0,
+              "url": "https://t.co/vfI7ZfvAxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050649521798127825",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3376,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vfI7ZfvAxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "mtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 147,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 537
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:57:14.000Z",
+        "description": "敏感是你与世界共情的天赋 不要哭",
+        "id": "1906360034725961728",
+        "name": "小由",
+        "pinned_tweet_id": "2024557145899856133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021454074064101376/uwKQlEnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14298,
+          "following_count": 165,
+          "like_count": 7433,
+          "listed_count": 21,
+          "media_count": 832,
+          "tweet_count": 6495
+        },
+        "username": "Xiaoyou_329",
+        "verified": false
+      }
+    ]
+  }
+}

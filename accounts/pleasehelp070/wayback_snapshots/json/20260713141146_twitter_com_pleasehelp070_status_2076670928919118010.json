@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076430586474803201"
+      ],
+      "media_source_tweet_id": [
+        "2076471676683055367"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2076670928919118010",
+    "created_at": "2026-07-13T14:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076670928919118010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886947608989491200",
+          "start": 3,
+          "username": "cinnam0nnn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aCPEz41458",
+          "end": 39,
+          "expanded_url": "https://x.com/cinnam0nnn/status/2076471676683055367/photo/1",
+          "media_key": "3_2076430586474803201",
+          "start": 16,
+          "url": "https://t.co/aCPEz41458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076670928919118010",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 377
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076471676683055367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cinnam0nnn: https://t.co/aCPEz41458"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2076430586474803201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HND2nfOWMAE7eMr.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076430586474803201"
+          ],
+          "media_source_tweet_id": [
+            "2076471676683055367"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2076670928919118010",
+        "created_at": "2026-07-13T14:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076670928919118010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886947608989491200",
+              "start": 3,
+              "username": "cinnam0nnn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCPEz41458",
+              "end": 39,
+              "expanded_url": "https://x.com/cinnam0nnn/status/2076471676683055367/photo/1",
+              "media_key": "3_2076430586474803201",
+              "start": 16,
+              "url": "https://t.co/aCPEz41458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076670928919118010",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076471676683055367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cinnam0nnn: https://t.co/aCPEz41458"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076430586474803201"
+          ]
+        },
+        "author_id": "1886947608989491200",
+        "conversation_id": "2076471676683055367",
+        "created_at": "2026-07-13T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076471676683055367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCPEz41458",
+              "end": 23,
+              "expanded_url": "https://x.com/cinnam0nnn/status/2076471676683055367/photo/1",
+              "media_key": "3_2076430586474803201",
+              "start": 0,
+              "url": "https://t.co/aCPEz41458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076471676683055367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 19233,
+          "like_count": 1851,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aCPEz41458"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 162,
+          "like_count": 3870,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 918
+        },
+        "url": "",
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T01:20:24.000Z",
+        "description": "✧ ೃ༄*ੈ✩",
+        "id": "1886947608989491200",
+        "location": "DM for promo •ू♡",
+        "name": "♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007454153329541120/Mz0ULVYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48278,
+          "following_count": 889,
+          "like_count": 4976,
+          "listed_count": 66,
+          "media_count": 1512,
+          "tweet_count": 3151
+        },
+        "url": "",
+        "username": "cinnam0nnn",
+        "verified": true
+      }
+    ]
+  }
+}

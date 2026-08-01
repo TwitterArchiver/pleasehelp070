@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2053112928308695110",
+    "created_at": "2026-05-09T17:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053165614941061342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830761760334454787",
+          "start": 0,
+          "username": "ci2008_tyxjzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053165614941061342",
+    "in_reply_to_user_id": "1830761760334454787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053112928308695110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ci2008_tyxjzl 好神奇的选科"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2053112925775384576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4fVACa0AAZY4I.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2053112928308695110",
+        "created_at": "2026-05-09T17:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053165614941061342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830761760334454787",
+              "start": 0,
+              "username": "ci2008_tyxjzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053165614941061342",
+        "in_reply_to_user_id": "1830761760334454787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053112928308695110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci2008_tyxjzl 好神奇的选科"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053112925775384576"
+          ]
+        },
+        "author_id": "1830761760334454787",
+        "conversation_id": "2053112928308695110",
+        "created_at": "2026-05-09T14:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053112928308695110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDAMRTS2Vk",
+              "end": 23,
+              "expanded_url": "https://x.com/ci2008_tyxjzl/status/2053112928308695110/photo/1",
+              "media_key": "3_2053112925775384576",
+              "start": 0,
+              "url": "https://t.co/zDAMRTS2Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053112928308695110",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zDAMRTS2Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 167,
+          "like_count": 2996,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 757
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T00:16:43.000Z",
+        "description": "希望你在悲观的底色中看到乐观的力量\n💙@max33verstappen | @Mancity💙Fan | 市⚽️队RM/RB | Drummer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "max33verstappen"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Mancity"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/cIPtXak",
+                "end": 23,
+                "expanded_url": "https://b23.tv/cIPtXak",
+                "start": 0,
+                "url": "https://t.co/ESL600o5ob"
+              }
+            ]
+          }
+        },
+        "id": "1830761760334454787",
+        "location": "天国",
+        "name": "瓷ci.Wirtz🍥",
+        "pinned_tweet_id": "2045416595946983689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049789543759683584/AeBfhcAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 269,
+          "like_count": 2794,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/ESL600o5ob",
+        "username": "ci2008_tyxjzl",
+        "verified": false
+      }
+    ]
+  }
+}

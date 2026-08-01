@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057685586195165184"
+      ],
+      "media_source_tweet_id": [
+        "2057685661608825193"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057787022547509501",
+    "created_at": "2026-05-22T11:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057787022547509501"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 14,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 45,
+          "start": 35,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769193780329304064",
+          "start": 3,
+          "username": "azhe_713"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0v2JWWvnl8",
+          "end": 69,
+          "expanded_url": "https://x.com/azhe_713/status/2057685661608825193/photo/1",
+          "media_key": "3_2057685586195165184",
+          "start": 46,
+          "url": "https://t.co/0v2JWWvnl8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057787022547509501",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057685661608825193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azhe_713: #NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/0v2JWWvnl8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057685586195165184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5eI3iasAAsGKS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057685586195165184"
+          ],
+          "media_source_tweet_id": [
+            "2057685661608825193"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057787022547509501",
+        "created_at": "2026-05-22T11:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057787022547509501"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 14,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769193780329304064",
+              "start": 3,
+              "username": "azhe_713"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0v2JWWvnl8",
+              "end": 69,
+              "expanded_url": "https://x.com/azhe_713/status/2057685661608825193/photo/1",
+              "media_key": "3_2057685586195165184",
+              "start": 46,
+              "url": "https://t.co/0v2JWWvnl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057787022547509501",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057685661608825193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azhe_713: #NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/0v2JWWvnl8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057685586195165184"
+          ]
+        },
+        "author_id": "1769193780329304064",
+        "conversation_id": "2057685661608825193",
+        "created_at": "2026-05-22T04:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057685661608825193"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0v2JWWvnl8",
+              "end": 55,
+              "expanded_url": "https://x.com/azhe_713/status/2057685661608825193/photo/1",
+              "media_key": "3_2057685586195165184",
+              "start": 32,
+              "url": "https://t.co/0v2JWWvnl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057685661608825193",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 3408,
+          "like_count": 535,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/0v2JWWvnl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 173,
+          "like_count": 3821,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 902
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T02:47:36.000Z",
+        "description": "感谢你能点进来了解我",
+        "id": "1769193780329304064",
+        "name": "阿喆喆捏",
+        "pinned_tweet_id": "2057672258995507679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961531199295557637/DwbqjX8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3985,
+          "following_count": 65,
+          "like_count": 1086,
+          "listed_count": 9,
+          "media_count": 66,
+          "tweet_count": 158
+        },
+        "username": "azhe_713",
+        "verified": false
+      }
+    ]
+  }
+}

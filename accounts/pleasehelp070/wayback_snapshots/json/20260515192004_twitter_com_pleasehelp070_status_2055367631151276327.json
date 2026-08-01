@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2055267564696342790",
+    "created_at": "2026-05-15T19:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055367631151276327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979108124985561088",
+          "start": 0,
+          "username": "yumenoWchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055367631151276327",
+    "in_reply_to_user_id": "1979108124985561088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055267564696342790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumenoWchan 好可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2055267542906925056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXG8OVbcAALzFH.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2055267564696342790",
+        "created_at": "2026-05-15T19:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055367631151276327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979108124985561088",
+              "start": 0,
+              "username": "yumenoWchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055367631151276327",
+        "in_reply_to_user_id": "1979108124985561088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055267564696342790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumenoWchan 好可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055267542906925056"
+          ]
+        },
+        "author_id": "1979108124985561088",
+        "conversation_id": "2055267564696342790",
+        "created_at": "2026-05-15T12:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055267564696342790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gSXtNBVCI",
+              "end": 27,
+              "expanded_url": "https://x.com/yumenoWchan/status/2055267564696342790/photo/1",
+              "media_key": "3_2055267542906925056",
+              "start": 4,
+              "url": "https://t.co/6gSXtNBVCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055267564696342790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 808,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我稿了 https://t.co/6gSXtNBVCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 162,
+          "like_count": 3352,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 821
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜🚫轉載🚫AI 🚫自作發言\n沒有其他帳號 請不要轉載我的作品",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2046593454990619043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047250628687355904/LIuDBNUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 517,
+          "like_count": 3243,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 561
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

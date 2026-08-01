@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2053121048460308953",
+    "created_at": "2026-05-09T14:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053121048460308953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913084413942145024",
+          "start": 3,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053121048460308953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053005969920319702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_aini: 跨性别指的是，真正认同的性别身份与出生时的被指派性别不一致的情况\n顺性别指的是，一致的情况\n\n这是在探索性别过程中，自己实打实的意识到自己的性别是什么，不管是顺还是跨，自己探索出来的性别认同，就是你的认同，我希望所有人都能探索一次自己的性别，而不是随…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2053121048460308953",
+        "created_at": "2026-05-09T14:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053121048460308953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913084413942145024",
+              "start": 3,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053121048460308953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053005969920319702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_aini: 跨性别指的是，真正认同的性别身份与出生时的被指派性别不一致的情况\n顺性别指的是，一致的情况\n\n这是在探索性别过程中，自己实打实的意识到自己的性别是什么，不管是顺还是跨，自己探索出来的性别认同，就是你的认同，我希望所有人都能探索一次自己的性别，而不是随…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2053005969920319702",
+        "created_at": "2026-05-09T06:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053005969920319702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053005969920319702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2378,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别指的是，真正认同的性别身份与出生时的被指派性别不一致的情况\n顺性别指的是，一致的情况\n\n这是在探索性别过程中，自己实打实的意识到自己的性别是什么，不管是顺还是跨，自己探索出来的性别认同，就是你的认同，我希望所有人都能探索一次自己的性别，而不是随波逐流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 166,
+          "like_count": 2938,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 750
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（They/Them/It）💛🤍💜🖤/Grey/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2049387531792445770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 736,
+          "like_count": 4884,
+          "listed_count": 5,
+          "media_count": 541,
+          "tweet_count": 4156
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041139979389485056"
+      ],
+      "media_source_tweet_id": [
+        "2041139996955214266"
+      ]
+    },
+    "author_id": "2001413587664015360",
+    "conversation_id": "2041698492108681274",
+    "created_at": "2026-04-08T02:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041698492108681274"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 19,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986291014370545665",
+          "start": 3,
+          "username": "pleasehelp070"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mDGrDLjU0L",
+          "end": 81,
+          "expanded_url": "https://x.com/pleasehelp070/status/2041139996955214266/photo/1",
+          "media_key": "3_2041139979389485056",
+          "start": 58,
+          "url": "https://t.co/mDGrDLjU0L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041698492108681274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 755
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041139996955214266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pleasehelp070: #NEEDY_GIRL_OVERDOSE\n有参考q版的风格&gt;&lt;！ https://t.co/mDGrDLjU0L"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with author_id: [2001413587664015360].",
+      "parameter": "author_id",
+      "resource_id": "2001413587664015360",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001413587664015360"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041139979389485056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOV_zBbwAA5taH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041139979389485056"
+          ],
+          "media_source_tweet_id": [
+            "2041139996955214266"
+          ]
+        },
+        "author_id": "2001413587664015360",
+        "conversation_id": "2041698492108681274",
+        "created_at": "2026-04-08T02:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041698492108681274"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 19,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986291014370545665",
+              "start": 3,
+              "username": "pleasehelp070"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDGrDLjU0L",
+              "end": 81,
+              "expanded_url": "https://x.com/pleasehelp070/status/2041139996955214266/photo/1",
+              "media_key": "3_2041139979389485056",
+              "start": 58,
+              "url": "https://t.co/mDGrDLjU0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041698492108681274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 755
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041139996955214266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pleasehelp070: #NEEDY_GIRL_OVERDOSE\n有参考q版的风格&gt;&lt;！ https://t.co/mDGrDLjU0L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041139979389485056"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2041139996955214266",
+        "created_at": "2026-04-06T13:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041139996955214266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDGrDLjU0L",
+              "end": 62,
+              "expanded_url": "https://x.com/pleasehelp070/status/2041139996955214266/photo/1",
+              "media_key": "3_2041139979389485056",
+              "start": 39,
+              "url": "https://t.co/mDGrDLjU0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041139996955214266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 19274,
+          "like_count": 3369,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 755
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE\n有参考q版的风格&gt;&lt;！ https://t.co/mDGrDLjU0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 143,
+          "like_count": 1731,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 405
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 143,
+          "like_count": 1731,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

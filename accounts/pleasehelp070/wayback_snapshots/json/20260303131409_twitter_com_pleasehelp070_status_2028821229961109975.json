@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028642780424134657"
+      ],
+      "media_source_tweet_id": [
+        "2028642791287394749"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2028821229961109975",
+    "created_at": "2026-03-03T13:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028821229961109975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1449966446579273728",
+          "start": 3,
+          "username": "ghostcyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x0B8Od1fGt",
+          "end": 37,
+          "expanded_url": "https://x.com/ghostcyy/status/2028642791287394749/photo/1",
+          "media_key": "3_2028642780424134657",
+          "start": 14,
+          "url": "https://t.co/x0B8Od1fGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028821229961109975",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 910
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028642791287394749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ghostcyy: https://t.co/x0B8Od1fGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2028642780424134657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcv3E9XYAEwjJm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028642780424134657"
+          ],
+          "media_source_tweet_id": [
+            "2028642791287394749"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2028821229961109975",
+        "created_at": "2026-03-03T13:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028821229961109975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1449966446579273728",
+              "start": 3,
+              "username": "ghostcyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0B8Od1fGt",
+              "end": 37,
+              "expanded_url": "https://x.com/ghostcyy/status/2028642791287394749/photo/1",
+              "media_key": "3_2028642780424134657",
+              "start": 14,
+              "url": "https://t.co/x0B8Od1fGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028821229961109975",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 910
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028642791287394749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ghostcyy: https://t.co/x0B8Od1fGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028642780424134657"
+          ]
+        },
+        "author_id": "1449966446579273728",
+        "conversation_id": "2028642791287394749",
+        "created_at": "2026-03-03T01:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T02:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028642791287394749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0B8Od1fGt",
+              "end": 23,
+              "expanded_url": "https://x.com/ghostcyy/status/2028642791287394749/photo/1",
+              "media_key": "3_2028642780424134657",
+              "start": 0,
+              "url": "https://t.co/x0B8Od1fGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028642791287394749",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 47708,
+          "like_count": 3594,
+          "quote_count": 31,
+          "reply_count": 4,
+          "retweet_count": 910
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x0B8Od1fGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "ASD&ADHD交流障碍 精神病。别看了",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005965433946660864/vJyXCClA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T05:12:03.000Z",
+        "description": ".",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tumblr.com/ghostcyy?sourc…",
+                "end": 23,
+                "expanded_url": "https://www.tumblr.com/ghostcyy?source=share",
+                "start": 0,
+                "url": "https://t.co/BaU9zg9XzT"
+              }
+            ]
+          }
+        },
+        "id": "1449966446579273728",
+        "location": "☣︎",
+        "name": "v4mp 𖤐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027764113112203265/myPMHu-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12216,
+          "following_count": 112,
+          "like_count": 1006,
+          "listed_count": 8,
+          "media_count": 453,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/BaU9zg9XzT",
+        "username": "ghostcyy",
+        "verified": false
+      }
+    ]
+  }
+}

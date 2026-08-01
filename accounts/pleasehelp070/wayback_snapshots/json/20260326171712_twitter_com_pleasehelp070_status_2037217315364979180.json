@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037137799258722305"
+      ],
+      "media_source_tweet_id": [
+        "2037137802014408920"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2037217315364979180",
+    "created_at": "2026-03-26T17:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037217315364979180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1199730595527610368",
+          "start": 3,
+          "username": "dinosaurs1969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtl7ohKjQq",
+          "end": 56,
+          "expanded_url": "https://x.com/dinosaurs1969/status/2037137802014408920/photo/1",
+          "media_key": "3_2037137799258722305",
+          "start": 33,
+          "url": "https://t.co/wtl7ohKjQq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037217315364979180",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037137802014408920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dinosaurs1969: goodbye world https://t.co/wtl7ohKjQq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2037137799258722305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVeCQNWUAEwszG.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037137799258722305"
+          ],
+          "media_source_tweet_id": [
+            "2037137802014408920"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2037217315364979180",
+        "created_at": "2026-03-26T17:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037217315364979180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1199730595527610368",
+              "start": 3,
+              "username": "dinosaurs1969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtl7ohKjQq",
+              "end": 56,
+              "expanded_url": "https://x.com/dinosaurs1969/status/2037137802014408920/photo/1",
+              "media_key": "3_2037137799258722305",
+              "start": 33,
+              "url": "https://t.co/wtl7ohKjQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037217315364979180",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037137802014408920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dinosaurs1969: goodbye world https://t.co/wtl7ohKjQq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037137799258722305"
+          ]
+        },
+        "author_id": "1199730595527610368",
+        "conversation_id": "2037137802014408920",
+        "created_at": "2026-03-26T12:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037137802014408920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtl7ohKjQq",
+              "end": 37,
+              "expanded_url": "https://x.com/dinosaurs1969/status/2037137802014408920/photo/1",
+              "media_key": "3_2037137799258722305",
+              "start": 14,
+              "url": "https://t.co/wtl7ohKjQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037137802014408920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 671,
+          "impression_count": 293080,
+          "like_count": 22178,
+          "quote_count": 105,
+          "reply_count": 212,
+          "retweet_count": 4126
+        },
+        "reply_settings": "everyone",
+        "text": "goodbye world https://t.co/wtl7ohKjQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "ASD&ADHD交流障碍 有精神病",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029900889750990848/FvQPm6NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 69,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 85
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-27T16:43:58.000Z",
+        "description": "joined this app and my life went downhill",
+        "id": "1199730595527610368",
+        "name": "dinosaur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634597919402631171/PYxG2JBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309951,
+          "following_count": 173,
+          "like_count": 3510,
+          "listed_count": 276,
+          "media_count": 5779,
+          "tweet_count": 6164
+        },
+        "username": "dinosaurs1969",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039979586998714655",
+    "created_at": "2026-04-03T08:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039979586998714655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pleasehelp070/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/pleasehelp070/status/2039757612854751364",
+          "start": 52,
+          "url": "https://t.co/WwoD0Ztdef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039979586998714655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039757612854751364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道这一条为什么会这么多推流，，我会根据账号主页小心分别的www单纯看黄的和发恶俗帖子的请不要关注我 https://t.co/WwoD0Ztdef"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039979586998714655",
+        "created_at": "2026-04-03T08:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039979586998714655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pleasehelp070/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/pleasehelp070/status/2039757612854751364",
+              "start": 52,
+              "url": "https://t.co/WwoD0Ztdef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039979586998714655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039757612854751364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道这一条为什么会这么多推流，，我会根据账号主页小心分别的www单纯看黄的和发恶俗帖子的请不要关注我 https://t.co/WwoD0Ztdef"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039757612854751364",
+        "created_at": "2026-04-02T17:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039757612854751364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 1,
+              "tag": "友達募集"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039757612854751364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1751,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔝#友達募集\n这是一个置顶～请和我交朋友吧！🥺欢迎dm/互fo捏💕不登校｜oder💊｜精神疾病｜交流苦手\n爱好大概是在家躺着看番打游戏 混吃等死的尼特族\n梦想是成为互联网天使\n☆*:.｡. o(≧▽≦)o .｡.:*☆\n喜欢听术力口/一些日本流行/电子音乐…？\n喜欢萌萌的二次元小女孩❤️‍🩹\n就这样！其他评论补充"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 164,
+          "like_count": 1056,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 227
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

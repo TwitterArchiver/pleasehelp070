@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057121994840121345"
+      ],
+      "media_source_tweet_id": [
+        "2057121997759390141"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2057353105969406309",
+    "created_at": "2026-05-21T06:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057353105969406309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nbZLTODzLA",
+          "end": 40,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2057121997759390141/photo/1",
+          "media_key": "3_2057121994840121345",
+          "start": 17,
+          "url": "https://t.co/nbZLTODzLA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057353105969406309",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057121997759390141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: https://t.co/nbZLTODzLA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2057121994840121345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxdjiIWoAEcNbH.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057121994840121345"
+          ],
+          "media_source_tweet_id": [
+            "2057121997759390141"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2057353105969406309",
+        "created_at": "2026-05-21T06:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057353105969406309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbZLTODzLA",
+              "end": 40,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2057121997759390141/photo/1",
+              "media_key": "3_2057121994840121345",
+              "start": 17,
+              "url": "https://t.co/nbZLTODzLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057353105969406309",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057121997759390141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: https://t.co/nbZLTODzLA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057121994840121345"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2057121997759390141",
+        "created_at": "2026-05-20T15:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057121997759390141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbZLTODzLA",
+              "end": 23,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2057121997759390141/photo/1",
+              "media_key": "3_2057121994840121345",
+              "start": 0,
+              "url": "https://t.co/nbZLTODzLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057121997759390141",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 12813,
+          "like_count": 713,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nbZLTODzLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 161,
+          "like_count": 3509,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 868
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛） | 白夜行（びゃくやこう）目前最喜欢的书罢了|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  互fo留言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 80,
+                "username": "aoim33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野まりん",
+        "pinned_tweet_id": "2055911384953581992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057121282508881920/u148AFSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 2253,
+          "like_count": 43289,
+          "listed_count": 9,
+          "media_count": 2351,
+          "tweet_count": 21286
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

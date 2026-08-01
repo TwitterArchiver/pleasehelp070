@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052957207843774464"
+      ],
+      "media_source_tweet_id": [
+        "2052957218350457201"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052977388317995200",
+    "created_at": "2026-05-09T05:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052977388317995200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1908013252635983872",
+          "start": 3,
+          "username": "usagiusag1usa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dz9F3T7OsH",
+          "end": 42,
+          "expanded_url": "https://x.com/usagiusag1usa/status/2052957218350457201/photo/1",
+          "media_key": "3_2052957207843774464",
+          "start": 19,
+          "url": "https://t.co/dz9F3T7OsH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052977388317995200",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052957218350457201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @usagiusag1usa: https://t.co/dz9F3T7OsH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1626,
+        "media_key": "3_2052957207843774464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2RtBibIAAZZ-T.jpg",
+        "width": 1799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052957207843774464"
+          ],
+          "media_source_tweet_id": [
+            "2052957218350457201"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052977388317995200",
+        "created_at": "2026-05-09T05:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052977388317995200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1908013252635983872",
+              "start": 3,
+              "username": "usagiusag1usa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dz9F3T7OsH",
+              "end": 42,
+              "expanded_url": "https://x.com/usagiusag1usa/status/2052957218350457201/photo/1",
+              "media_key": "3_2052957207843774464",
+              "start": 19,
+              "url": "https://t.co/dz9F3T7OsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052977388317995200",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052957218350457201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @usagiusag1usa: https://t.co/dz9F3T7OsH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052957207843774464"
+          ]
+        },
+        "author_id": "1908013252635983872",
+        "conversation_id": "2052957218350457201",
+        "created_at": "2026-05-09T03:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052957218350457201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dz9F3T7OsH",
+              "end": 23,
+              "expanded_url": "https://x.com/usagiusag1usa/status/2052957218350457201/photo/1",
+              "media_key": "3_2052957207843774464",
+              "start": 0,
+              "url": "https://t.co/dz9F3T7OsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052957218350457201",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1025,
+          "like_count": 129,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/dz9F3T7OsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 156,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 664
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T04:26:29.000Z",
+        "description": "おえかき マロ返信垢▶︎@sinouchanyuu0 / FA #s1noU_4rt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 32,
+                "tag": "s1noU_4rt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "sinouchanyuu0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@usagiusag1usa",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@usagiusag1usa",
+                "start": 0,
+                "url": "https://t.co/jK0MotT84A"
+              }
+            ]
+          }
+        },
+        "id": "1908013252635983872",
+        "name": "しのう",
+        "pinned_tweet_id": "2003033015107330514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908013702697332738/ymiuwo1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 52,
+          "like_count": 107,
+          "listed_count": 22,
+          "media_count": 85,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/jK0MotT84A",
+        "username": "usagiusag1usa",
+        "verified": false
+      }
+    ]
+  }
+}

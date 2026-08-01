@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2040834200992162111",
+    "created_at": "2026-04-05T16:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040834200992162111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040834200992162111",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035368636328878543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ropu: 谢谢你们关注我！！！🥺\n我是霜奈 可以叫我小霜 霜奈也是我的oc的名字\n因为身体原因不能频繁od（胰腺炎）是那种比较…平静的精神病（？）\n我玩音游（玩不多）我什么都看什么都吃\n推し 糖糖（needy girl） 夏目安安（まのさば） 特莉波卡（犹格索托斯的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2035367513723412480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8T-EraoAAGgCz.jpg",
+        "width": 2068
+      },
+      {
+        "height": 4093,
+        "media_key": "3_2035367513736036352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8T-EubQAASfZw.jpg",
+        "width": 2894
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2035367513715064832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8T-EpbQAATXLs.jpg",
+        "width": 1576
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2035367513698209793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD8T-ElaEAEYzmC.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2040834200992162111",
+        "created_at": "2026-04-05T16:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040834200992162111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040834200992162111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035368636328878543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ropu: 谢谢你们关注我！！！🥺\n我是霜奈 可以叫我小霜 霜奈也是我的oc的名字\n因为身体原因不能频繁od（胰腺炎）是那种比较…平静的精神病（？）\n我玩音游（玩不多）我什么都看什么都吃\n推し 糖糖（needy girl） 夏目安安（まのさば） 特莉波卡（犹格索托斯的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035367513723412480",
+            "3_2035367513736036352",
+            "3_2035367513715064832",
+            "3_2035367513698209793"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2035368636328878543",
+        "created_at": "2026-03-21T14:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:46:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035367529636622476",
+          "2035368636328878543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxFLPBoD4E",
+              "end": 173,
+              "expanded_url": "https://x.com/_ropu/status/2035368636328878543/photo/1",
+              "media_key": "3_2035367513723412480",
+              "start": 150,
+              "url": "https://t.co/sxFLPBoD4E"
+            },
+            {
+              "display_url": "pic.x.com/sxFLPBoD4E",
+              "end": 173,
+              "expanded_url": "https://x.com/_ropu/status/2035368636328878543/photo/1",
+              "media_key": "3_2035367513736036352",
+              "start": 150,
+              "url": "https://t.co/sxFLPBoD4E"
+            },
+            {
+              "display_url": "pic.x.com/sxFLPBoD4E",
+              "end": 173,
+              "expanded_url": "https://x.com/_ropu/status/2035368636328878543/photo/1",
+              "media_key": "3_2035367513715064832",
+              "start": 150,
+              "url": "https://t.co/sxFLPBoD4E"
+            },
+            {
+              "display_url": "pic.x.com/sxFLPBoD4E",
+              "end": 173,
+              "expanded_url": "https://x.com/_ropu/status/2035368636328878543/photo/1",
+              "media_key": "3_2035367513698209793",
+              "start": 150,
+              "url": "https://t.co/sxFLPBoD4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035368636328878543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "谢谢你们关注我！！！🥺\n我是霜奈 可以叫我小霜 霜奈也是我的oc的名字\n因为身体原因不能频繁od（胰腺炎）是那种比较…平静的精神病（？）\n我玩音游（玩不多）我什么都看什么都吃\n推し 糖糖（needy girl） 夏目安安（まのさば） 特莉波卡（犹格索托斯的庭院）\n偶尔会发一些丑照，以及大量的碎碎念\n负能会在Z药起效后随机掉落（←千万别放在心上）\n更多的时候想遇见更多友善的可爱的宝宝！可以多来找我玩！\n\n以上，再次感谢你关注我！附几张图\n———————————————\nフォローありがとうございます！！！🥺\n霜奈です。小霜って呼んでください。霜奈は自分のOCの名前でもあります。\n体調の関係でODはあまりできません（膵炎）。わりと落ち着いたタイプです（？）\n音ゲーやってます（少なめ）。なんでも見ますし、なんでも食べます。\n推し：糖糖（NEEDY GIRL）、夏目安安（まのさば）、特莉波卡（ヨグ＝ソトースの庭園）\nたまに自撮りと、つぶやき多めです。\nネガティブは薬（Z）が効いたあとにたまに出ます（←気にしないでください）\n仲良くしてくれると嬉しいです！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 26548,
+          "like_count": 226,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们关注我！！！🥺\n我是霜奈 可以叫我小霜 霜奈也是我的oc的名字\n因为身体原因不能频繁od（胰腺炎）是那种比较…平静的精神病（？）\n我玩音游（玩不多）我什么都看什么都吃\n推し 糖糖（needy girl） 夏目安安（まのさば） 特莉波卡（犹格索托斯的庭院）\n偶尔会发一些丑照，以及大量的碎碎念 https://t.co/sxFLPBoD4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040828860678443008/ZdlxHUyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 165,
+          "like_count": 1615,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 367
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| お姉さん： @Cchang3243 || CN/EN/JP/KR ○ || タグ：#まのさば #ヨグソトースの庭 #NeedyGirlOverdose ||",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "まのさば"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 78,
+                "start": 60,
+                "tag": "NeedyGirlOverdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Cchang3243"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2035368636328878543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036449027101962240/uJnvTDoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28821,
+          "following_count": 3999,
+          "like_count": 13214,
+          "listed_count": 29,
+          "media_count": 4594,
+          "tweet_count": 32397
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

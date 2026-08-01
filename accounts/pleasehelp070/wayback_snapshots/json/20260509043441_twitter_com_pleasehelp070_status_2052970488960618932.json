@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052620334399102976"
+      ],
+      "media_source_tweet_id": [
+        "2052620344754930078"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052970488960618932",
+    "created_at": "2026-05-09T04:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052970488960618932"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 26,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983184628208050176",
+          "start": 3,
+          "username": "Grimheart_00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JXCIXhzFJF",
+          "end": 81,
+          "expanded_url": "https://x.com/Grimheart_00/status/2052620344754930078/photo/1",
+          "media_key": "3_2052620334399102976",
+          "start": 58,
+          "url": "https://t.co/JXCIXhzFJF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052970488960618932",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052620344754930078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Grimheart_00: ジェルばんは！\n#NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/JXCIXhzFJF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052620334399102976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxfUaKaIAAWdub.jpg",
+        "width": 1530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052620334399102976"
+          ],
+          "media_source_tweet_id": [
+            "2052620344754930078"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052970488960618932",
+        "created_at": "2026-05-09T04:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052970488960618932"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 26,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983184628208050176",
+              "start": 3,
+              "username": "Grimheart_00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXCIXhzFJF",
+              "end": 81,
+              "expanded_url": "https://x.com/Grimheart_00/status/2052620344754930078/photo/1",
+              "media_key": "3_2052620334399102976",
+              "start": 58,
+              "url": "https://t.co/JXCIXhzFJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052970488960618932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052620344754930078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Grimheart_00: ジェルばんは！\n#NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/JXCIXhzFJF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052620334399102976"
+          ]
+        },
+        "author_id": "1983184628208050176",
+        "conversation_id": "2052620344754930078",
+        "created_at": "2026-05-08T05:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052620344754930078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 8,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXCIXhzFJF",
+              "end": 63,
+              "expanded_url": "https://x.com/Grimheart_00/status/2052620344754930078/photo/1",
+              "media_key": "3_2052620334399102976",
+              "start": 40,
+              "url": "https://t.co/JXCIXhzFJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052620344754930078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 13336,
+          "like_count": 1851,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "ジェルばんは！\n#NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/JXCIXhzFJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 155,
+          "like_count": 2570,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 655
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T14:51:29.000Z",
+        "description": "我叫雪雫｜生理性别女｜isfp-t｜极度厌蠢｜精神状态不详｜自伤od｜只存在于互联网的生物 不会跟任何人线下哦｜",
+        "id": "1983184628208050176",
+        "location": "天國",
+        "name": "N ya🎀",
+        "pinned_tweet_id": "2048989534441136138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042294772828946433/gGNwxFyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 514,
+          "like_count": 2632,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 1845
+        },
+        "username": "Grimheart_00",
+        "verified": true
+      }
+    ]
+  }
+}

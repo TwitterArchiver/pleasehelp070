@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043842924085948416"
+      ],
+      "media_source_tweet_id": [
+        "2043842926141133135"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2044403286804193304",
+    "created_at": "2026-04-15T13:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044403286804193304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1540274772382289923",
+          "start": 3,
+          "username": "bwerryuwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dyQI9aLsEV",
+          "end": 49,
+          "expanded_url": "https://x.com/bwerryuwu/status/2043842926141133135/photo/1",
+          "media_key": "3_2043842924085948416",
+          "start": 26,
+          "url": "https://t.co/dyQI9aLsEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044403286804193304",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043842926141133135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bwerryuwu: iwant love https://t.co/dyQI9aLsEV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_2043842924085948416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0wT4rWsAAiuuP.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043842924085948416"
+          ],
+          "media_source_tweet_id": [
+            "2043842926141133135"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2044403286804193304",
+        "created_at": "2026-04-15T13:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044403286804193304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1540274772382289923",
+              "start": 3,
+              "username": "bwerryuwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyQI9aLsEV",
+              "end": 49,
+              "expanded_url": "https://x.com/bwerryuwu/status/2043842926141133135/photo/1",
+              "media_key": "3_2043842924085948416",
+              "start": 26,
+              "url": "https://t.co/dyQI9aLsEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044403286804193304",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043842926141133135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bwerryuwu: iwant love https://t.co/dyQI9aLsEV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043842924085948416"
+          ]
+        },
+        "author_id": "1540274772382289923",
+        "conversation_id": "2043842926141133135",
+        "created_at": "2026-04-14T00:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043842926141133135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyQI9aLsEV",
+              "end": 34,
+              "expanded_url": "https://x.com/bwerryuwu/status/2043842926141133135/photo/1",
+              "media_key": "3_2043842924085948416",
+              "start": 11,
+              "url": "https://t.co/dyQI9aLsEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043842926141133135",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 7936,
+          "like_count": 1343,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "iwant love https://t.co/dyQI9aLsEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "住院没有办法发帖/碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 137,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 441
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T10:05:07.000Z",
+        "description": "retarded foid  .nsfw/gore in art/ vocaloid, VNs and eroges //art @beuwuy (i post more art here tho)--- @ThalesJonga i love you",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "beuwuy"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "ThalesJonga"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/beuriuwu",
+                "end": 23,
+                "expanded_url": "https://vgen.co/beuriuwu",
+                "start": 0,
+                "url": "https://t.co/XQT5Sjb1hc"
+              }
+            ]
+          }
+        },
+        "id": "1540274772382289923",
+        "location": "8-18yr",
+        "name": "rotten bwerry 💀- VGEN COMMS OPEN",
+        "pinned_tweet_id": "2040254605058011622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043516238370852864/JTIBGwpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 3845,
+          "like_count": 54699,
+          "listed_count": 3,
+          "media_count": 1808,
+          "tweet_count": 29602
+        },
+        "url": "https://t.co/XQT5Sjb1hc",
+        "username": "bwerryuwu",
+        "verified": false
+      }
+    ]
+  }
+}

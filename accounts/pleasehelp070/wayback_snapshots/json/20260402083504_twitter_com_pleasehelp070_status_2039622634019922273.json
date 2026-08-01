@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039622634019922273",
+    "created_at": "2026-04-02T08:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039622634019922273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1661349504069804032",
+          "start": 3,
+          "username": "zhuoc2018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039622634019922273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039370831432912975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhuoc2018: 聊聊这两年来我刷推的感受\n最真实的感受就是 中推区抛开政治 负能量的占比高的超乎我的想象 而且几乎都是来自于未成年人\n吃药割手自杀和跨性别🏳️‍⚧️ 而评论区竟然还有一堆人对此出言讥讽 甚至截图发到墙内引导网友去攻击他人 我不知道为什么从小接受正常…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039622634019922273",
+        "created_at": "2026-04-02T08:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039622634019922273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1661349504069804032",
+              "start": 3,
+              "username": "zhuoc2018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039622634019922273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039370831432912975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhuoc2018: 聊聊这两年来我刷推的感受\n最真实的感受就是 中推区抛开政治 负能量的占比高的超乎我的想象 而且几乎都是来自于未成年人\n吃药割手自杀和跨性别🏳️‍⚧️ 而评论区竟然还有一堆人对此出言讥讽 甚至截图发到墙内引导网友去攻击他人 我不知道为什么从小接受正常…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661349504069804032",
+        "conversation_id": "2039370831432912975",
+        "created_at": "2026-04-01T15:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039370831432912975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039370831432912975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "聊聊这两年来我刷推的感受\n最真实的感受就是 中推区抛开政治 负能量的占比高的超乎我的想象 而且几乎都是来自于未成年人\n吃药割手自杀和跨性别🏳️‍⚧️ 而评论区竟然还有一堆人对此出言讥讽 甚至截图发到墙内引导网友去攻击他人 我不知道为什么从小接受正常教育的人竟然会说出这种话 尤其是我们还在每天强调社会主义人人平等\n我认为做人最基本的就是要学会尊重他人并且理解他人的苦难 尊重他人也尊重自己"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2379,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "聊聊这两年来我刷推的感受\n最真实的感受就是 中推区抛开政治 负能量的占比高的超乎我的想象 而且几乎都是来自于未成年人\n吃药割手自杀和跨性别🏳️‍⚧️ 而评论区竟然还有一堆人对此出言讥讽 甚至截图发到墙内引导网友去攻击他人 我不知道为什么从小接受正常教育的人竟然会说出这种话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "病み垢/不登校💊直fo🙇ASD&ADHD交流障碍 精神病@想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 101,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 151
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T12:32:54.000Z",
+        "description": "一个不可理喻的普通人 欢迎互fo 数码爱好者 乐子人 有点精神病 Never Settle\n你好 交个朋友",
+        "id": "1661349504069804032",
+        "location": "游戏热爱者",
+        "name": "𝒁𝒉𝒖𝒐 𝑾🍉",
+        "pinned_tweet_id": "2039370831432912975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038550370310623232/zvAoNJ_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 430,
+          "like_count": 1005,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 443
+        },
+        "username": "zhuoc2018",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039006399360061458",
+    "created_at": "2026-03-31T15:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039006399360061458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "828947309874417664",
+          "start": 3,
+          "username": "AsagiriMayumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039006399360061458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038644632905454050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsagiriMayumi: 我还想补充一个很多人可能忽略的点：\n在OD的时候，人的意识和判断是会被明显影响的。\n有时会出现一种“什么都无所谓了”“生死也不重要了”的感觉。\n但那种“看淡”，很多时候并不是真正的想法，\n而是状态本身带来的错觉。\n也正因为这样，有些人在那种…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039006399360061458",
+        "created_at": "2026-03-31T15:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039006399360061458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "828947309874417664",
+              "start": 3,
+              "username": "AsagiriMayumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039006399360061458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038644632905454050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsagiriMayumi: 我还想补充一个很多人可能忽略的点：\n在OD的时候，人的意识和判断是会被明显影响的。\n有时会出现一种“什么都无所谓了”“生死也不重要了”的感觉。\n但那种“看淡”，很多时候并不是真正的想法，\n而是状态本身带来的错觉。\n也正因为这样，有些人在那种…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "828947309874417664",
+        "conversation_id": "2038644632905454050",
+        "created_at": "2026-03-30T15:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038644632905454050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038644632905454050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 227,
+                "start": 222,
+                "tag": "心理健康"
+              },
+              {
+                "end": 235,
+                "start": 229,
+                "tag": "照顾好自己"
+              }
+            ]
+          },
+          "text": "我还想补充一个很多人可能忽略的点：\n在OD的时候，人的意识和判断是会被明显影响的。\n有时会出现一种“什么都无所谓了”“生死也不重要了”的感觉。\n但那种“看淡”，很多时候并不是真正的想法，\n而是状态本身带来的错觉。\n也正因为这样，有些人在那种状态里，\n会获得一种本不该有的“勇气”。\n如果你正处在这种状态里，\n请尽量不要在那一刻做任何决定。\n等自己清醒一点，再慢慢想。\n保护自己，是很重要的事。\n那一刻的你，不需要做决定，只需要先安全地待着。🤍\n#心理健康  #照顾好自己"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 971,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我还想补充一个很多人可能忽略的点：\n在OD的时候，人的意识和判断是会被明显影响的。\n有时会出现一种“什么都无所谓了”“生死也不重要了”的感觉。\n但那种“看淡”，很多时候并不是真正的想法，\n而是状态本身带来的错觉。\n也正因为这样，有些人在那种状态里，\n会获得一种本不该有的“勇气”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "不登校💊ASD&ADHD交流障碍 精神病@想交朋友🥺\nfakeame🌧️",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 105,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 120
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T12:43:34.000Z",
+        "description": "我与你感同身受",
+        "id": "828947309874417664",
+        "location": " Deutschland",
+        "name": "NuclearCake",
+        "pinned_tweet_id": "2027752059110400312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 610,
+          "like_count": 2333,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 2116
+        },
+        "username": "AsagiriMayumi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052983828751528332",
+    "created_at": "2026-05-09T05:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052983828751528332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1543751033490374662",
+          "start": 3,
+          "username": "ObserveDiary_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052983828751528332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052796681624883218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ObserveDiary_: 我发现，我看这个软件玩这些东西精神病就容易全面爆发，反正就是异常了嘛，因为我在这里打造了一个精神病茧房。虽然，我初心是为了让我的精神病人格可以有一个释放之处，但是我不能让他占据我，就算我本质很不正常很有病，我也不能放任自己那样了，我没资格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052983828751528332",
+        "created_at": "2026-05-09T05:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052983828751528332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1543751033490374662",
+              "start": 3,
+              "username": "ObserveDiary_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052983828751528332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052796681624883218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ObserveDiary_: 我发现，我看这个软件玩这些东西精神病就容易全面爆发，反正就是异常了嘛，因为我在这里打造了一个精神病茧房。虽然，我初心是为了让我的精神病人格可以有一个释放之处，但是我不能让他占据我，就算我本质很不正常很有病，我也不能放任自己那样了，我没资格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543751033490374662",
+        "conversation_id": "2052796681624883218",
+        "created_at": "2026-05-08T17:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052796681624883218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052796681624883218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现，我看这个软件玩这些东西精神病就容易全面爆发，反正就是异常了嘛，因为我在这里打造了一个精神病茧房。虽然，我初心是为了让我的精神病人格可以有一个释放之处，但是我不能让他占据我，就算我本质很不正常很有病，我也不能放任自己那样了，我没资格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 159,
+          "like_count": 2619,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 675
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "🏳️‍🌈enby/杂垢",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051344177783586816/0KHe0bIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 682,
+          "like_count": 15466,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 3064
+        },
+        "username": "ObserveDiary_",
+        "verified": false
+      }
+    ]
+  }
+}

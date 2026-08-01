@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052700247286292480"
+      ],
+      "media_source_tweet_id": [
+        "2052700252302643331"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052953249104498854",
+    "created_at": "2026-05-09T03:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052953249104498854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786001369587187712",
+          "start": 3,
+          "username": "quachill0312"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ehaUkFqppQ",
+          "end": 41,
+          "expanded_url": "https://x.com/quachill0312/status/2052700252302643331/photo/1",
+          "media_key": "3_2052700247286292480",
+          "start": 18,
+          "url": "https://t.co/ehaUkFqppQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052953249104498854",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052700252302643331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quachill0312: https://t.co/ehaUkFqppQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "3_2052700247286292480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyn_83bIAAGVpz.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052700247286292480"
+          ],
+          "media_source_tweet_id": [
+            "2052700252302643331"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052953249104498854",
+        "created_at": "2026-05-09T03:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052953249104498854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786001369587187712",
+              "start": 3,
+              "username": "quachill0312"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehaUkFqppQ",
+              "end": 41,
+              "expanded_url": "https://x.com/quachill0312/status/2052700252302643331/photo/1",
+              "media_key": "3_2052700247286292480",
+              "start": 18,
+              "url": "https://t.co/ehaUkFqppQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052953249104498854",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052700252302643331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quachill0312: https://t.co/ehaUkFqppQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052700247286292480"
+          ]
+        },
+        "author_id": "1786001369587187712",
+        "conversation_id": "2052700252302643331",
+        "created_at": "2026-05-08T10:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052700252302643331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehaUkFqppQ",
+              "end": 23,
+              "expanded_url": "https://x.com/quachill0312/status/2052700252302643331/photo/1",
+              "media_key": "3_2052700247286292480",
+              "start": 0,
+              "url": "https://t.co/ehaUkFqppQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052700252302643331",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2825,
+          "like_count": 301,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ehaUkFqppQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 153,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 634
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T11:54:56.000Z",
+        "description": "社会不適合者です｜FA #く絵ちる｜リンクまとめhttps://t.co/jy1wGSpvj1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "く絵ちる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/quachill",
+                "end": 47,
+                "expanded_url": "https://lit.link/quachill",
+                "start": 24,
+                "url": "https://t.co/jy1wGSpvj1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@quachill?si=9…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@quachill?si=9wpK4SC6fQ0VnZ2O",
+                "start": 0,
+                "url": "https://t.co/y5ZiCo5s7K"
+              }
+            ]
+          }
+        },
+        "id": "1786001369587187712",
+        "name": "くあちる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786019299037163520/YyEX1e00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 11,
+          "like_count": 5082,
+          "listed_count": 6,
+          "media_count": 1012,
+          "tweet_count": 3297
+        },
+        "url": "https://t.co/y5ZiCo5s7K",
+        "username": "quachill0312",
+        "verified": false
+      }
+    ]
+  }
+}

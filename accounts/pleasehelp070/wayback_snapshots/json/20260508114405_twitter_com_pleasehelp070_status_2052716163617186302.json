@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2052533436385235082",
+    "created_at": "2026-05-08T11:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052716163617186302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688556439865090048",
+          "start": 0,
+          "username": "ysn42231385235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052716163617186302",
+    "in_reply_to_user_id": "1688556439865090048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052693442787262581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn42231385235 这个好喝嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2052533436385235082",
+        "created_at": "2026-05-08T11:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052716163617186302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688556439865090048",
+              "start": 0,
+              "username": "ysn42231385235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052716163617186302",
+        "in_reply_to_user_id": "1688556439865090048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052693442787262581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn42231385235 这个好喝嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688556439865090048",
+        "conversation_id": "2052533436385235082",
+        "created_at": "2026-05-08T10:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052693442787262581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052693442787262581",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052533436385235082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pleasehelp070 苹果c冰茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 144,
+          "like_count": 2219,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 577
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "Vocaloid丨音ゲー好き丨OD丨ヲタ芸初心者                                         \n男的，上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子，我不为此账号任何言论负责，切勿当真",
+        "id": "1688556439865090048",
+        "location": "想认识更多朋友 互fo欢迎",
+        "name": "月誓",
+        "pinned_tweet_id": "2026775867977007254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048416546402574336/Jwc1h6VC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 443,
+          "like_count": 6673,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1754
+        },
+        "username": "ysn42231385235",
+        "verified": false
+      }
+    ]
+  }
+}

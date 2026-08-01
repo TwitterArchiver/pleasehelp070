@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2040834595055456763",
+    "created_at": "2026-04-05T16:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040834595055456763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790319108875227136",
+          "start": 3,
+          "username": "needygirl_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040834595055456763",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 459
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040459378600349703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_o: ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n꒦꒷ ✝︎ ❥ ⚡イベント発表②⚡ ❥ ✝︎ ꒷꒦\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n／\n📢NEEDY GIRL OVERDOSE\n　 POP-UP STORE in 原宿 開催決定！\n＼\n\n2026年GW、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2040053615084367872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-59Ena8AAW5bp.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2040834595055456763",
+        "created_at": "2026-04-05T16:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040834595055456763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790319108875227136",
+              "start": 3,
+              "username": "needygirl_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040834595055456763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040459378600349703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_o: ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n꒦꒷ ✝︎ ❥ ⚡イベント発表②⚡ ❥ ✝︎ ꒷꒦\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n／\n📢NEEDY GIRL OVERDOSE\n　 POP-UP STORE in 原宿 開催決定！\n＼\n\n2026年GW、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040053615084367872"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2040459378600349703",
+        "created_at": "2026-04-04T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040459378600349703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCoNdZM4ce",
+              "end": 191,
+              "expanded_url": "https://x.com/needygirl_o/status/2040459378600349703/photo/1",
+              "media_key": "3_2040053615084367872",
+              "start": 168,
+              "url": "https://t.co/WCoNdZM4ce"
+            },
+            {
+              "display_url": "x.com/needygirl_o/st…",
+              "end": 215,
+              "expanded_url": "https://twitter.com/needygirl_o/status/2039719515769245966",
+              "start": 192,
+              "url": "https://t.co/d4hFOt74kV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040459378600349703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 199,
+                "start": 194,
+                "tag": "ニディガ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 192,
+                "id": "1104171638319341569",
+                "start": 179,
+                "username": "Shinanashina"
+              }
+            ]
+          },
+          "text": "◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n꒦꒷ ✝︎ ❥ ⚡イベント発表②⚡ ❥ ✝︎ ꒷꒦\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n／\n📢NEEDY GIRL OVERDOSE\n　 POP-UP STORE in 原宿 開催決定！\n＼\n\n2026年GW、東京・原宿にてポップアップストアを開催します✨\n詳細は今後公開予定です。続報をお楽しみに！\n\nイラスト：しな先生（@Shinanashina）\n#ニディガ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 80114,
+          "like_count": 2372,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039719515769245966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n꒦꒷ ✝︎ ❥ ⚡イベント発表②⚡ ❥ ✝︎ ꒷꒦\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n／\n📢NEEDY GIRL OVERDOSE\n　 POP-UP STORE in 原宿 開催決定！\n＼\n\n2026年GW、東京・原宿にてポップアップストアを開催します✨\n詳細は今後公開予定です。続報をお楽しみに！ https://t.co/WCoNdZM4ce https://t.co/d4hFOt74kV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040828860678443008/ZdlxHUyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 166,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 371
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "pinned_tweet_id": "2031302651246416300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59443,
+          "following_count": 8,
+          "like_count": 21,
+          "listed_count": 66,
+          "media_count": 685,
+          "tweet_count": 1105
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      }
+    ]
+  }
+}

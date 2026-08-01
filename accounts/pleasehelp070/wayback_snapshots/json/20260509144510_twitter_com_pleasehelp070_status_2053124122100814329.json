@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2053124122100814329",
+    "created_at": "2026-05-09T14:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053124122100814329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2025852742707945473",
+          "start": 3,
+          "username": "kikisuki111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053124122100814329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053122406135591409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kikisuki111: 每天都很想死 这个精神病我就放任它去吧 又不敢自杀同时又想死的日子可能会在某一天终结吧\n可是我现在要自杀的话考虑的太多了，，吞药会不会被救 跳楼会不会死不了 我如果没死成瘫痪了我该怎么办我一个人什么都做不了我负担不起自杀失败的结果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2053124122100814329",
+        "created_at": "2026-05-09T14:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053124122100814329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2025852742707945473",
+              "start": 3,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053124122100814329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053122406135591409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kikisuki111: 每天都很想死 这个精神病我就放任它去吧 又不敢自杀同时又想死的日子可能会在某一天终结吧\n可是我现在要自杀的话考虑的太多了，，吞药会不会被救 跳楼会不会死不了 我如果没死成瘫痪了我该怎么办我一个人什么都做不了我负担不起自杀失败的结果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2053122406135591409",
+        "created_at": "2026-05-09T14:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053122406135591409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053122406135591409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每天都很想死 这个精神病我就放任它去吧 又不敢自杀同时又想死的日子可能会在某一天终结吧\n可是我现在要自杀的话考虑的太多了，，吞药会不会被救 跳楼会不会死不了 我如果没死成瘫痪了我该怎么办我一个人什么都做不了我负担不起自杀失败的结果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 166,
+          "like_count": 2949,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 752
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 412,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 703
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

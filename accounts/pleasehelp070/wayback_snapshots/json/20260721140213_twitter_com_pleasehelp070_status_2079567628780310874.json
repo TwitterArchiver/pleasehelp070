@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2079283551846244609",
+    "created_at": "2026-07-21T14:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079567628780310874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999153024019869696",
+          "start": 0,
+          "username": "KKKaoru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079567628780310874",
+    "in_reply_to_user_id": "1999153024019869696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079290098953396350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@KKKaoru_ 宝宝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2079283551846244609",
+        "created_at": "2026-07-21T14:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079567628780310874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999153024019869696",
+              "start": 0,
+              "username": "KKKaoru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079567628780310874",
+        "in_reply_to_user_id": "1999153024019869696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079290098953396350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@KKKaoru_ 宝宝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999153024019869696",
+        "conversation_id": "2079283551846244609",
+        "created_at": "2026-07-20T19:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079290098953396350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986291014370545665",
+              "start": 0,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079290098953396350",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079283551846244609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@pleasehelp070 宝宝🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 164,
+          "like_count": 3904,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 929
+        },
+        "url": "",
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T16:25:44.000Z",
+        "description": "如果你认识的我叫何鸿，那我很抱歉 / 实名李彦齐 山东人 / 两个大傻逼@_Mizutani__ @bing2000100830 / 骚逼@pillsandblood",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "_Mizutani__"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "bing2000100830"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "pillsandblood"
+              }
+            ]
+          }
+        },
+        "id": "1999153024019869696",
+        "name": "Kaoru",
+        "pinned_tweet_id": "2049167826510823759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078976384731656192/nB0E2Yd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 33,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "KKKaoru_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039662209693782017"
+      ],
+      "media_source_tweet_id": [
+        "2039662496856805787"
+      ]
+    },
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039736230590746627",
+    "created_at": "2026-04-02T16:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039736230590746627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915165497470939136",
+          "start": 3,
+          "username": "maus_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X2umepPrqn",
+          "end": 64,
+          "expanded_url": "https://x.com/maus_chan/status/2039662496856805787/video/1",
+          "media_key": "13_2039662209693782017",
+          "start": 41,
+          "url": "https://t.co/X2umepPrqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039736230590746627",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039662496856805787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maus_chan: P-chan loves IFA wartburg https://t.co/X2umepPrqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10366,
+        "height": 1080,
+        "media_key": "13_2039662209693782017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039662209693782017/img/C0PMXElOPsHbczYQ.jpg",
+        "public_metrics": {
+          "view_count": 583
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039662209693782017/vid/avc1/1920x1080/aJghwhHT238SV5qX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039662209693782017/vid/avc1/480x270/SkZxIWxacLvYD-7Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039662209693782017/vid/avc1/1280x720/mMqquIlv1zsrAgRA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039662209693782017/pl/7965HUt-7f2VNuZV.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039662209693782017/vid/avc1/640x360/mCDqdJs3l0QdZ6OG.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039662209693782017"
+          ],
+          "media_source_tweet_id": [
+            "2039662496856805787"
+          ]
+        },
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039736230590746627",
+        "created_at": "2026-04-02T16:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039736230590746627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915165497470939136",
+              "start": 3,
+              "username": "maus_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2umepPrqn",
+              "end": 64,
+              "expanded_url": "https://x.com/maus_chan/status/2039662496856805787/video/1",
+              "media_key": "13_2039662209693782017",
+              "start": 41,
+              "url": "https://t.co/X2umepPrqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039736230590746627",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039662496856805787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maus_chan: P-chan loves IFA wartburg https://t.co/X2umepPrqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039662209693782017"
+          ]
+        },
+        "author_id": "1915165497470939136",
+        "conversation_id": "2039662496856805787",
+        "created_at": "2026-04-02T11:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039662496856805787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2umepPrqn",
+              "end": 49,
+              "expanded_url": "https://x.com/maus_chan/status/2039662496856805787/video/1",
+              "media_key": "13_2039662209693782017",
+              "start": 26,
+              "url": "https://t.co/X2umepPrqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039662496856805787",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1541,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "P-chan loves IFA wartburg https://t.co/X2umepPrqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 145,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 202
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T22:07:10.000Z",
+        "description": "⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔\ncute loli imouto princess \n---------------------------\nfollow me if you wanna see me dressed up ehe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/yuki_yuyu",
+                "end": 23,
+                "expanded_url": "https://throne.com/yuki_yuyu",
+                "start": 0,
+                "url": "https://t.co/OmjuWE1gFo"
+              }
+            ]
+          }
+        },
+        "id": "1915165497470939136",
+        "location": "MDNI",
+        "name": "⊹⊱•••《 KIA 》•••⊰⊹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036961075933872128/pLRUdong_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8712,
+          "following_count": 851,
+          "like_count": 12469,
+          "listed_count": 10,
+          "media_count": 1681,
+          "tweet_count": 20565
+        },
+        "url": "https://t.co/OmjuWE1gFo",
+        "username": "maus_chan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2038667273918120088",
+    "created_at": "2026-03-31T14:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038984992559366177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1182989706948165632",
+          "start": 0,
+          "username": "dustthepoet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038984992559366177",
+    "in_reply_to_user_id": "1182989706948165632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038667273918120088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dustthepoet 内心os"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2038667273918120088",
+        "created_at": "2026-03-31T14:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038984992559366177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182989706948165632",
+              "start": 0,
+              "username": "dustthepoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038984992559366177",
+        "in_reply_to_user_id": "1182989706948165632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038667273918120088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dustthepoet 内心os"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1182989706948165632",
+        "conversation_id": "2038667273918120088",
+        "created_at": "2026-03-30T17:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038667273918120088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038667273918120088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5180,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要砍死所有在墙内发od的傻逼我操死你们的妈啊明天就不能网购普瑞了唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "💊ASD&ADHD交流障碍 有精神病@想交朋友🥺",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 96,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 112
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T12:01:46.000Z",
+        "description": "I cannot live without you @evelyn_notfound",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "evelyn_notfound"
+              }
+            ]
+          }
+        },
+        "id": "1182989706948165632",
+        "location": "Your heart",
+        "name": "你有在药效中吗",
+        "pinned_tweet_id": "1911666309072408929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022750231763521538/ecNjpZsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 391,
+          "like_count": 7365,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2087
+        },
+        "username": "dustthepoet",
+        "verified": false
+      }
+    ]
+  }
+}

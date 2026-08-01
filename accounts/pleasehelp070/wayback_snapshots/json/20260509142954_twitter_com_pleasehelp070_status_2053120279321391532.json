@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2053120279321391532",
+    "created_at": "2026-05-09T14:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053120279321391532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053120279321391532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053097667157475372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 自杀干预科普帖，有问题的在下面留言，如何确定人是否昏迷，服药时间，如何快速定位位置，如何快速确定当事人状态，如何推断服药的危险性，最佳抢救时间等等，有问题的留言，等我回复，因为今天碰到一个做自杀干预的，什么都不会，只会着急，或者有相关问题请转发…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 748,
+        "media_key": "3_2053097662220746752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4Rci3aQAAo1fS.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2053120279321391532",
+        "created_at": "2026-05-09T14:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053120279321391532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053120279321391532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053097667157475372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 自杀干预科普帖，有问题的在下面留言，如何确定人是否昏迷，服药时间，如何快速定位位置，如何快速确定当事人状态，如何推断服药的危险性，最佳抢救时间等等，有问题的留言，等我回复，因为今天碰到一个做自杀干预的，什么都不会，只会着急，或者有相关问题请转发…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053097662220746752"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053097667157475372",
+        "created_at": "2026-05-09T13:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053097667157475372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBmZRMTNXf",
+              "end": 155,
+              "expanded_url": "https://x.com/neko0202002/status/2053097667157475372/photo/1",
+              "media_key": "3_2053097662220746752",
+              "start": 132,
+              "url": "https://t.co/xBmZRMTNXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053097667157475372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 424,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自杀干预科普帖，有问题的在下面留言，如何确定人是否昏迷，服药时间，如何快速定位位置，如何快速确定当事人状态，如何推断服药的危险性，最佳抢救时间等等，有问题的留言，等我回复，因为今天碰到一个做自杀干预的，什么都不会，只会着急，或者有相关问题请转发然后在本帖下面留言 https://t.co/xBmZRMTNXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 166,
+          "like_count": 2923,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 746
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 959,
+          "like_count": 1566,
+          "listed_count": 2,
+          "media_count": 1383,
+          "tweet_count": 3874
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

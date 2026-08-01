@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039979586998714655",
+    "created_at": "2026-04-03T08:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039980055246635336"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039980055246635336",
+    "in_reply_to_user_id": "1986291014370545665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039979586998714655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会优先回关同好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039979586998714655",
+        "created_at": "2026-04-03T08:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039980055246635336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039980055246635336",
+        "in_reply_to_user_id": "1986291014370545665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039979586998714655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会优先回关同好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039979586998714655",
+        "created_at": "2026-04-03T08:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039979586998714655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pleasehelp070/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/pleasehelp070/status/2039757612854751364",
+              "start": 52,
+              "url": "https://t.co/WwoD0Ztdef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039979586998714655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039757612854751364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道这一条为什么会这么多推流，，我会根据账号主页小心分别的www单纯看黄的和发恶俗帖子的请不要关注我 https://t.co/WwoD0Ztdef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 165,
+          "like_count": 1058,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 228
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

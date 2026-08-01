@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2039890500090728451",
+    "created_at": "2026-04-03T07:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039975292186616238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2025838696294227968",
+          "start": 0,
+          "username": "Xilne_cc"
+        },
+        {
+          "end": 21,
+          "id": "1823160336691982336",
+          "start": 10,
+          "username": "Hozheganma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039975292186616238",
+    "in_reply_to_user_id": "2025838696294227968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039890500090728451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xilne_cc @Hozheganma 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039890500090728451",
+        "created_at": "2026-04-03T07:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039975292186616238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2025838696294227968",
+              "start": 0,
+              "username": "Xilne_cc"
+            },
+            {
+              "end": 21,
+              "id": "1823160336691982336",
+              "start": 10,
+              "username": "Hozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039975292186616238",
+        "in_reply_to_user_id": "2025838696294227968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039890500090728451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xilne_cc @Hozheganma 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025838696294227968",
+        "conversation_id": "2039890500090728451",
+        "created_at": "2026-04-03T02:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039890500090728451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039890500090728451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1158,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "200fo啦！感谢大家的支持和喜欢，来个穷人抽奖吧！\n一等奖：普瑞巴林一盒（折现18.8）×1\n二等奖：愈美片一盒（折现8.8）×1\n三等奖：5.2r×3\n抽奖方式：AI抽奖\n参与方式：关注点赞评论转发\n໒꒰ྀི ´ ꒳ ` ྀི꒱১小冬会一直在这里陪着大家哦！私信一直开放的，欢迎来聊天呀！\n开奖时间：4月6日下午4点整"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/想交朋友🥺 是互联网天使✝️ 请和我互动🙇💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 158,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 218
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T07:42:57.000Z",
+        "description": "06‖自伤‖oder‖infp‖查成分互fo‖互fo私信‖bdsm‖缚绳‖未婚夫：@wys250smsb（反正在我結婚之前是不會鼠掉的啦！放心交友，私信一直开放）🚪详情私信‖提问：https://t.co/fyBUnrwbOs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "wys250smsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lindong67314",
+                "end": 113,
+                "expanded_url": "https://ngl.link/lindong67314",
+                "start": 90,
+                "url": "https://t.co/fyBUnrwbOs"
+              }
+            ]
+          }
+        },
+        "id": "2025838696294227968",
+        "name": "凜冬",
+        "pinned_tweet_id": "2038929386372759978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 173,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 313
+        },
+        "username": "Xilne_cc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "09高中在读/已经滚出精卫。。/oder💊/自伤🤕/友跨/durg&set/同类互fo/现实与网络的反差人/                 \n匿名聊天↓（话说真的有人来么）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 0,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "天空",
+        "name": "沫依#Ng♓️（互fo喵）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 328,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/cNzWslTT8R",
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

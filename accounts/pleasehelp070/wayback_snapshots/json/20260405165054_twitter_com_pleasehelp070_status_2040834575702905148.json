@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2040834575702905148",
+    "created_at": "2026-04-05T16:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040834575702905148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51904755",
+          "start": 3,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040834575702905148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040572642852585480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Morris_LT: 所以长久的关系本质上都是：两个有良心的人，在互相报恩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2040834575702905148",
+        "created_at": "2026-04-05T16:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040834575702905148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51904755",
+              "start": 3,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040834575702905148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040572642852585480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Morris_LT: 所以长久的关系本质上都是：两个有良心的人，在互相报恩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51904755",
+        "conversation_id": "2040572642852585480",
+        "created_at": "2026-04-04T23:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T00:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040572642852585480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040572642852585480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 50392,
+          "like_count": 1345,
+          "quote_count": 22,
+          "reply_count": 34,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "所以长久的关系本质上都是：两个有良心的人，在互相报恩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊メンヘラ/双极性障碍/交流障碍社交苦手🙇实在没精力/想成为互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040828860678443008/ZdlxHUyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 166,
+          "like_count": 1628,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 371
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "2036254776665710817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196206,
+          "following_count": 412,
+          "like_count": 53755,
+          "listed_count": 1101,
+          "media_count": 7097,
+          "tweet_count": 72573
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

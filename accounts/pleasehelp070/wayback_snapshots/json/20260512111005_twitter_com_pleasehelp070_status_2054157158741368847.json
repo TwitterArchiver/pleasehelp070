@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2054157158741368847",
+    "created_at": "2026-05-12T11:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054157158741368847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729436345913995265",
+          "start": 3,
+          "username": "p1NRed1_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054157158741368847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909930064051134531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p1NRed1_A: 哈喽大家好我是咕咚我喜欢听电子音乐速核硬核psycore吧啦吧啦我还听日摇我爱坂本慎太郎我还喜欢九维虽然我不咋听说唱可以和我聊天吗我不是很懂音乐其实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2054157158741368847",
+        "created_at": "2026-05-12T11:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054157158741368847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729436345913995265",
+              "start": 3,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054157158741368847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909930064051134531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p1NRed1_A: 哈喽大家好我是咕咚我喜欢听电子音乐速核硬核psycore吧啦吧啦我还听日摇我爱坂本慎太郎我还喜欢九维虽然我不咋听说唱可以和我聊天吗我不是很懂音乐其实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "1909930064051134531",
+        "created_at": "2025-04-09T11:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T12:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909930064051134531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909930064051134531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21423,
+          "like_count": 76,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "哈喽大家好我是咕咚我喜欢听电子音乐速核硬核psycore吧啦吧啦我还听日摇我爱坂本慎太郎我还喜欢九维虽然我不咋听说唱可以和我聊天吗我不是很懂音乐其实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 164,
+          "like_count": 3130,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 789
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 564,
+          "like_count": 1658,
+          "listed_count": 3,
+          "media_count": 351,
+          "tweet_count": 6191
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

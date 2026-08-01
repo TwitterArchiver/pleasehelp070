@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1986291014370545665",
+    "conversation_id": "2054156672856432806",
+    "created_at": "2026-05-12T11:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054156672856432806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1543751033490374662",
+          "start": 3,
+          "username": "ObserveDiary_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054156672856432806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054058570430521712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ObserveDiary_: 我是真觉得恁小圈子大部分人天天在信息茧房里耍药然后觉得自己就是什么精神病世界中心，一群清冷受谁爱惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2054156672856432806",
+        "created_at": "2026-05-12T11:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054156672856432806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1543751033490374662",
+              "start": 3,
+              "username": "ObserveDiary_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054156672856432806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054058570430521712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ObserveDiary_: 我是真觉得恁小圈子大部分人天天在信息茧房里耍药然后觉得自己就是什么精神病世界中心，一群清冷受谁爱惹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543751033490374662",
+        "conversation_id": "2054058570430521712",
+        "created_at": "2026-05-12T04:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054058570430521712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054058570430521712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我是真觉得恁小圈子大部分人天天在信息茧房里耍药然后觉得自己就是什么精神病世界中心，一群清冷受谁爱惹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "一只互联网幽灵\nmtx💊社交苦手/梯子不稳定大概率失联/收不到信息",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2052758944377163823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 164,
+          "like_count": 3119,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 785
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "🗑️杂垢",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051344177783586816/0KHe0bIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 673,
+          "like_count": 15792,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 3159
+        },
+        "username": "ObserveDiary_",
+        "verified": false
+      }
+    ]
+  }
+}
